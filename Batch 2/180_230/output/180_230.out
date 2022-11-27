@@ -1,0 +1,163 @@
+PALSfit - Version 3.251 26-apr-2022 - Licensed to David Keeble
+Input file: H:\PALSfit3\Project\Batch 2\180_230\180_230.pfc
+P O S I T R O N F I T . Version 3.251     Job time 17:14:52.90 25-NOV-22
+************************************************************************
+00001 Untitled 15:20:38.65 25-NOV-22
+in file: .\180_230.dat
+************************************************************************
+Dataset 1
+
+Time scale   ns/channel       :   0.005000
+Area range   starts in ch     1 and ends in ch   10000
+Fit range    starts in ch  1367 and ends in ch    8284
+
+----------------- I n i t i a l    P a r a m e t e r s -----------------
+Resolution function:
+
+FWHM (ns)           :    0.2132    0.1502    0.2657
+Intensities (%)     :   80.0000   10.0000   10.0000
+Shifts (ns)         :    0.0000   -0.0050    0.0170
+
+Time-zero (ch.no)   : 1404.0000G
+
+Lifetimes (ns)      :    0.1000G   0.5000G
+
+
+----------------- N o  S o u r c e  C o r r e c t i o n ----------------
+
+####################### F i n a l  R e s u l t s #######################
+Dataset 1
+
+Convergence obtained after 18 iterations
+Chi-square =      7442.36  with 6912 degrees of freedom
+Reduced chi-square = chi-square/dof =    1.077  with std deviation 0.017
+Significance of imperfect model = 100.00 %
+
+Lifetimes (ns)      :    0.1805    0.2244
+Std deviations      :    0.0044    0.0125
+
+Intensities (%)     :   74.9378   25.0622
+Std deviations      :   14.4738   14.4738
+
+Mean lifetime(ns)   :    0.1915
+Std deviation       :    0.0001
+
+Background (counts/channel)   :     8.5002
+             Std deviation    :     0.0352
+
+Time-zero (channel no.)       :  1400.0055
+             Std deviation    :     0.0230
+
+Total area   from fit         : 5.73507E+06     from table : 5.73500E+06
+
+######################### P o s i t r o n F i t ########################
+
+PALSfit - Version 3.251 26-apr-2022 - Licensed to David Keeble
+Input file: H:\PALSfit3\Project\Batch 2\180_230\180_230.pfc
+P O S I T R O N F I T . Version 3.251     Job time 17:14:53.27 25-NOV-22
+************************************************************************
+00002 Untitled 15:20:39.52 25-NOV-22
+in file: .\180_230.dat
+************************************************************************
+Dataset 2
+
+Time scale   ns/channel       :   0.005000
+Area range   starts in ch     1 and ends in ch   10000
+Fit range    starts in ch  1367 and ends in ch    8284
+
+----------------- I n i t i a l    P a r a m e t e r s -----------------
+Resolution function:
+
+FWHM (ns)           :    0.2132    0.1502    0.2657
+Intensities (%)     :   80.0000   10.0000   10.0000
+Shifts (ns)         :    0.0000   -0.0050    0.0170
+
+Time-zero (ch.no)   : 1404.0000G
+
+Lifetimes (ns)      :    0.1000G   0.5000G
+
+
+----------------- N o  S o u r c e  C o r r e c t i o n ----------------
+
+####################### F i n a l  R e s u l t s #######################
+Dataset 2
+
+Convergence obtained after 22 iterations
+Chi-square =      7398.74  with 6912 degrees of freedom
+Reduced chi-square = chi-square/dof =    1.070  with std deviation 0.017
+Significance of imperfect model = 100.00 %
+
+Lifetimes (ns)      :    0.1816    0.2209
+Std deviations      :    0.0085    0.0084
+
+Intensities (%)     :   50.8249   49.1751
+Std deviations      :   21.1971   21.1971
+
+Mean lifetime(ns)   :    0.2009
+Std deviation       :    0.0001
+
+Background (counts/channel)   :     8.4970
+             Std deviation    :     0.0352
+
+Time-zero (channel no.)       :  1400.0064
+             Std deviation    :     0.0242
+
+Total area   from fit         : 5.73453E+06     from table : 5.73500E+06
+
+######################### P o s i t r o n F i t ########################
+
+PALSfit - Version 3.251 26-apr-2022 - Licensed to David Keeble
+Input file: H:\PALSfit3\Project\Batch 2\180_230\180_230.pfc
+P O S I T R O N F I T . Version 3.251     Job time 17:14:53.70 25-NOV-22
+************************************************************************
+00003 Untitled 15:20:40.33 25-NOV-22
+in file: .\180_230.dat
+************************************************************************
+Dataset 3
+
+Time scale   ns/channel       :   0.005000
+Area range   starts in ch     1 and ends in ch   10000
+Fit range    starts in ch  1367 and ends in ch    8284
+
+----------------- I n i t i a l    P a r a m e t e r s -----------------
+Resolution function:
+
+FWHM (ns)           :    0.2132    0.1502    0.2657
+Intensities (%)     :   80.0000   10.0000   10.0000
+Shifts (ns)         :    0.0000   -0.0050    0.0170
+
+Time-zero (ch.no)   : 1404.0000G
+
+Lifetimes (ns)      :    0.1000G   0.5000G
+
+
+----------------- N o  S o u r c e  C o r r e c t i o n ----------------
+
+####################### F i n a l  R e s u l t s #######################
+Dataset 3
+
+Convergence obtained after 10 iterations
+Chi-square =      7177.85  with 6912 degrees of freedom
+Reduced chi-square = chi-square/dof =    1.038  with std deviation 0.017
+Significance of imperfect model =  98.74 %
+
+Lifetimes (ns)      :    0.1872    0.2664
+Std deviations      :    0.0012    0.0346
+
+Intensities (%)     :   96.9049    3.0951
+Std deviations      :    2.7598    2.7598
+
+Mean lifetime(ns)   :    0.1896
+Std deviation       :    0.0001
+
+Background (counts/channel)   :     8.5414
+             Std deviation    :     0.0355
+
+Time-zero (channel no.)       :  1399.9838
+             Std deviation    :     0.0209
+
+Total area   from fit         : 5.73551E+06     from table : 5.73500E+06
+
+######################### P o s i t r o n F i t ########################
+
+Time for this job:     1.06 seconds.

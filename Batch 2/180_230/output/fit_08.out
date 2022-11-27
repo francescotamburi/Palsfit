@@ -1,0 +1,59 @@
+PALSfit - Version 3.251 26-apr-2022 - Licensed to David Keeble
+Input file: H:\PALSfit3\Project\Batch 2\180_230\fit_08.tmp
+
+Iteration cycle no  1
+ Sign excursion
+
+P O S I T R O N F I T . Version 3.251     Job time 15:06:39.25 25-NOV-22
+************************************************************************
+00001 Untitled 00:06:27.67 23-NOV-22
+in file: H:\PALSfit3\Project\Batch1\180_220_20_80\180_220_20_80.dat
+************************************************************************
+Dataset 1
+
+Time scale   ns/channel       :   0.020000
+Area range   starts in ch     1 and ends in ch   10000
+Fit range    starts in ch  1368 and ends in ch    8284
+
+----------------- I n i t i a l    P a r a m e t e r s -----------------
+Resolution function:
+
+FWHM (ns)           :    0.2132    0.1502    0.2657
+Intensities (%)     :   80.0000   10.0000   10.0000
+Shifts (ns)         :    0.0000   -0.0050    0.0170
+
+Time-zero (ch.no)   : 1404.0000G
+
+Lifetimes (ns)      :    0.1000G   0.5000G
+
+
+----------------- N o  S o u r c e  C o r r e c t i o n ----------------
+
+####################### F i n a l  R e s u l t s #######################
+Dataset 1
+
+Convergence obtained after 32 iterations
+Chi-square =    541118.11  with 6911 degrees of freedom
+Reduced chi-square = chi-square/dof =   78.298  with std deviation 0.017
+Significance of imperfect model = 100.00 %
+
+Lifetimes (ns)      :    1.2855    1.2858
+Std deviations      :    0.0000    0.0000
+
+Intensities (%)     :99790.2665**********
+Std deviations      :   60.9172   60.9172
+
+Mean lifetime(ns)   :    1.0151
+Std deviation       :    0.0005
+
+Background (counts/channel)   :     8.9488
+             Std deviation    :     0.0352
+
+Time-zero (channel no.)       :  1395.5237
+             Std deviation    :     0.0090
+
+Total area   from fit         : 5.17368E+06     from table : 5.73500E+06
+
+######################### P o s i t r o n F i t ########################
+
+Time for this job:     0.70 seconds.

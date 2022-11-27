@@ -1,0 +1,51 @@
+P O S I T R O N F I T . Version 3.251     JOB TIME 14:53:23.33 25-NOV-22
+************************************************************************
+Dataset 1
+POSITRONFIT DATA BLOCK 2: SPECTRUM                                              
+     10000
+(10I8)                                                                                                                  
+.\180_230.dat
+00004  14:23:16.01 25-NOV-22                                                    
+EXTERNAL
+************************* P a r a m e t e r s **************************
+Time scale   ns/channel       :   0.020000
+Area range   starts in ch     1 and ends in ch   10000
+Fit range    starts in ch  1367 and ends in ch    8284
+Background (Counts/channel)   :     8.5996
+Time-zero (channel no.)       :  1380.3173
+Number of    Lifetimes        :     2
+************************************************************************
+P O S I T R O N F I T . Version 3.251     JOB TIME 14:53:23.65 25-NOV-22
+************************************************************************
+Dataset 2
+POSITRONFIT DATA BLOCK 2: SPECTRUM                                              
+     10000
+(10I8)                                                                                                                  
+.\180_230.dat
+00005  14:23:16.80 25-NOV-22                                                    
+EXTERNAL
+************************* P a r a m e t e r s **************************
+Time scale   ns/channel       :   0.020000
+Area range   starts in ch     1 and ends in ch   10000
+Fit range    starts in ch  1367 and ends in ch    8284
+Background (Counts/channel)   :     8.6101
+Time-zero (channel no.)       :  1380.1132
+Number of    Lifetimes        :     2
+************************************************************************
+P O S I T R O N F I T . Version 3.251     JOB TIME 14:53:23.96 25-NOV-22
+************************************************************************
+Dataset 3
+POSITRONFIT DATA BLOCK 2: SPECTRUM                                              
+     10000
+(10I8)                                                                                                                  
+.\180_230.dat
+00006  14:23:17.54 25-NOV-22                                                    
+EXTERNAL
+************************* P a r a m e t e r s **************************
+Time scale   ns/channel       :   0.020000
+Area range   starts in ch     1 and ends in ch   10000
+Fit range    starts in ch  1367 and ends in ch    8284
+Background (Counts/channel)   :     8.6317
+Time-zero (channel no.)       :  1380.4455
+Number of    Lifetimes        :     2
+************************************************************************
