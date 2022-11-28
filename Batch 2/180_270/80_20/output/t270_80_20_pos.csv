@@ -1,0 +1,2 @@
+Dataset  ;Spectrum file;ID       ;Time/ch  ;Fit min  ;Fit max  ;Chi-sqr/x;Std dev  ;Lifet-1  ;Std dev  ;Sigma-1  ;Std dev  ;Itens-1  ;Std dev  ;Lifet-2  ;Std dev  ;Sigma-2  ;Std dev  ;Itens-2  ;Std dev  ;LT_mean  ;Std dev  ;Bkg      ;Std dev  ;T0       ;Std dev  ;Area(fit)   ;Area(table) ;
+   1     ;270_80_20.dat;00001 Unt;0.005000 ;1366     ;8283     ;1.085    ;0.017    ;0.1822   ;0.0014   ;0.0000   ;0.0000   ;80.0357  ;2.3745   ;0.2700   ;0.0053   ;0.0000   ;0.0000   ;19.9643  ;2.3745   ;0.1997   ;0.0001   ;8.5023   ;0.0354   ;1400.0007;0.0219   ;5.73467E+06 ;5.73500E+06 ;

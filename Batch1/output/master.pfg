@@ -1,10 +1,10 @@
-P O S I T R O N F I T . Version 3.251     JOB TIME 00:33:34.66 23-NOV-22
+P O S I T R O N F I T . Version 3.251     JOB TIME 15:44:29.31 28-NOV-22
 ************************************************************************
 Dataset 1
 POSITRONFIT DATA BLOCK 2: SPECTRUM                                              
      10000
 (9f8.0)
-H:\PALSfit3\Nov 2022\180_220_80_20.dat
+C:\Users\ftamb\Documents\GitHub\Palsfit\Batch1\180_220_80_20.dat
 00001 Untitled 20:21:23.47 22-NOV-22                                            
 INTRINSIC
 00001 Untitled 20:21:23.47 22-NOV-22                                                                                                                                                                                                                                
@@ -1128,13 +1128,13 @@ Background (Counts/channel)   :     8.4992
 Time-zero (channel no.)       :  1400.0134
 Number of    Lifetimes        :     2
 ************************************************************************
-P O S I T R O N F I T . Version 3.251     JOB TIME 00:33:35.36 23-NOV-22
+P O S I T R O N F I T . Version 3.251     JOB TIME 15:44:30.30 28-NOV-22
 ************************************************************************
 Dataset 2
 POSITRONFIT DATA BLOCK 2: SPECTRUM                                              
      10000
 (9f8.0)
-H:\PALSfit3\Nov 2022\180_220_50_50.dat
+C:\Users\ftamb\Documents\GitHub\Palsfit\Batch1\180_220_50_50.dat
 00001 Untitled 21:38:18.69 22-NOV-22                                            
 INTRINSIC
 00001 Untitled 21:38:18.69 22-NOV-22                                                                                                                                                                                                                                
@@ -2258,13 +2258,13 @@ Background (Counts/channel)   :     8.4856
 Time-zero (channel no.)       :  1400.0331
 Number of    Lifetimes        :     2
 ************************************************************************
-P O S I T R O N F I T . Version 3.251     JOB TIME 00:33:35.84 23-NOV-22
+P O S I T R O N F I T . Version 3.251     JOB TIME 15:44:30.96 28-NOV-22
 ************************************************************************
 Dataset 3
 POSITRONFIT DATA BLOCK 2: SPECTRUM                                              
      10000
 (9f8.0)
-H:\PALSfit3\Nov 2022\180_220_20_80.dat
+C:\Users\ftamb\Documents\GitHub\Palsfit\Batch1\180_220_20_80.dat
 00001 Untitled 00:06:27.67 23-NOV-22                                            
 INTRINSIC
 00001 Untitled 00:06:27.67 23-NOV-22                                                                                                                                                                                                                                
@@ -3388,13 +3388,13 @@ Background (Counts/channel)   :     8.4850
 Time-zero (channel no.)       :  1400.0424
 Number of    Lifetimes        :     2
 ************************************************************************
-P O S I T R O N F I T . Version 3.251     JOB TIME 00:33:36.33 23-NOV-22
+P O S I T R O N F I T . Version 3.251     JOB TIME 15:44:31.64 28-NOV-22
 ************************************************************************
 Dataset 4
 POSITRONFIT DATA BLOCK 2: SPECTRUM                                              
      10000
 (9f8.0)
-H:\PALSfit3\Nov 2022\180_280_80_20.dat
+C:\Users\ftamb\Documents\GitHub\Palsfit\Batch1\180_280_80_20.dat
 00001 Untitled 00:02:21.92 23-NOV-22                                            
 INTRINSIC
 00001 Untitled 00:02:21.92 23-NOV-22                                                                                                                                                                                                                                
@@ -4518,13 +4518,13 @@ Background (Counts/channel)   :     8.4865
 Time-zero (channel no.)       :  1400.0347
 Number of    Lifetimes        :     2
 ************************************************************************
-P O S I T R O N F I T . Version 3.251     JOB TIME 00:33:36.57 23-NOV-22
+P O S I T R O N F I T . Version 3.251     JOB TIME 15:44:31.98 28-NOV-22
 ************************************************************************
 Dataset 5
 POSITRONFIT DATA BLOCK 2: SPECTRUM                                              
      10000
 (9f8.0)
-H:\PALSfit3\Nov 2022\180_280_50_50.dat
+C:\Users\ftamb\Documents\GitHub\Palsfit\Batch1\180_280_50_50.dat
 00001 Untitled 00:05:44.86 23-NOV-22                                            
 INTRINSIC
 00001 Untitled 00:05:44.86 23-NOV-22                                                                                                                                                                                                                                
@@ -5648,13 +5648,13 @@ Background (Counts/channel)   :     8.4828
 Time-zero (channel no.)       :  1400.0309
 Number of    Lifetimes        :     2
 ************************************************************************
-P O S I T R O N F I T . Version 3.251     JOB TIME 00:33:36.90 23-NOV-22
+P O S I T R O N F I T . Version 3.251     JOB TIME 15:44:32.45 28-NOV-22
 ************************************************************************
 Dataset 6
 POSITRONFIT DATA BLOCK 2: SPECTRUM                                              
      10000
 (9f8.0)
-H:\PALSfit3\Nov 2022\180_280_20_80.dat
+C:\Users\ftamb\Documents\GitHub\Palsfit\Batch1\180_280_20_80.dat
 00001 Untitled 00:08:18.10 23-NOV-22                                            
 INTRINSIC
 00001 Untitled 00:08:18.10 23-NOV-22                                                                                                                                                                                                                                
