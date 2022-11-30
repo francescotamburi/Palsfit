@@ -10,14 +10,13 @@ def palsreader(file):
 			spectrum[0].extend(line)
 		elif length < 81 and length != 1:
 			spectrum[1] = line
-			print(line)
+			#print(line)
 		elif length == 1:
-			print("h")
 			spectra.append(spectrum)
 			spectrum = [[],"metadata: "]
 	spectra.append(spectrum)
 	
-	print(spectra)
+	#print(spectra)
 	
 	for s in reversed(spectra):
 		if s[0] == []:
@@ -29,9 +28,10 @@ def palsreader(file):
 
 def meltwriter(filename, spectra):
 	Nspectra = len(spectra)
+	open("metadata.txt","w").close()
 	metadata = open("metadata.txt", "a")
 	for i in range(Nspectra):
-		metadata.write(spectra[i][1])
+		metadata.write("{} = {}".format(i, spectra[i][1]))
 		open("{}melt{}.dat".format(filename, i), "w")
 		file = open("{}melt{}.dat".format(filename, i), "a")
 		for datapoint in spectra[i][0]:
