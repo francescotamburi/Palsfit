@@ -8,18 +8,20 @@ def palsreader(file):
 		spectrum = [[],"metadata: "]
 		spectrum[1] = lines.pop(0)
 		spec_width = len(lines[1])
+		print(spec_width)
 	
 		for line in range(len(lines)):
 			line = lines.pop(0)
 			length = len(line)
-			if length == spec_width:
-				line = line.split()
-				spectrum[0].extend(line)
-			elif length == 1:
-				spectrum = [[],"metadata: "]
+			if length == 1:
+				spectra.append(spectrum)
 				break
+			print(line)
+			line = line.split()
+			spectrum[0].extend(line)
 	
 	spectra.append(spectrum)
+	print(spectra)
 	
 	for s in reversed(spectra):
 		if s[0] == []:
@@ -31,8 +33,8 @@ def palsreader(file):
 
 def meltwriter(filename, spectra):
 	Nspectra = len(spectra)
-	open("metadata.txt","w").close()
-	metadata = open("metadata.txt", "a")
+	open("{}_metadata.txt".format(filename),"w").close()
+	metadata = open("{}_metadata.txt".format(filename), "a")
 	for i in range(Nspectra):
 		metadata.write("{} = {}".format(i, spectra[i][1]))
 		open("{}melt{}.dat".format(filename, i), "w")
