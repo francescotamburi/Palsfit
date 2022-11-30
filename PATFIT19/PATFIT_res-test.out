@@ -1,0 +1,69 @@
+RESOLUTIONFIT - PATFIT18 EDITION 09-03-2019
+INPUT FILE: PATFIT_test.rfc
+
+DATASET  1
+  1 SIGN EXCURSION(S) IN ITERATION   1
+
+R E S O L U T I O N F I T  09-MAR-2019  ... JOB TIME  11:01:20 18-NOV-19
+************************************************************************
+Pure-Ti-11-6-19-1 -  4 Nov 2019 - 12:14:40                              
+IN FILE: C:\Khalid\ME_analysis\Pure-Ti-11-6-19-1.Chn.dat
+************************************************************************
+DATASET  1   PATFIT_test.rfc
+
+TIME SCALE   NS/CHANNEL       :   0.026100
+AREA RANGE   STARTS IN CH   200 AND ENDS IN CH    2005
+FIT RANGE    STARTS IN CH   414 AND ENDS IN CH    2000
+
+INITIAL      FWHM (NS)        :     0.2500G   0.4000G   0.3000G
+RESOLUTION   INTENSITIES (%)  :    76.0000   12.0000   12.0000
+FUNCTION     SHIFTS (NS)      :     0.0000F   0.1000G  -0.1000G
+
+OTHER INIT.  TIME-ZERO(CHTIME):   441.7000
+PARAMETERS   LIFETIMES (NS)   :     0.1480G   0.4000G   1.5000G
+
+####################### F I N A L  R E S U L T S #######################
+
+CONVERGENCE OBTAINED AFTER  20 ITERATIONS
+CHI-SQUARE = 1657.81  WITH  1574 DEGREES OF FREEDOM
+REDUCED CHI-SQUARE = CHI-SQUARE/DOF =    1.053  WITH STD DEVIATION 0.036
+SIGNIFICANCE OF IMPERFECT MODEL =  93.05 %
+------------------------------------------------------------------------
+RESOLUTION FUNCTION:                                          GA  WX  SX
+                                                               3   0   1
+             FWHM (NS)        :     0.2341    0.3796    0.2131
+             STD DEVIATIONS   :     0.0018    0.0055    0.0064 
+
+             INTENSITIES (%)  :    76.0000   12.0000   12.0000
+
+             SHIFTS (NS)      :     0.0000   -0.1916   -0.1542
+             STD DEVIATIONS   :      FIXED    0.0046    0.0027 
+------------------------------------------------------------------------
+LIFETIME COMPONENTS:                                          LT  LX  IX
+                                                               3   0   0
+             LIFETIMES (NS)   :     0.1532    0.3052    1.4150
+             STD DEVIATIONS   :     0.0024    0.0090    0.2235 
+
+             INTENSITIES (%)  :    78.6669   21.1137    0.2194
+             STD DEVIATIONS   :     2.0224    1.9854    0.0532 
+------------------------------------------------------------------------
+BACKGROUND:                                                            B
+                                                                       0
+             COUNTS/CHANNEL   :    10.7579
+             STD DEVIATION    :     0.0909 
+------------------------------------------------------------------------
+TIME-ZERO    CHANNEL TIME     :   441.6819
+             STD DEVIATIONS   :     0.0239
+
+TOTAL AREA   FROM FIT         : 1.52503E+06     FROM TABLE : 1.52516E+06
+
+SHAPE PARAMETERS FOR RESOLUTION CURVE (NS):
+             N       2       5      10      30     100     300    1000
+FW   AT     1/N   0.2710  0.4309  0.5304  0.6821  0.8303  0.9416  1.0473
+MIDP AT     1/N  -0.0109 -0.0279 -0.0419 -0.0708 -0.1013 -0.1215 -0.1385
+
+PEAK POSITION OF RESOLUTION CURVE: CHANNEL #  441.2082
+
+###################### R E S O L U T I O N F I T #######################
+
+ TOTAL CPU TIME:     0.06 SECONDS.

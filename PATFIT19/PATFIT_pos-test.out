@@ -1,0 +1,76 @@
+POSITRONFIT - PATFIT18 EDITION 24-04-2018
+INPUT FILE: PATFIT_pos-test.pfc
+
+ DATASET  1   1ST CYCLE
+
+ DATASET  1   2ND CYCLE
+
+P O S I T R O N F I T ...  24-APR-2018  ...  JOB TIME 11:48:08 18-NOV-19
+************************************************************************
+PATFIT_pos-test-spectrum
+IN FILE: .\PATFIT_pos-test-spectrum.dat
+************************************************************************
+DATASET  1                                    LT LN LX SX IX BG TZ AR GA
+                                               3  0  0  0  0  0  0  0  3
+TIME SCALE   NS/CHANNEL       :   0.026800
+AREA RANGE   STARTS IN CH     5 AND ENDS IN CH  2040
+FIT RANGE    STARTS IN CH   275 AND ENDS IN CH  2000
+
+RESOLUTION   FWHM (NS)        :     0.2574    0.2209    0.3375
+FUNCTION     INTENSITIES (%)  :    75.0000   13.0000   12.0000
+             SHIFTS (NS)      :     0.0000   -0.0359   -0.0938
+
+----------------- I N I T I A L   P A R A M E T E R S ------------------
+             TIME-ZERO(CHTIME):   286.0000G
+             LIFETIMES (NS)   :     0.2000G   0.5000G   3.2000G
+
+
+----- R E S U L T S  B E F O R E  S O U R C E  C O R R E C T I O N -----
+CONVERGENCE OBTAINED AFTER   5 ITERATIONS
+CHI-SQUARE =      1747.82   WITH     1718 DEGREES OF FREEDOM
+             LIFETIMES (NS)   :     0.2076    0.4584    3.2157
+             INTENSITIES (%)  :    20.7694   52.4349   26.7957
+BACKGROUND   COUNTS/CHANNEL   :   549.6656
+TIME-ZERO    CHANNEL TIME     :   285.5970
+TOTAL AREA   FROM FIT         : 3.95927E+06     FROM TABLE : 3.96282E+06
+
+------------------- S O U R C E  C O R R E C T I O N -------------------
+             LIFETIMES (NS)   :     0.3842    2.0000
+             INTENSITIES (%)  :    87.2000   12.8000
+             TOTAL (%)        :     9.1700
+
+--------- I N I T I A L  2 N D  C Y C L E  P A R A M E T E R S ---------
+             LIFETIMES (NS)   :     0.2000G   0.5000G   3.2000G
+             SIGMA (NS)       :                         0.5000G
+
+####################### F I N A L  R E S U L T S #######################
+DATASET  1                                    LT LN LX SX IX BG TZ AR GA
+                                               3  1  0  0  0  0  0  0  3
+CONVERGENCE OBTAINED AFTER   5 ADDITIONAL ITERATIONS
+CHI-SQUARE =      1740.51   WITH     1717 DEGREES OF FREEDOM
+REDUCED CHI-SQUARE = CHI-SQUARE/DOF =    1.014  WITH STD DEVIATION 0.034
+SIGNIFICANCE OF IMPERFECT MODEL =  65.94 %
+
+LIFE.COMP.   LIFETIMES (NS)   :     0.1965    0.4547    3.2572
+             STD DEVIATIONS   :     0.0075    0.0071    0.0140
+
+             SIGMA (NS)       :                         0.3663
+             STD DEVIATIONS   :                         0.1235
+
+             INTENSITIES (%)  :    19.6574   51.6106   28.7319
+             STD DEVIATIONS   :     1.4890    1.3416    0.2264
+
+             MEAN LIFETIME    :     1.2092
+             STD DEVIATION    :     0.0052
+
+BACKGROUND   COUNTS/CHANNEL   :   548.8112
+             STD DEVIATIONS   :     0.8186
+
+TIME-ZERO    CHANNEL TIME     :   285.6042
+             STD DEVIATIONS   :     0.0144
+
+TOTAL AREA   FROM FIT         : 3.69864E+06      FROM TABLE: 3.70238E+06
+
+######################### P O S I T R O N F I T ########################
+
+ TOTAL CPU TIME:     0.22 SECONDS.

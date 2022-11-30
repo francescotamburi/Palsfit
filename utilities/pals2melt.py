@@ -21,7 +21,7 @@ def palsreader(file):
 			spectrum[0].extend(line)
 	
 	spectra.append(spectrum)
-	print(spectra)
+	#print(spectra)
 	
 	for s in reversed(spectra):
 		if s[0] == []:
