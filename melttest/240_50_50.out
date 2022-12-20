@@ -1,0 +1,34 @@
+
+ *****************************************************************
+ Parameters used in spectrum generation with header:
+ Untitled
+
+ Next spectrum number:                1
+ Number of spectrum channels:     10000
+
+ Resolution function
+ Fwhm(ns):                   0.21300   0.15000   0.26500
+ Intensities(%):            80.00000  10.00000  10.00000
+ Shifts(ns):                 0.00000  -0.00500   0.01700
+
+ Lifetime components
+ Lifetimes(ns):              0.18200   0.24000
+ Intensities(%):            50.00000  50.00000
+
+ Background:              **********
+
+ Time-zero channel:       1400.00000
+
+ Time scale (ns/ch):         0.12000
+
+ Input area without backgr:      5.6500000E+06
+
+ Initial random number:        10000
+
+ Input area with background:     1.1565000E+08
+
+ Number of generated spectra:                1
+ -----------------------------------------------------------------
+
+ Generating spectrum no.    1. with initial random number: 10000
+00001 Untitled 18:17:19.43 20-DEC-22
