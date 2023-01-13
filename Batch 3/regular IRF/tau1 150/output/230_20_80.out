@@ -1,0 +1,55 @@
+PALSfit - Version 3.251 26-apr-2022 - Licensed to David Keeble
+Input file: H:\PALSfit3\Project\Batch 3\regular IRF\tau1 150\230_20_80.tmp
+P O S I T R O N F I T . Version 3.251     Job time 01:06:44.73 13-JAN-23
+************************************************************************
+00001 Untitled 17:57:10.49 12-JAN-23
+in file: .\230_20_80.dat
+************************************************************************
+Dataset 1
+
+Time scale   ns/channel       :   0.005000
+Area range   starts in ch     1 and ends in ch   10000
+Fit range    starts in ch  1367 and ends in ch    8284
+
+----------------- I n i t i a l    P a r a m e t e r s -----------------
+Resolution function:
+
+FWHM (ns)           :    0.2132    0.1502    0.2657
+Intensities (%)     :   80.0000   10.0000   10.0000
+Shifts (ns)         :    0.0000   -0.0050    0.0170
+
+Time-zero (ch.no)   : 1404.0000G
+
+Lifetimes (ns)      :    0.1500G   0.2300G
+
+
+----------------- N o  S o u r c e  C o r r e c t i o n ----------------
+
+####################### F i n a l  R e s u l t s #######################
+Dataset 1
+
+Convergence obtained after 11 iterations
+Chi-square =      7424.04  with 6912 degrees of freedom
+Reduced chi-square = chi-square/dof =    1.074  with std deviation 0.017
+Significance of imperfect model = 100.00 %
+
+Lifetimes (ns)      :    0.1456    0.2293
+Std deviations      :    0.0055    0.0012
+
+Intensities (%)     :   18.5330   81.4670
+Std deviations      :    2.2627    2.2627
+
+Mean lifetime(ns)   :    0.2137
+Std deviation       :    0.0002
+
+Background (counts/channel)   :     8.4836
+             Std deviation    :     0.0352
+
+Time-zero (channel no.)       :  1400.0432
+             Std deviation    :     0.0286
+
+Total area   from fit         : 5.73445E+06     from table : 5.73500E+06
+
+######################### P o s i t r o n F i t ########################
+
+Time for this job:     0.28 seconds.
