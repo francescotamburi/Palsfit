@@ -1,0 +1,17 @@
+P O S I T R O N F I T . Version 3.251     JOB TIME 17:33:52.02 14-JAN-23
+************************************************************************
+Dataset 1
+POSITRONFIT DATA BLOCK 2: SPECTRUM                                              
+     10000
+(10I8)                                                                                                                  
+.\230_50_50.dat
+00001 Untitled 18:05:42.75 12-JAN-23                                            
+EXTERNAL
+************************* P a r a m e t e r s **************************
+Time scale   ns/channel       :   0.005000
+Area range   starts in ch     1 and ends in ch   10000
+Fit range    starts in ch  1367 and ends in ch    8283
+Background (Counts/channel)   :     8.4846
+Time-zero (channel no.)       :  1400.0358
+Number of    Lifetimes        :     2
+************************************************************************
