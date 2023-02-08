@@ -1,0 +1,20 @@
+ratio maintained tau2/tau1 from 1.2->1.6ish
+
+go down to 1.2 with tau2 = 180-220 for 150ps tau1
+
+what plots to produce?
+(to see where data starts to break down)
+
+plot ratio against what?
+- maybe real defect lifetime against output defect lifetime?
+ - or Intensities?
+ - chi sq?
+
+excel or python?
+
+----------------------------
+
+single gaussian resolution with 210ps?
+Vary gaussian if it looks like it's working (180ps)
+plot melt test sectrum in py
+use palssim to create the same spectrum (look phone)
