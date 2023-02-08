@@ -1,12 +1,12 @@
 import pandas as pd
 
 csv_filename = input("Input csv file name: ")
-df = pd.read_csv(csv_filename)
+df = pd.read_csv(csv_filename+".csv")
 
 specfiles = df["Spectrum file"]
 df = df.drop(columns=["Unnamed: 28", "Spectrum file"])
 
-tau1 = [150]*len(specfiles)
+tau1 = [180]*len(specfiles)
 tau2 = []
 int1 = []
 int2 = []
@@ -30,4 +30,4 @@ df = pd.concat([left,df], axis=1)
 
 df.insert(4,"TauRatio",df["Sim Life-2"]/df["Sim Life-1"])
 
-df.to_csv(csv_filename, index = False)
+df.to_csv(csv_filename+"f.csv", index = False)
