@@ -1,0 +1,18 @@
+SIMULATION PARAMETERS: Untitled
+NCHAN  16000                                   ! Number of channels
+AREA   27000000.                               ! Area without background
+BACKGR 8.5                                     ! Background
+T0     1400.                                   ! Time-zero T0
+CHATIM 5.0000E-03                              ! Time (ns) per channel width
+KG     1                                       ! Number of Gaussians in resolution function
+FWHM   0.21                                    ! FWHMs (ns) of the Gaussians
+OMEGA  100.                                    ! Gaussian intensities (%) - must add up to 100
+DP0    0.                                      ! Shifts (ns) of the Gaussians
+K0     2                                       ! Number of lifetimes
+TA     0.15 0.18                               ! Lifetimes (ns)
+SIGMA  0. 0.                                   ! Log-normal standard deviation (0=no broadening)
+RINT   20. 80.                                 ! Lifetime intensities (%) - must add up to 100
+IX     2                                       ! Initial random integer
+NSPEC  1                                       ! Number of simulated spectra
+NEXTNR 1                                       ! Number of first spectrum
+ 

@@ -1,0 +1,55 @@
+PALSfit - Version 3.251 26-apr-2022 - Licensed to David J Keeble
+Input file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\si...\200_80_20.tmp
+P O S I T R O N F I T . Version 3.251     Job time 23:07:10.31 09-FEB-23
+************************************************************************
+00001 Untitled 03:16:43.20 08-FEB-23
+Intrinsic spectrum
+************************************************************************
+Dataset 1
+
+Time scale   ns/channel       :   0.005000
+Area range   starts in ch     1 and ends in ch   10000
+Fit range    starts in ch  1367 and ends in ch    8283
+
+----------------- I n i t i a l    P a r a m e t e r s -----------------
+Resolution function:
+
+FWHM (ns)           :    0.2100
+Intensities (%)     :  100.0000
+Shifts (ns)         :    0.0000
+
+Time-zero (ch.no)   : 1403.0000G
+
+Lifetimes (ns)      :    0.1500G   0.2000G
+
+
+----------------- N o  S o u r c e  C o r r e c t i o n ----------------
+
+####################### F i n a l  R e s u l t s #######################
+Dataset 1
+
+Convergence obtained after 6 iterations
+Chi-square =      7389.21  with 6911 degrees of freedom
+Reduced chi-square = chi-square/dof =    1.069  with std deviation 0.017
+Significance of imperfect model = 100.00 %
+
+Lifetimes (ns)      :    0.1495    0.1999
+Std deviations      :    0.0021    0.0075
+
+Intensities (%)     :   79.4488   20.5512
+Std deviations      :    6.2374    6.2374
+
+Mean lifetime(ns)   :    0.1598
+Std deviation       :    0.0001
+
+Background (counts/channel)   :     8.4867
+             Std deviation    :     0.0350
+
+Time-zero (channel no.)       :  1400.0285
+             Std deviation    :     0.0223
+
+Total area   from fit         : 5.73446E+06     from table : 5.73500E+06
+
+######################### P o s i t r o n F i t ########################
+
+Time for this job:     0.25 seconds.

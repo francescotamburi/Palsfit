@@ -1,0 +1,1204 @@
+PALSfit3 called with parameter: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc and options:           
+PALSfit3 loading control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc
+Controlfile[1]=
+Controlfile[2]=
+Controlfile[3]=
+Controlfile[4]=
+Controlfile[5]=
+Controlfile[6]=
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc loaded
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc loaded at startup
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\180_20_80.tmp
+00:23:03.83 24-FEB-23 - 00001 Untitled 06:13:19.53 13-FEB-23
+00:23:03.83 24-FEB-23 - 00001 Untitled 06:13:19.53 13-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc
+Controlfile[2]=
+Controlfile[3]=
+Controlfile[4]=
+Controlfile[5]=
+Controlfile[6]=
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc
+Controlfile[2]=
+Controlfile[3]=
+Controlfile[4]=
+Controlfile[5]=
+Controlfile[6]=
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\180_50_50.tmp
+00:57:11.61 24-FEB-23 - 00001 Untitled 06:13:11.21 13-FEB-23
+00:57:11.61 24-FEB-23 - 00001 Untitled 06:13:11.21 13-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc
+Controlfile[3]=
+Controlfile[4]=
+Controlfile[5]=
+Controlfile[6]=
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc
+Controlfile[3]=
+Controlfile[4]=
+Controlfile[5]=
+Controlfile[6]=
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\180_80_20.tmp
+00:57:55.49 24-FEB-23 - 00001 Untitled 00:32:16.45 24-FEB-23
+00:57:55.49 24-FEB-23 - 00001 Untitled 00:32:16.45 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc
+Controlfile[4]=
+Controlfile[5]=
+Controlfile[6]=
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc
+Controlfile[4]=
+Controlfile[5]=
+Controlfile[6]=
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\190_20_80.tmp
+00:58:20.83 24-FEB-23 - 00001 Untitled 06:14:31.35 13-FEB-23
+00:58:20.83 24-FEB-23 - 00001 Untitled 06:14:31.35 13-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc
+Controlfile[5]=
+Controlfile[6]=
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc
+Controlfile[5]=
+Controlfile[6]=
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\190_50_50.tmp
+00:58:47.69 24-FEB-23 - 00001 Untitled 00:26:06.40 24-FEB-23
+00:58:47.69 24-FEB-23 - 00001 Untitled 00:26:06.40 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc
+Controlfile[6]=
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc
+Controlfile[6]=
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\190_80_20.tmp
+00:59:19.56 24-FEB-23 - 00001 Untitled 00:31:46.51 24-FEB-23
+00:59:19.56 24-FEB-23 - 00001 Untitled 00:31:46.51 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\200_20_80.tmp
+00:59:44.45 24-FEB-23 - 00001 Untitled 06:14:53.05 13-FEB-23
+00:59:44.45 24-FEB-23 - 00001 Untitled 06:14:53.05 13-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\200_50_50.tmp
+01:00:10.23 24-FEB-23 - 00001 Untitled 00:27:12.63 24-FEB-23
+01:00:10.23 24-FEB-23 - 00001 Untitled 00:27:12.63 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\200_80_20.tmp
+01:00:43.16 24-FEB-23 - 00001 Untitled 00:31:13.05 24-FEB-23
+01:00:43.16 24-FEB-23 - 00001 Untitled 00:31:13.05 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\210_20_80.tmp
+01:01:11.42 24-FEB-23 - 00001 Untitled 06:15:51.43 13-FEB-23
+01:01:11.42 24-FEB-23 - 00001 Untitled 06:15:51.43 13-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\180_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\210_50_50.tmp
+01:01:40.44 24-FEB-23 - 00001 Untitled 00:27:39.35 24-FEB-23
+01:01:40.44 24-FEB-23 - 00001 Untitled 00:27:39.35 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\210_80_20.tmp
+01:02:09.17 24-FEB-23 - 00001 Untitled 00:30:53.59 24-FEB-23
+01:02:09.17 24-FEB-23 - 00001 Untitled 00:30:53.59 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\220_20_80.tmp
+01:02:48.25 24-FEB-23 - 00001 Untitled 06:16:29.76 13-FEB-23
+01:02:48.25 24-FEB-23 - 00001 Untitled 06:16:29.76 13-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\190_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\220_50_50.tmp
+01:03:14.20 24-FEB-23 - 00001 Untitled 00:28:05.74 24-FEB-23
+01:03:14.20 24-FEB-23 - 00001 Untitled 00:28:05.74 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\220_80_20.tmp
+01:03:40.26 24-FEB-23 - 00001 Untitled 00:30:32.00 24-FEB-23
+01:03:40.26 24-FEB-23 - 00001 Untitled 00:30:32.00 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\230_20_80.tmp
+01:04:07.36 24-FEB-23 - 00001 Untitled 00:29:36.92 24-FEB-23
+01:04:07.36 24-FEB-23 - 00001 Untitled 00:29:36.92 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\200_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\230_50_50.tmp
+01:04:36.53 24-FEB-23 - 00001 Untitled 00:28:50.63 24-FEB-23
+01:04:36.53 24-FEB-23 - 00001 Untitled 00:28:50.63 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss180\150\230_80_20.tmp
+01:05:04.25 24-FEB-23 - 00001 Untitled 00:30:04.51 24-FEB-23
+01:05:04.25 24-FEB-23 - 00001 Untitled 00:30:04.51 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\180_20_80.tmp
+01:05:49.88 24-FEB-23 - 00001 Untitled 00:42:21.24 24-FEB-23
+01:05:49.88 24-FEB-23 - 00001 Untitled 00:42:21.24 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\210_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\180_50_50.tmp
+01:06:16.92 24-FEB-23 - 00001 Untitled 00:41:43.98 24-FEB-23
+01:06:16.92 24-FEB-23 - 00001 Untitled 00:41:43.98 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\180_80_20.tmp
+01:06:40.84 24-FEB-23 - 00001 Untitled 00:34:50.19 24-FEB-23
+01:06:40.84 24-FEB-23 - 00001 Untitled 00:34:50.19 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\190_20_80.tmp
+01:07:08.51 24-FEB-23 - 00001 Untitled 00:42:59.67 24-FEB-23
+01:07:08.51 24-FEB-23 - 00001 Untitled 00:42:59.67 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\220_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\190_50_50.tmp
+01:07:34.01 24-FEB-23 - 00001 Untitled 00:41:24.66 24-FEB-23
+01:07:34.01 24-FEB-23 - 00001 Untitled 00:41:24.66 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\190_80_20.tmp
+01:07:59.28 24-FEB-23 - 00001 Untitled 00:35:27.65 24-FEB-23
+01:07:59.28 24-FEB-23 - 00001 Untitled 00:35:27.65 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\200_20_80.tmp
+01:08:24.04 24-FEB-23 - 00001 Untitled 00:43:27.76 24-FEB-23
+01:08:24.04 24-FEB-23 - 00001 Untitled 00:43:27.76 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss180\150\230_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\200_50_50.tmp
+01:12:37.68 24-FEB-23 - 00001 Untitled 00:41:04.92 24-FEB-23
+01:12:37.68 24-FEB-23 - 00001 Untitled 00:41:04.92 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\200_80_20.tmp
+01:14:17.90 24-FEB-23 - 00001 Untitled 00:35:51.98 24-FEB-23
+01:14:17.90 24-FEB-23 - 00001 Untitled 00:35:51.98 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\210_20_80.tmp
+01:14:45.38 24-FEB-23 - 00001 Untitled 00:43:41.88 24-FEB-23
+01:14:45.38 24-FEB-23 - 00001 Untitled 00:43:41.88 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\180_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\210_50_50.tmp
+01:15:15.75 24-FEB-23 - 00001 Untitled 00:40:36.82 24-FEB-23
+01:15:15.75 24-FEB-23 - 00001 Untitled 00:40:36.82 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\210_80_20.tmp
+01:15:46.50 24-FEB-23 - 00001 Untitled 00:36:15.92 24-FEB-23
+01:15:46.50 24-FEB-23 - 00001 Untitled 00:36:15.92 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\220_20_80.tmp
+01:16:26.03 24-FEB-23 - 00001 Untitled 00:44:00.85 24-FEB-23
+01:16:26.03 24-FEB-23 - 00001 Untitled 00:44:00.85 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\190_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\220_50_50.tmp
+01:16:55.56 24-FEB-23 - 00001 Untitled 00:40:01.49 24-FEB-23
+01:16:55.56 24-FEB-23 - 00001 Untitled 00:40:01.49 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\220_80_20.tmp
+01:17:22.97 24-FEB-23 - 00001 Untitled 00:36:50.01 24-FEB-23
+01:17:22.97 24-FEB-23 - 00001 Untitled 00:36:50.01 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\230_20_80.tmp
+01:17:48.57 24-FEB-23 - 00001 Untitled 00:44:46.53 24-FEB-23
+01:17:48.57 24-FEB-23 - 00001 Untitled 00:44:46.53 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\200_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\230_50_50.tmp
+01:18:20.10 24-FEB-23 - 00001 Untitled 00:39:46.41 24-FEB-23
+01:18:20.10 24-FEB-23 - 00001 Untitled 00:39:46.41 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss150\150\230_80_20.tmp
+01:18:50.09 24-FEB-23 - 00001 Untitled 00:37:06.39 24-FEB-23
+01:18:50.09 24-FEB-23 - 00001 Untitled 00:37:06.39 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\180_20_80.tmp
+01:19:28.88 24-FEB-23 - 00001 Untitled 00:48:11.35 24-FEB-23
+01:19:28.88 24-FEB-23 - 00001 Untitled 00:48:11.35 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\210_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\180_50_50.tmp
+01:19:54.23 24-FEB-23 - 00001 Untitled 00:51:26.29 24-FEB-23
+01:19:54.23 24-FEB-23 - 00001 Untitled 00:51:26.29 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\180_80_20.tmp
+01:20:27.91 24-FEB-23 - 00001 Untitled 00:55:58.09 24-FEB-23
+01:20:27.91 24-FEB-23 - 00001 Untitled 00:55:58.09 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\190_20_80.pfc
+01:20:44.33 24-FEB-23 - 00001 Untitled 00:47:54.80 24-FEB-23
+01:20:44.33 24-FEB-23 - 00001 Untitled 00:47:54.80 24-FEB-23
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\190_20_80.tmp
+01:21:31.11 24-FEB-23 - 00001 Untitled 00:47:54.80 24-FEB-23
+01:21:31.11 24-FEB-23 - 00001 Untitled 00:47:54.80 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\220_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\190_50_50.tmp
+01:21:56.92 24-FEB-23 - 00001 Untitled 00:51:55.67 24-FEB-23
+01:21:56.92 24-FEB-23 - 00001 Untitled 00:51:55.67 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\190_80_20.tmp
+01:22:22.06 24-FEB-23 - 00001 Untitled 00:55:34.54 24-FEB-23
+01:22:22.06 24-FEB-23 - 00001 Untitled 00:55:34.54 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\200_20_80.tmp
+01:22:47.55 24-FEB-23 - 00001 Untitled 00:47:22.25 24-FEB-23
+01:22:47.55 24-FEB-23 - 00001 Untitled 00:47:22.25 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss150\150\230_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\200_50_50.tmp
+01:23:12.59 24-FEB-23 - 00001 Untitled 00:52:23.18 24-FEB-23
+01:23:12.59 24-FEB-23 - 00001 Untitled 00:52:23.18 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\200_80_20.tmp
+01:23:38.17 24-FEB-23 - 00001 Untitled 00:55:01.08 24-FEB-23
+01:23:38.17 24-FEB-23 - 00001 Untitled 00:55:01.08 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\210_20_80.tmp
+01:24:05.35 24-FEB-23 - 00001 Untitled 00:47:04.25 24-FEB-23
+01:24:05.35 24-FEB-23 - 00001 Untitled 00:47:04.25 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\180_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\210_50_50.tmp
+01:24:44.17 24-FEB-23 - 00001 Untitled 00:52:46.16 24-FEB-23
+01:24:44.17 24-FEB-23 - 00001 Untitled 00:52:46.16 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\210_80_20.tmp
+01:25:15.28 24-FEB-23 - 00001 Untitled 00:54:37.41 24-FEB-23
+01:25:15.28 24-FEB-23 - 00001 Untitled 00:54:37.41 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_80_20.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_20_80.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\220_20_80.tmp
+01:25:46.81 24-FEB-23 - 00001 Untitled 00:46:16.90 24-FEB-23
+01:25:46.81 24-FEB-23 - 00001 Untitled 00:46:16.90 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\190_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\220_50_50.tmp
+01:26:13.94 24-FEB-23 - 00001 Untitled 00:53:07.17 24-FEB-23
+01:26:13.94 24-FEB-23 - 00001 Untitled 00:53:07.17 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\220_80_20.tmp
+01:26:38.80 24-FEB-23 - 00001 Untitled 00:54:16.73 24-FEB-23
+01:26:38.80 24-FEB-23 - 00001 Untitled 00:54:16.73 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_80_20.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\230_20_80.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\230_20_80.tmp
+01:27:10.03 24-FEB-23 - 00001 Untitled 00:45:52.89 24-FEB-23
+01:27:10.03 24-FEB-23 - 00001 Untitled 00:45:52.89 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\230_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\230_20_80.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\230_20_80.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_80_20.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_50_50.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_20_80.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_80_20.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_50_50.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\200_80_20.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\230_50_50.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\230_50_50.tmp
+01:27:37.15 24-FEB-23 - 00001 Untitled 00:53:25.56 24-FEB-23
+01:27:37.15 24-FEB-23 - 00001 Untitled 00:53:25.56 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\230_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\230_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\230_50_50.pfc loaded
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\230_50_50.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\230_20_80.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_80_20.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_50_50.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_20_80.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_80_20.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_50_50.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_20_80.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\230_80_20.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\g
+ auss100\150\230_80_20.tmp
+01:28:06.62 24-FEB-23 - 00001 Untitled 00:53:59.89 24-FEB-23
+01:28:06.62 24-FEB-23 - 00001 Untitled 00:53:59.89 24-FEB-23
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\230_80_20.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\230_50_50.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\230_20_80.pfc
+Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_80_20.pfc
+Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_50_50.pfc
+Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\220_20_80.pfc
+Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_80_20.pfc
+Controlfile[8]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\210_50_50.pfc
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 3\single Gaussian IRF\gauss100\150\230_80_20.pfc loaded
