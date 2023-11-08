@@ -6,7 +6,7 @@ df = pd.read_csv(csv_filename+".csv")
 specfiles = df["Spectrum file"]
 df = df.drop(columns=["Unnamed: 28", "Spectrum file"])
 
-tau1 = [180]*len(specfiles)
+tau1 = [150]*len(specfiles)
 tau2 = []
 int1 = []
 int2 = []

@@ -39,6 +39,8 @@ plt.errorbar(tau_8020["TauRatio"], np.array(tau_8020["Life-2"]) - np.array(tau_8
 plt.axhline(y = 0, color = 'grey', linestyle = 'dashed')
 plt.legend()
 
+plt.ylim([-0.03,0.03])
+
 plt.savefig("tau2.png")
 plt.clf()
 

@@ -32,12 +32,14 @@ plt.title("Tau 2 deviation")
 plt.xlabel("Tau2/Tau1")
 plt.ylabel("Tau 2 - Simulated Tau 2")
 
-plt.errorbar(tau_2080["TauRatio"], np.array(tau_2080["Life-2"]) - np.array(tau_2080["Sim Life-2"])/1000, yerr=tau_2080["Std Life-1"], linestyle="none", label="20-80", marker = "o", capsize=5)
-plt.errorbar(tau_5050["TauRatio"], np.array(tau_5050["Life-2"]) - np.array(tau_5050["Sim Life-2"])/1000, yerr=tau_5050["Std Life-1"], linestyle="none", label="50-50", marker = "x", capsize=5)
-plt.errorbar(tau_8020["TauRatio"], np.array(tau_8020["Life-2"]) - np.array(tau_8020["Sim Life-2"])/1000, yerr=tau_8020["Std Life-1"], linestyle="none", label="80-20", marker = "*", capsize=5)
+plt.errorbar(tau_2080["TauRatio"], np.array(tau_2080["Life-2"]) - np.array(tau_2080["Sim Life-2"])/1000, yerr=tau_2080["Std Life-2"], linestyle="none", label="20-80", marker = "o", capsize=5)
+plt.errorbar(tau_5050["TauRatio"], np.array(tau_5050["Life-2"]) - np.array(tau_5050["Sim Life-2"])/1000, yerr=tau_5050["Std Life-2"], linestyle="none", label="50-50", marker = "x", capsize=5)
+plt.errorbar(tau_8020["TauRatio"], np.array(tau_8020["Life-2"]) - np.array(tau_8020["Sim Life-2"])/1000, yerr=tau_8020["Std Life-2"], linestyle="none", label="80-20", marker = "*", capsize=5)
 
 plt.axhline(y = 0, color = 'grey', linestyle = 'dashed')
 plt.legend()
+
+plt.ylim([-0.03,0.03])
 
 plt.savefig("tau2.png")
 plt.clf()
