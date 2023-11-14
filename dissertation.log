@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.14)  14 NOV 2023 14:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.14)  14 NOV 2023 14:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -143,9 +143,9 @@ Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/t1.png  used on inp
 <Batch 3/regular IRF/irf.png, id=46, 462.528pt x 346.896pt>
 File: Batch 3/regular IRF/irf.png Graphic file (type png)
 <use Batch 3/regular IRF/irf.png>
-Package pdftex.def Info: Batch 3/regular IRF/irf.png  used on input line 102.
+Package pdftex.def Info: Batch 3/regular IRF/irf.png  used on input line 100.
 (pdftex.def)             Requested size: 276.00105pt x 207.01175pt.
-) [7] [8 <./Batch 3/regular IRF/irf.png>] (./dissertation.aux (./results.aux))
+ [7 <./Batch 3/regular IRF/irf.png>]) [8] (./dissertation.aux (./results.aux))
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
@@ -160,7 +160,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,8n,65p,894b,232s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on dissertation.pdf (9 pages, 256025 bytes).
+Output written on dissertation.pdf (9 pages, 256422 bytes).
 PDF statistics:
  96 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream

@@ -79,8 +79,6 @@ On the whole then, PALSFIT seemed to perform reasonably well, but not perfectly.
 
 Interestingly, here the values calculated by PALSFIT are all, with a single exception, accurate to the simulated values. The single exception is in Figure 9, where the calculated intensity values are inaccurate for $\tau_2$ = 180.
 
-The next step was examining how the width of the instrument resolution function (IRF) affected the results. Instead of a three gaussian IRF ,  we used single gaussian component to make things simpler. The values for $\tau_1$ and $\tau_2$ were set to be constant between runs, and so $\tau_1$ was fixed to 150ps and $\tau_2$ ranged from 180-230ps, as we had the best results with these values. The full-width half maximum of our single gaussian IRF was set to the following values: 100ps, 150ps, 180ps, 210ps.
-
 \section{Instrument resolution function}
 
 Using Python, we can plot the three gaussian functions that compose the instrument resolution function. The equation for a Gaussian function with parameters $a$, $b$ and $c$ (corresponding to the height of the peak, the position of the peak and the width of the graph) is given by the equation:
@@ -122,4 +120,10 @@ Doing so gives us the following values to insert into PALSSIM:
     \caption{Single gaussian Instrument resolution function}
     \label{tab:irf-single}
 \end{table}
+
+Plugging in these values into PALSSIM gives us very similar results to the three gaussian IRF, with slight differences in the first datapoint for some of the graphs. Overall, though, it does seems like we can reasonably approximate a more complex, three gaussian IRF with a single gaussian.
+
+The next step would be to examine how the width of the instrument resolution function (IRF) affects the results. The values for $\tau_1$ and $\tau_2$ can be set to be kept the same between runs, with $\tau_1$ fixed to 150ps and $\tau_2$ ranging from 180-230ps, as we had the best results with these values. The full-width half maximum of our single gaussian IRF can be set to the following values: 100ps, 150ps, 180ps, 210ps.
+
+The results are as follows:
 
