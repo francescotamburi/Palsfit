@@ -97,6 +97,13 @@ The resultant resolution function is, then, just the sum of the three gaussians 
 
 This resolution function looks quite similar to a gaussian function itself, and thus it seems sensible to investigate the feasability of approximating a more complex 3 gaussian resolution function, with a single gaussian.
 
+\begin{figure}
+    \centering
+    \includegraphics[width=0.8\linewidth]{Batch 3/regular IRF/irf.png}
+    \caption{instrument resolution function}
+    \label{fig:irf}
+\end{figure}
+
 The intensity of the single gaussian approximation is the easiest parameter to determine, as it's simply 100\%. We could try to determine $b$ and $c$ analytically by solving the resulting $g_s(x)$ analytically, but, as we already have already generated a list of values for $g_s(x)$ when plotting the function, it's much easier to just extract the needed values numerically using Python.
 
 Finding $b$ is as easy as finding the largest element of the list, and its corresponding $x$ value. As PALSSIM requires the FWHM rather than the standard deviation $c$, we just need to find the difference between the two values of $x$ for which $g_s(x)$ is closest to half of the IRF.
@@ -115,3 +122,4 @@ Doing so gives us the following values to insert into PALSSIM:
     \caption{Single gaussian Instrument resolution function}
     \label{tab:irf-single}
 \end{table}
+
