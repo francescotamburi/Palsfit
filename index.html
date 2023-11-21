@@ -44,6 +44,7 @@
 		
 		.link{
 			text-decoration: none;
+			color: blue;
 		}
 		
 		.link:hover {
@@ -55,6 +56,16 @@
 		}
 		
 	</style>
+	<script>
+		function unhide() {
+			var x = document.getElementById("background210");
+			if (x.style.display === "none") {
+				x.style.display = "block";
+			} else {
+				x.style.display = "none";
+			}
+		}
+	</script>
 </head>
 <body>
 	<table id=master>
@@ -116,7 +127,27 @@
 			<td><a class="link" href="Batch 3\single Gaussian IRF\gauss180\150\output\vis.html">180</a></td>
 		</tr>
 		<tr>
-			<td><a class="link" href="Batch 3\single Gaussian IRF\gauss210\150\output\vis.html">210</td>
+			<td>
+				<a class="link" onclick="unhide()">210 &#9660</a>
+				<table id="background210" class="data" style="text-align:center;border:none;">
+					<tr>
+						<th>Background (counts)</th>
+						<th>Total area w/out bg (million counts)</th>
+					</tr>
+					<tr href="Batch 3\single Gaussian IRF\gauss210\150\output\vis.html">
+						<td><a class="link" href="Batch 3\single Gaussian IRF\gauss210\150\output\vis.html">8.5</a></td>
+						<td>5.65</td>
+					</tr>
+					<tr>
+						<td><a class="link" href="Batch 5\BG 8.5k\output\vis.html">8.5</a></td>
+						<td>16.95</td>
+					</tr>
+					<tr>
+						<td><a class="link" href="Batch 5\BG 3x\output\vis.html">25.5</a></td>
+						<td>16.95</td>
+					</tr>
+				</table>
+			</td>
 		</tr>
 	</table>
 </body>
