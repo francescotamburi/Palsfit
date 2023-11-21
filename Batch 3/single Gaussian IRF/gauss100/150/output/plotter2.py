@@ -49,6 +49,8 @@ plt.savefig("t2.png")
 plt.clf()
 
 #5050
+plt.ylim(0,100)
+
 plt.title("50%-50% Intensity")
 plt.xlabel("Simulated Tau 2 (ps)")
 plt.ylabel("Intensity (%)")
@@ -64,6 +66,8 @@ plt.clf()
 
 
 #2080
+plt.ylim(0,100)
+
 plt.title("20%-80% Intensity")
 plt.xlabel("Simulated Tau 2 (ps)")
 plt.ylabel("Intensity (%)")
@@ -71,8 +75,8 @@ plt.ylabel("Intensity (%)")
 plt.axhline(y = 80, color = g, linestyle = 'dashed')
 plt.axhline(y = 20, color = g, linestyle = 'dashed')
 
-plt.errorbar(tau_2080["Sim Life-2"]-offset, tau_2080["Int-1"], yerr=tau_2080["Std Int-1"], linestyle="none", label="Tau 1", marker="o", color=P, capsize=5)
-plt.errorbar(tau_2080["Sim Life-2"]-offset, tau_2080["Int-2"], yerr=tau_2080["Std Int-2"], linestyle="none", label="Tau 2", marker="o", color=O, capsize=5)
+plt.errorbar(tau_2080["Sim Life-2"], tau_2080["Int-1"], yerr=tau_2080["Std Int-1"], linestyle="none", label="Tau 1", marker="o", color=P, capsize=5)
+plt.errorbar(tau_2080["Sim Life-2"], tau_2080["Int-2"], yerr=tau_2080["Std Int-2"], linestyle="none", label="Tau 2", marker="o", color=O, capsize=5)
 
 plt.legend()
 plt.savefig("2080.png")
@@ -80,6 +84,8 @@ plt.clf()
 
 
 #8020
+plt.ylim(0,100)
+
 plt.title("80%-20% Intensity")
 plt.xlabel("Simulated Tau 2 (ps)")
 plt.ylabel("Intensity (%)")
@@ -87,8 +93,8 @@ plt.ylabel("Intensity (%)")
 plt.axhline(y = 80, color = g, linestyle = 'dashed')
 plt.axhline(y = 20, color = g, linestyle = 'dashed')
 
-plt.errorbar(tau_8020["Sim Life-2"]+offset, tau_8020["Int-1"], yerr=tau_8020["Std Int-1"], linestyle="none", label="Tau 1", marker="d", color=P, capsize=5)
-plt.errorbar(tau_8020["Sim Life-2"]+offset, tau_8020["Int-2"], yerr=tau_8020["Std Int-2"], linestyle="none", label="Tau 2", marker="d", color=O, capsize=5)
+plt.errorbar(tau_8020["Sim Life-2"], tau_8020["Int-1"], yerr=tau_8020["Std Int-1"], linestyle="none", label="Tau 1", marker="d", color=P, capsize=5)
+plt.errorbar(tau_8020["Sim Life-2"], tau_8020["Int-2"], yerr=tau_8020["Std Int-2"], linestyle="none", label="Tau 2", marker="d", color=O, capsize=5)
 
 plt.legend()
 plt.savefig("8020.png")
