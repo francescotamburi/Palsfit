@@ -1,0 +1,55 @@
+PALSfit - Version 3.251 26-apr-2022 - Licensed to David Keeble
+Input file: H:\PALSfit3\Project\Batch 5\BG 3x\200_80_20.pfc
+P O S I T R O N F I T . Version 3.251     Job time 03:27:57.51 21-NOV-23
+************************************************************************
+00001 Untitled 02:59:06.72 21-NOV-23
+Intrinsic spectrum
+************************************************************************
+Dataset 1
+
+Time scale   ns/channel       :   0.005000
+Area range   starts in ch     1 and ends in ch   10000
+Fit range    starts in ch  1367 and ends in ch    8283
+
+----------------- I n i t i a l    P a r a m e t e r s -----------------
+Resolution function:
+
+FWHM (ns)           :    0.2100
+Intensities (%)     :  100.0000
+Shifts (ns)         :    0.0000
+
+Time-zero (ch.no)   : 1403.0000G
+
+Lifetimes (ns)      :    0.1500G   0.2000G
+
+
+----------------- N o  S o u r c e  C o r r e c t i o n ----------------
+
+####################### F i n a l  R e s u l t s #######################
+Dataset 1
+
+Convergence obtained after 7 iterations
+Chi-square =      6913.27  with 6911 degrees of freedom
+Reduced chi-square = chi-square/dof =    1.000  with std deviation 0.017
+Significance of imperfect model =  51.00 %
+
+Lifetimes (ns)      :    0.1487    0.1962
+Std deviations      :    0.0014    0.0042
+
+Intensities (%)     :   76.2495   23.7505
+Std deviations      :    4.2325    4.2325
+
+Mean lifetime(ns)   :    0.1600
+Std deviation       :    0.0001
+
+Background (counts/channel)   :    25.5597
+             Std deviation    :     0.0622
+
+Time-zero (channel no.)       :  1400.0054
+             Std deviation    :     0.0130
+
+Total area   from fit         : 1.72051E+07     from table : 1.72050E+07
+
+######################### P o s i t r o n F i t ########################
+
+Time for this job:     0.16 seconds.
