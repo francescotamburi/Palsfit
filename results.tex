@@ -20,64 +20,110 @@ To begin with, spectra with two positron lifetimes, $\tau_1$ and $\tau_2$ were s
 Starting with $\tau_1$, we can see in Figure \ref{fig:180-tau1} that for some values of $\tau_2$ the software performed well at fitting the shorter lifetime, while it struggled for others. 
 Zooming in specifically to the $\tau_2$ = 250-270ps range, we can see in Figure \ref{fig:180-tau1-zoomed} that, for these values in particular, it struggled to determine $\tau_1$ in the 50-50 and 80-20 case. 
 
-\begin{figure}[h]
-    \centering
-    \includegraphics[width=0.8\linewidth]{Batch 1+2/Tau1.png}
-    \caption{fixed $\tau_1 = 180ps$}
-    \label{fig:180-tau1}
-\end{figure}
-
-\begin{figure}
-    \centering
-    \includegraphics[width=0.8\linewidth]{Batch 1+2/Tau1 stragglers.png}
-    \caption{close-up $\tau_1 = 180ps$}
-    \label{fig:180-tau1-zoomed}
-\end{figure}
-
-\begin{figure}
-    \centering
-    \includegraphics[width=0.8\linewidth]{Batch 1+2/Tau2 diff.png}
-    \caption{$\tau_2$ difference}
-    \label{fig:180-tau2}
-\end{figure}
-
 To evaluate how the software performs in detecting $\tau_2$, we do the same as before, but instead of plotting $\tau_1$ on the y axis, we can plot the difference between the result and the original simulated values of $\tau_2$ to essentially tells us how far off PALSFIT is from the simulated value. Doing so we can see in Figure \ref{fig:180-tau2} that, aside from the 20-80 spectrum for $\tau_2$ = 220, here PALSFIT performs reasonably well.
 
-Observing the error bars in the figures lets us know how confident our fit for the two lifetimes is. From here we can notice two important factors that affect the precision of the fitting. By looking at Figure \ref{fig:180-tau1} and Figure \ref{fig:180-tau2}, we can deduce that the relative intensities of the two lifetimes is one of them. In Figure \ref{fig:180-tau1}, where we are analysing $\tau_1$, the error bars are the smallest for the 80-20 data, where the shorter lifetime is more intense, and in Figure 3, the opposite is the case and we have the 20-80 data being the most precise. Looking at all the figures, we can also notice that the error bars progressively shrink as the time interval between the lifetimes, which is the second factor, increases. Both these facts make intuitive sense.
+Observing the error bars in the figures lets us know how confident our fit for the two lifetimes is. From here we can notice two important factors that affect the precision of the fitting. By looking at Figure \ref{fig:180-tau1} and Figure \ref{fig:180-tau2}, we can deduce that the relative intensities of the two lifetimes is one of them. In Figure \ref{fig:180-tau1}, where we are analysing $\tau_1$, the error bars are the smallest for the 80-20 data, where the shorter lifetime is more intense, and in Figure 3, the opposite is the case and we have the 20-80 data being the most precise.
 
-\begin{figure}
+\begin{figure}[H]
+    \caption{}
     \centering
-    \includegraphics[width=0.8\linewidth]{Batch 1+2/2080.png}
-    \caption{$\tau_1 = 20\%, \tau_1 = 80\%$}
-    \label{fig:180-2080}
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=0.95\linewidth]{Batch 1+2/t1.png}
+        \caption{fixed $\tau_1 = 180ps$}
+        \label{fig:180-tau1}
+    \end{subfigure}
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\textwidth]{Batch 1+2/Tau1 stragglers.png}
+        \caption{close-up $\tau_1 = 180ps$}
+        \label{fig:180-tau1-zoomed}
+    \end{subfigure}
+    }
+    \makebox[\linewidth][c]{
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\linewidth]{Batch 1+2/t2.png}
+        \caption{$\tau_2$ difference}
+        \label{fig:180-tau2}
+    \end{subfigure}
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\linewidth]{Batch 1+2/2080.png}
+        \caption{$\tau_1 = 20\%, \tau_1 = 80\%$}
+        \label{fig:180-2080}
+    \end{subfigure}
+    }
+    \makebox[\linewidth][c]{
+    \begin{subfigure}{.7\textwidth}
+        \centering
+        \includegraphics[width=0.95\linewidth]{Batch 1+2/5050.png}
+        \caption{$\tau_1 = 50\%, \tau_1 = 50\%$}
+        \label{fig:180-5050}
+    \end{subfigure}
+    \begin{subfigure}{.7\textwidth}
+        \centering
+        \includegraphics[width=0.95\linewidth]{Batch 1+2/8020.png}
+        \caption{$\tau_1 = 80\%, \tau_1 = 20\%$}
+        \label{fig:180-8020}
+    \end{subfigure}
+    }
 \end{figure}
 
-\begin{figure}
+Looking at all the figures, we can also notice that the error bars progressively shrink as the time interval between the lifetimes, which is the second factor, increases. Both these facts make intuitive sense.
+
+In Figure \ref{fig:180-2080} - \ref{fig:180-8020}, we can observe that when the relative intensity of $\tau_2$ was greater or equal to $\tau_1$, then PALSFIT was able to calculate the appropriate lifetime intensities. However, when the intensity of $\tau_2$ was at 80\%, as we can see in Figure \ref{fig:180-2080}, for the first two simulated values of $\tau_2$, the software was unable to output the correct intensities. Looking at our error bars, we can see the same relationship between the size of the error bars and the time separation of the two lifetimes.
+
+On the whole then, PALSFIT seemed to perform reasonably well, but not perfectly. As the first lifetime, $\tau_1$, was kept constant at 180ps, the next step would be to change $\tau_1$ and see how that might alter our results. We can bring down $\tau_1$ to 150 and perform the same analysis.  To keep things consistent, we’ll modify our $\tau_2$ range to maintain the spacing between the lifetimes consistent between runs. As such, we’ll set $\tau_2$ = 190-250ps. In Figure \ref{fig:150} we can see that all the fitted values fall within error of their original, simulated, values. 
+
+\begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\linewidth]{Batch 1+2/5050.png}
-    \caption{$\tau_1 = 50\%, \tau_1 = 50\%$}
-    \label{fig:180-5050}
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/tau1 150/output/t1.png}
+        \caption{fixed $\tau_1 = 150ps$}
+        \label{fig:150-tau1}
+        \end{subfigure}
+
+        \begin{subfigure}{0.7\textwidth}
+        \centering
+            \includegraphics[width=.95\textwidth]{Batch 3/regular IRF/tau1  150/output/t2.png}
+            \caption{$\tau_2$ difference}
+            \label{fig:150-tau2}
+        \end{subfigure}
+    }
+    \caption{}
+    \label{fig:150-tau}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\linewidth]{Batch 1+2/8020.png}
-    \caption{$\tau_1 = 80\%, \tau_1 = 20\%$}
-    \label{fig:180-8020}
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/tau1  150/output/2080.png}
+            \caption{$\tau_1 = 20\%, \tau_2 = 80\%$}
+            \label{fig:150-2020}
+        \end{subfigure}
+        \begin{subfigure}{.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/tau1  150/output/5050.png}
+            \caption{$\tau_1 = 50\%, \tau_2 = 50\%$}
+            \label{fig:150-5050}
+        \end{subfigure}
+    }
+    \begin{subfigure}{.7\textwidth}
+        \centering
+        \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/tau1  150/output/8020.png}
+        \caption{$\tau_1 = 80\%, \tau_2 = 20\%$}
+        \label{fig:150-8020}
+    \end{subfigure}
+    \caption{}
+    \label{fig:150-intensities}
 \end{figure}
 
-In Figure \ref{fig:180-2080} - Figure \ref{fig:180-8020}, we can observe that when the relative intensity of $\tau_2$ was greater or equal to $\tau_1$, then PALSFIT was able to calculate the appropriate lifetime intensities. However, when the intensity of $\tau_2$ was at 80\%, as we can see in Figure \ref{fig:180-2080}, for the first two simulated values of $\tau_2$, the software was unable to output the correct intensities. Looking at our error bars, we can see the same relationship between the size of the error bars and the time separation of the two lifetimes.
-
-On the whole then, PALSFIT seemed to perform reasonably well, but not perfectly. As the first lifetime, $\tau_1$, was kept constant at 180ps, the next step would be to change $\tau_1$ and see how that might alter our results. We can bring down $\tau_1$ to 150 and perform the same analysis.  To keep things consistent, we’ll modify our $\tau_2$ range to maintain the spacing between the lifetimes consistent between runs. As such, we’ll set $\tau_2$ = 180-250ps . The results are in the figures below.
-
-\begin{figure}
-    \centering
-    \includegraphics[width=0.8\linewidth]{Batch 3/regular IRF/tau1 150/output/t1.png}
-    \caption{fixed $\tau_1 = 150ps$}
-    \label{fig:150-8020}
-\end{figure}
-
-Interestingly, here the values calculated by PALSFIT are all, with a single exception, accurate to the simulated values. The single exception is in Figure 9, where the calculated intensity values are inaccurate for $\tau_2$ = 180.
 
 \section{Instrument resolution function}
 
@@ -93,7 +139,7 @@ The resultant resolution function is, then, just the sum of the three gaussians 
 
 \[g_s(x) = \sum_{i=1}^{3}{a_i \exp{\left(-\frac{(x-b)^2}{2c^2}\right)}}\]
 
-This resolution function looks quite similar to a gaussian function itself, and thus it seems sensible to investigate the feasability of approximating a more complex 3 gaussian resolution function, with a single gaussian.
+Plotted out, this resolution function looks quite similar to a gaussian function itself, and thus it seems sensible to investigate the feasability of approximating a more complex 3 gaussian resolution function, with a single gaussian.
 
 \begin{figure}
     \centering
@@ -104,9 +150,9 @@ This resolution function looks quite similar to a gaussian function itself, and 
 
 The intensity of the single gaussian approximation is the easiest parameter to determine, as it's simply 100\%. We could try to determine $b$ and $c$ analytically by solving the resulting $g_s(x)$ analytically, but, as we already have already generated a list of values for $g_s(x)$ when plotting the function, it's much easier to just extract the needed values numerically using Python.
 
-Finding $b$ is as easy as finding the largest element of the list, and its corresponding $x$ value. As PALSSIM requires the FWHM rather than the standard deviation $c$, we just need to find the difference between the two values of $x$ for which $g_s(x)$ is closest to half of the IRF.
+Finding $b$ is as easy as finding the largest element of the list, and its corresponding $x$ value, which works out to be approximately 0ps (0.0610ps, to be precise). As PALSSIM requires the FWHM rather than the standard deviation $c$, we just need to find the difference between the two values of $x$ for which $g_s(x)$ is closest to half of the IRF. This gives us a value for the single-gaussian FWHM of 210ps.
 
-Doing so gives us the following values to insert into PALSSIM:
+Thus these are the values we'll be using for our single-gaussian resolution function, summarised in Table \ref{tab:irf-single}.
 
 \begin{table}[h]
     \centering
@@ -121,9 +167,178 @@ Doing so gives us the following values to insert into PALSSIM:
     \label{tab:irf-single}
 \end{table}
 
-Plugging in these values into PALSSIM gives us very similar results to the three gaussian IRF, with slight differences in the first datapoint for some of the graphs. Overall, though, it does seems like we can reasonably approximate a more complex, three gaussian IRF with a single gaussian.
+Plugging in these values into PALSSIM gives us very similar results to the three gaussian IRF, as we can see in Figures \ref{fig:150-tau1-comparison}-\ref{fig:150-8020-comparison}. This means that we can comfortably simplify the three gaussian resolution function down to a single gaussian.
 
-The next step would be to examine how the width of the instrument resolution function (IRF) affects the results. The values for $\tau_1$ and $\tau_2$ can be set to be kept the same between runs, with $\tau_1$ fixed to 150ps and $\tau_2$ ranging from 180-230ps, as we had the best results with these values. The full-width half maximum of our single gaussian IRF can be set to the following values: 100ps, 150ps, 180ps, 210ps.
+\begin{figure}[H]
+    \caption{fixed $\tau_1 = 150ps$}
+    \centering
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/tau1 150/output/t1r.png}
+        \caption{regular irf}
+        \label{fig:150-tau1-regirf}
+    \end{subfigure}
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\textwidth]{Batch 3/single Gaussian IRF/gauss210/150/output/t1r.png}
+        \caption{single gaussian}
+        \label{fig:150-tau1-singlegauss}
+    \end{subfigure}
+    }
+    \label{fig:150-tau1-comparison}
+\end{figure}
 
-The results are as follows:
+\begin{figure}[H]
+    \caption{$\tau_2$ difference}
+    \centering
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/tau1 150/output/t2r.png}
+        \caption{regular irf}
+        \label{fig:150-tau2-regirf}
+    \end{subfigure}
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\textwidth]{Batch 3/single Gaussian IRF/gauss210/150/output/t2r.png}
+        \caption{single gaussian}
+        \label{fig:150-tau2-singlegauss}
+    \end{subfigure}
+    }
+    \label{fig:150-tau2-comparison}
+\end{figure}
 
+\begin{figure}[H]
+    \caption{$\tau_1 = 20\%$, $\tau_2 = 80\%$}
+    \centering
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/tau1 150/output/2080r.png}
+        \caption{regular irf}
+        \label{fig:150-2080-regirf}
+    \end{subfigure}
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\textwidth]{Batch 3/single Gaussian IRF/gauss210/150/output/2080r.png}
+        \caption{single gaussian}
+        \label{fig:150-2080-singlegauss}
+    \end{subfigure}
+    }
+    \label{fig:150-2080-comparison}
+\end{figure}
+
+\begin{figure}[H]
+    \caption{$\tau_1 = 50\%$, $\tau_2 = 50\%$}
+    \centering
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/tau1 150/output/5050r.png}
+        \caption{regular irf}
+        \label{fig:150-5050-regirf}
+    \end{subfigure}
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\textwidth]{Batch 3/single Gaussian IRF/gauss210/150/output/5050r.png}
+        \caption{single gaussian}
+        \label{fig:150-5050-singlegauss}
+    \end{subfigure}
+    }
+    \label{fig:150-5050-comparison}
+\end{figure}
+
+\begin{figure}[H]
+    \caption{$\tau_1 = 80\%$, $\tau_2 = 20\%$}
+    \centering
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/tau1 150/output/8020r.png}
+        \caption{regular irf}
+        \label{fig:150-8020-regirf}
+    \end{subfigure}
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\textwidth]{Batch 3/single Gaussian IRF/gauss210/150/output/8020r.png}
+        \caption{single gaussian}
+        \label{fig:150-8020-singlegauss}
+    \end{subfigure}
+    }
+    \label{fig:150-8020-comparison}
+\end{figure}
+
+The next step would be to examine how the width of the instrument resolution function (IRF) affects the results. The values for $\tau_1$ and $\tau_2$ can be set to be kept the same between runs, with $\tau_1$ fixed to 150ps, as we had the best result with this value, and $\tau_2$ ranging from 180-230ps. The full-width half maximum of our single gaussian IRF can be set to the following values: 100ps, 150ps, 180ps, 210ps, with 100\% intensity and 
+
+The results are as follows, looking at specifically at $\tau_1$ and $\tau_2$:
+
+\begin{figure}[H]
+    \caption{$\tau_1$ comparison}
+    \centering
+    \makebox[\linewidth][c]{
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\textwidth]{Batch 3/single Gaussian IRF/gauss100/150/output/t1.png}
+        \caption{100ps IRF}
+        \label{fig:t1-irf-100}
+    \end{subfigure}
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\textwidth]{Batch 3/single Gaussian IRF/gauss150/150/output/t1.png}
+        \caption{150ps IRF}
+        \label{fig:t1-irf-150}
+    \end{subfigure}
+    }
+    \makebox[\linewidth][c]{
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\textwidth]{Batch 3/single Gaussian IRF/gauss180/150/output/t1.png}
+        \caption{180ps IRF}
+        \label{fig:t1-irf-180}
+    \end{subfigure}
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\textwidth]{Batch 3/single Gaussian IRF/gauss210/150/output/t1f.png}
+        \caption{210ps IRF}
+        \label{fig:t1-irf-210}
+    \end{subfigure}
+    }
+    \label{fig:singleirf-tau1-comparison}
+\end{figure}
+
+\begin{figure}[H]
+    \caption{$\tau_2$ (difference) comparison}
+    \centering
+    \makebox[\linewidth][c]{
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\textwidth]{Batch 3/single Gaussian IRF/gauss100/150/output/t2.png}
+        \caption{100ps IRF}
+        \label{fig:t2-irf-100}
+    \end{subfigure}
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\textwidth]{Batch 3/single Gaussian IRF/gauss150/150/output/t2.png}
+        \caption{150ps IRF}
+        \label{fig:t2-irf-150}
+    \end{subfigure}
+    }
+    \makebox[\linewidth][c]{
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\textwidth]{Batch 3/single Gaussian IRF/gauss180/150/output/t2.png}
+        \caption{180ps IRF}
+        \label{fig:t2-irf-180}
+    \end{subfigure}
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\textwidth]{Batch 3/single Gaussian IRF/gauss210/150/output/t2f.png}
+        \caption{210ps IRF}
+        \label{fig:t2-irf-210}
+    \end{subfigure}
+    }
+    \label{fig:singleirf-tau2-comparison}
+\end{figure}
+
+What we'd expect is that as the resolution function narrows, we'd have a generally improving fit. While this is true looking at some of the data -- looking at the accuracy of the 20-80 fits for $tau_1$ (see Figure \ref{fig:singleirf-tau1-comparison}), for example -- this is not universally true. In fact, bizarrely, for some datasets we have the opposite happening, with the fit getting worse as IRF width decreases. A good example of this is if we look at Figure \ref{fig:singleirf-tau1-comparison} again, concentrating, this time, on the accuracy of the 80-20 fits.

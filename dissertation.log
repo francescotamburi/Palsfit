@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.15)  21 NOV 2023 02:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.14)  14 DEC 2023 09:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**h:/PALSfit3/Project/dissertation.tex
-(h:/PALSfit3/Project/dissertation.tex
+**c:/Users/ftamb/Documents/GitHub/Palsfit/dissertation
+(c:/Users/ftamb/Documents/GitHub/Palsfit/dissertation.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
 (c:/texlive/2023/texmf-dist/tex/latex/base/report.cls
@@ -42,52 +42,84 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen141
 \Gin@req@width=\dimen142
+) (c:/texlive/2023/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count195
+\float@exts=\toks18
+\float@box=\box51
+\@float@everytoks=\toks19
+\@floatcapt=\box52
+) (c:/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (c:/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen143
+\captionmargin=\dimen144
+\caption@leftmargin=\dimen145
+\caption@rightmargin=\dimen146
+\caption@width=\dimen147
+\caption@indent=\dimen148
+\caption@parindent=\dimen149
+\caption@hangindent=\dimen150
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count196
+\c@continuedfloat=\count197
+Package caption Info: float package is loaded.
+) (c:/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count198
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count199
 ) (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count195
-\l__pdf_internal_box=\box51
+\l__color_backend_stack_int=\count266
+\l__pdf_internal_box=\box53
 ) (./dissertation.aux (./results.aux))
 \openout1 = `dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
  (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count196
-\scratchdimen=\dimen143
-\scratchbox=\box52
-\nofMPsegments=\count197
-\nofMParguments=\count198
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count199
-\MPscratchDim=\dimen144
-\MPnumerator=\count266
-\makeMPintoPDFobject=\count267
-\everyMPtoPDFconversion=\toks19
+\scratchcounter=\count267
+\scratchdimen=\dimen151
+\scratchbox=\box54
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen152
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks21
 ) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 10.
+(Font)              <12> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 10.
+(Font)              <8> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 10.
+(Font)              <6> on input line 13.
  [1
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [1
@@ -100,74 +132,196 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 3.
-<Batch 1+2/Tau1.png, id=13, 462.528pt x 346.896pt>
-File: Batch 1+2/Tau1.png Graphic file (type png)
-<use Batch 1+2/Tau1.png>
-Package pdftex.def Info: Batch 1+2/Tau1.png  used on input line 25.
-(pdftex.def)             Requested size: 276.00105pt x 207.01175pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+<Batch 1+2/t1.png, id=13, 462.528pt x 346.896pt>
+File: Batch 1+2/t1.png Graphic file (type png)
+<use Batch 1+2/t1.png>
+Package pdftex.def Info: Batch 1+2/t1.png  used on input line 43.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 43.
 <Batch 1+2/Tau1 stragglers.png, id=15, 462.528pt x 346.896pt>
 File: Batch 1+2/Tau1 stragglers.png Graphic file (type png)
 <use Batch 1+2/Tau1 stragglers.png>
-Package pdftex.def Info: Batch 1+2/Tau1 stragglers.png  used on input line 32.
-(pdftex.def)             Requested size: 276.00105pt x 207.01175pt.
-<Batch 1+2/Tau2 diff.png, id=16, 462.528pt x 346.896pt>
-File: Batch 1+2/Tau2 diff.png Graphic file (type png)
-<use Batch 1+2/Tau2 diff.png>
-Package pdftex.def Info: Batch 1+2/Tau2 diff.png  used on input line 39.
-(pdftex.def)             Requested size: 276.00105pt x 207.01175pt.
-[2
+Package pdftex.def Info: Batch 1+2/Tau1 stragglers.png  used on input line 43.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 1+2/t2.png, id=16, 462.528pt x 346.896pt>
+File: Batch 1+2/t2.png Graphic file (type png)
+<use Batch 1+2/t2.png>
+Package pdftex.def Info: Batch 1+2/t2.png  used on input line 57.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 1+2/2080.png, id=17, 462.528pt x 346.896pt>
+File: Batch 1+2/2080.png Graphic file (type png)
+<use Batch 1+2/2080.png>
+Package pdftex.def Info: Batch 1+2/2080.png  used on input line 57.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 1+2/5050.png, id=18, 462.528pt x 346.896pt>
+File: Batch 1+2/5050.png Graphic file (type png)
+<use Batch 1+2/5050.png>
+Package pdftex.def Info: Batch 1+2/5050.png  used on input line 71.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 1+2/8020.png, id=19, 462.528pt x 346.896pt>
+File: Batch 1+2/8020.png Graphic file (type png)
+<use Batch 1+2/8020.png>
+Package pdftex.def Info: Batch 1+2/8020.png  used on input line 71.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+ [2
 
 
 ]
-<Batch 1+2/2080.png, id=22, 462.528pt x 346.896pt>
-File: Batch 1+2/2080.png Graphic file (type png)
-<use Batch 1+2/2080.png>
-Package pdftex.def Info: Batch 1+2/2080.png  used on input line 50.
-(pdftex.def)             Requested size: 276.00105pt x 207.01175pt.
-<Batch 1+2/5050.png, id=23, 462.528pt x 346.896pt>
-File: Batch 1+2/5050.png Graphic file (type png)
-<use Batch 1+2/5050.png>
-Package pdftex.def Info: Batch 1+2/5050.png  used on input line 57.
-(pdftex.def)             Requested size: 276.00105pt x 207.01175pt.
-<Batch 1+2/8020.png, id=24, 462.528pt x 346.896pt>
-File: Batch 1+2/8020.png Graphic file (type png)
-<use Batch 1+2/8020.png>
-Package pdftex.def Info: Batch 1+2/8020.png  used on input line 64.
-(pdftex.def)             Requested size: 276.00105pt x 207.01175pt.
-<Batch 3/regular IRF/tau1 150/output/t1.png, id=25, 462.528pt x 346.896pt>
+Overfull \vbox (54.1141pt too high) has occurred while \output is active []
+
+ [3 <./Batch 1+2/t1.png> <./Batch 1+2/Tau1 stragglers.png> <./Batch 1+2/t2.png> <./Batch 1+2/2080.png> <./Batch 1+2/5050.png> <./Batch 1+2/8020.png>]
+
+LaTeX Warning: Reference `fig:150' on page 4 undefined on input line 78.
+
+<Batch 3/regular IRF/tau1 150/output/t1.png, id=37, 462.528pt x 346.896pt>
 File: Batch 3/regular IRF/tau1 150/output/t1.png Graphic file (type png)
 <use Batch 3/regular IRF/tau1 150/output/t1.png>
-Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/t1.png  used on input line 75.
-(pdftex.def)             Requested size: 276.00105pt x 207.01175pt.
- [3 <./Batch 1+2/Tau1.png>] [4 <./Batch 1+2/Tau1 stragglers.png> <./Batch 1+2/Tau2 diff.png>] [5 <./Batch 1+2/2080.png> <./Batch 1+2/5050.png>] [6 <./Batch 1+2/8020.png> <./Batch 3/regular IRF/tau1 150/output/t1.png>]
-<Batch 3/regular IRF/irf.png, id=46, 462.528pt x 346.896pt>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/t1.png  used on input line 96.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/regular IRF/tau1 150/output/t2.png, id=38, 462.528pt x 346.896pt>
+File: Batch 3/regular IRF/tau1 150/output/t2.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 150/output/t2.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/t2.png  used on input line 96.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/regular IRF/tau1 150/output/2080.png, id=39, 462.528pt x 346.896pt>
+File: Batch 3/regular IRF/tau1 150/output/2080.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 150/output/2080.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/2080.png  used on input line 116.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/regular IRF/tau1 150/output/5050.png, id=40, 462.528pt x 346.896pt>
+File: Batch 3/regular IRF/tau1 150/output/5050.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 150/output/5050.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/5050.png  used on input line 116.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/regular IRF/tau1 150/output/8020.png, id=41, 462.528pt x 346.896pt>
+File: Batch 3/regular IRF/tau1 150/output/8020.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 150/output/8020.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/8020.png  used on input line 119.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+[4 <./Batch 3/regular IRF/tau1 150/output/t1.png> <./Batch 3/regular IRF/tau1 150/output/t2.png>] [5 <./Batch 3/regular IRF/tau1 150/output/2080.png> <./Batch 3/regular IRF/tau1 150/output/5050.png> <./Batch 3/regular IRF/tau1 150/output/8020.png>]
+<Batch 3/regular IRF/irf.png, id=56, 462.528pt x 346.896pt>
 File: Batch 3/regular IRF/irf.png Graphic file (type png)
 <use Batch 3/regular IRF/irf.png>
-Package pdftex.def Info: Batch 3/regular IRF/irf.png  used on input line 100.
+Package pdftex.def Info: Batch 3/regular IRF/irf.png  used on input line 146.
 (pdftex.def)             Requested size: 276.00105pt x 207.01175pt.
- [7 <./Batch 3/regular IRF/irf.png>]) [8] (./dissertation.aux (./results.aux))
+ [6 <./Batch 3/regular IRF/irf.png>]
+<Batch 3/regular IRF/tau1 150/output/t1r.png, id=63, 462.528pt x 346.896pt>
+File: Batch 3/regular IRF/tau1 150/output/t1r.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 150/output/t1r.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/t1r.png  used on input line 188.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/single Gaussian IRF/gauss210/150/output/t1r.png, id=64, 462.528pt x 346.896pt>
+File: Batch 3/single Gaussian IRF/gauss210/150/output/t1r.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss210/150/output/t1r.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss210/150/output/t1r.png  used on input line 188.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/regular IRF/tau1 150/output/t2r.png, id=65, 462.528pt x 346.896pt>
+File: Batch 3/regular IRF/tau1 150/output/t2r.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 150/output/t2r.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/t2r.png  used on input line 208.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/single Gaussian IRF/gauss210/150/output/t2r.png, id=66, 462.528pt x 346.896pt>
+File: Batch 3/single Gaussian IRF/gauss210/150/output/t2r.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss210/150/output/t2r.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss210/150/output/t2r.png  used on input line 208.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+ [7 <./Batch 3/regular IRF/tau1 150/output/t1r.png> <./Batch 3/single Gaussian IRF/gauss210/150/output/t1r.png>]
+<Batch 3/regular IRF/tau1 150/output/2080r.png, id=72, 462.528pt x 346.896pt>
+File: Batch 3/regular IRF/tau1 150/output/2080r.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 150/output/2080r.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/2080r.png  used on input line 228.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/single Gaussian IRF/gauss210/150/output/2080r.png, id=73, 462.528pt x 346.896pt>
+File: Batch 3/single Gaussian IRF/gauss210/150/output/2080r.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss210/150/output/2080r.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss210/150/output/2080r.png  used on input line 228.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/regular IRF/tau1 150/output/5050r.png, id=74, 462.528pt x 346.896pt>
+File: Batch 3/regular IRF/tau1 150/output/5050r.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 150/output/5050r.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/5050r.png  used on input line 248.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/single Gaussian IRF/gauss210/150/output/5050r.png, id=75, 462.528pt x 346.896pt>
+File: Batch 3/single Gaussian IRF/gauss210/150/output/5050r.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss210/150/output/5050r.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss210/150/output/5050r.png  used on input line 248.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+ [8 <./Batch 3/regular IRF/tau1 150/output/t2r.png> <./Batch 3/single Gaussian IRF/gauss210/150/output/t2r.png> <./Batch 3/regular IRF/tau1 150/output/2080r.png> <./Batch 3/single Gaussian IRF/gauss210/150/output/2080r.png>]
+<Batch 3/regular IRF/tau1 150/output/8020r.png, id=83, 462.528pt x 346.896pt>
+File: Batch 3/regular IRF/tau1 150/output/8020r.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 150/output/8020r.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/8020r.png  used on input line 268.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/single Gaussian IRF/gauss210/150/output/8020r.png, id=84, 462.528pt x 346.896pt>
+File: Batch 3/single Gaussian IRF/gauss210/150/output/8020r.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss210/150/output/8020r.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss210/150/output/8020r.png  used on input line 268.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/single Gaussian IRF/gauss100/150/output/t1.png, id=85, 462.528pt x 346.896pt>
+File: Batch 3/single Gaussian IRF/gauss100/150/output/t1.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss100/150/output/t1.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss100/150/output/t1.png  used on input line 292.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/single Gaussian IRF/gauss150/150/output/t1.png, id=86, 462.528pt x 346.896pt>
+File: Batch 3/single Gaussian IRF/gauss150/150/output/t1.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss150/150/output/t1.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss150/150/output/t1.png  used on input line 292.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/single Gaussian IRF/gauss180/150/output/t1.png, id=87, 462.528pt x 346.896pt>
+File: Batch 3/single Gaussian IRF/gauss180/150/output/t1.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss180/150/output/t1.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss180/150/output/t1.png  used on input line 306.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/single Gaussian IRF/gauss210/150/output/t1f.png, id=88, 462.528pt x 346.896pt>
+File: Batch 3/single Gaussian IRF/gauss210/150/output/t1f.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss210/150/output/t1f.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss210/150/output/t1f.png  used on input line 306.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+ [9 <./Batch 3/regular IRF/tau1 150/output/5050r.png> <./Batch 3/single Gaussian IRF/gauss210/150/output/5050r.png> <./Batch 3/regular IRF/tau1 150/output/8020r.png> <./Batch 3/single Gaussian IRF/gauss210/150/output/8020r.png>]
+<Batch 3/single Gaussian IRF/gauss100/150/output/t2.png, id=96, 462.528pt x 346.896pt>
+File: Batch 3/single Gaussian IRF/gauss100/150/output/t2.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss100/150/output/t2.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss100/150/output/t2.png  used on input line 326.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/single Gaussian IRF/gauss150/150/output/t2.png, id=97, 462.528pt x 346.896pt>
+File: Batch 3/single Gaussian IRF/gauss150/150/output/t2.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss150/150/output/t2.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss150/150/output/t2.png  used on input line 326.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/single Gaussian IRF/gauss180/150/output/t2.png, id=98, 462.528pt x 346.896pt>
+File: Batch 3/single Gaussian IRF/gauss180/150/output/t2.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss180/150/output/t2.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss180/150/output/t2.png  used on input line 340.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+<Batch 3/single Gaussian IRF/gauss210/150/output/t2f.png, id=99, 462.528pt x 346.896pt>
+File: Batch 3/single Gaussian IRF/gauss210/150/output/t2f.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss210/150/output/t2f.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss210/150/output/t2f.png  used on input line 340.
+(pdftex.def)             Requested size: 229.42325pt x 172.07133pt.
+ [10 <./Batch 3/single Gaussian IRF/gauss100/150/output/t1.png> <./Batch 3/single Gaussian IRF/gauss150/150/output/t1.png> <./Batch 3/single Gaussian IRF/gauss180/150/output/t1.png> <./Batch 3/single Gaussian IRF/gauss210/150/output/t1f.png>]) [11 <./Batch 3/single Gaussian IRF/gauss100/150/output/t2.png> <./Batch 3/single Gaussian IRF/gauss150/150/output/t2.png> <./Batch 3/single Gaussian IRF/gauss180/150/output/t2.png> <./Batch 3/single Gaussian IRF/gauss210/150/output/t2f.png>] (./dissertation.aux (./results.aux))
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 1409 strings out of 474266
- 23814 string characters out of 5751449
- 1932558 words of memory out of 5000000
- 23650 multiletter control sequences out of 15000+600000
- 562315 words of font info for 50 fonts, out of 8000000 for 9000
+ 3162 strings out of 474266
+ 63132 string characters out of 5751449
+ 1934558 words of memory out of 5000000
+ 25387 multiletter control sequences out of 15000+600000
+ 563535 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,8n,65p,878b,232s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on dissertation.pdf (9 pages, 256447 bytes).
+ 57i,9n,65p,721b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on dissertation.pdf (12 pages, 610264 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 169 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
 
