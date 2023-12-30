@@ -41,19 +41,19 @@ for irf in [100,150,180,210]:
 	err_t2_5050 = tau_5050["Std Life-2"]
 	err_t2_8020 = tau_8020["Std Life-2"]
 	
-	diff_i1_2080 = np.absolute(tau_2080["Int-1"]-tau_2080["Sim Int-2"])
+	diff_i1_2080 = np.absolute(tau_2080["Int-1"]-tau_2080["Sim Int-1"])
 	diff_i2_2080 = np.absolute(tau_2080["Int-2"]-tau_2080["Sim Int-2"])
 	
 	err_i1_2080 = tau_2080["Std Int-1"]
 	err_i2_2080 = tau_2080["Std Int-2"]
 	
-	diff_i1_5050 = np.absolute(tau_5050["Int-1"]-tau_5050["Sim Int-2"])
+	diff_i1_5050 = np.absolute(tau_5050["Int-1"]-tau_5050["Sim Int-1"])
 	diff_i2_5050 = np.absolute(tau_5050["Int-2"]-tau_5050["Sim Int-2"])
 	
 	err_i1_5050 = tau_5050["Std Int-1"]
 	err_i2_5050 = tau_5050["Std Int-2"]
 	
-	diff_i1_8020 = np.absolute(tau_8020["Int-1"]-tau_8020["Sim Int-2"])
+	diff_i1_8020 = np.absolute(tau_8020["Int-1"]-tau_8020["Sim Int-1"])
 	diff_i2_8020 = np.absolute(tau_8020["Int-2"]-tau_8020["Sim Int-2"])
 	
 	err_i1_8020 = tau_8020["Std Int-1"]
@@ -84,14 +84,26 @@ for irf in [100,150,180,210]:
 				"i1": diff_i1_2080, 
 				"i2": diff_i2_2080
 			},
+			"2080-err": {
+				"i1": err_i1_2080, 
+				"i2": err_i2_2080
+			},
 			"5050-diff": {
 				"i1": diff_i1_5050, 
 				"i2": diff_i2_5050
 			},
+			"5050-err": {
+				"i1": err_i1_5050, 
+				"i2": err_i2_5050
+			},
 			"8020-diff": {
 				"i1": diff_i1_8020, 
 				"i2": diff_i2_8020
-			}
+			},
+			"8020-err": {
+				"i1": err_i1_8020, 
+				"i2": err_i2_8020
+			},
 		}
 
 """
@@ -115,16 +127,43 @@ plots = [
 	("t1-diff", "2080"),
 	("t1-diff", "5050"),
 	("t1-diff", "8020"),
-	("t1-err","2080"),
-	("t1-err","5050"),
-	("t1-err","8020")
+	
+	("t1-err",  "2080"),
+	("t1-err",  "5050"),
+	("t1-err",  "8020"),
+	
+	("t2-diff", "2080"),
+	("t2-diff", "5050"),
+	("t2-diff", "8020"),
+	
+	("t2-err",  "2080"),
+	("t2-err",  "5050"),
+	("t2-err",  "8020"),
+	
+	("2080-diff",  "i1"),
+	("2080-diff",  "i2"),
+	
+	("2080-err",   "i1"),
+	("2080-err",   "i2"),
+	
+	("5050-diff",  "i1"),
+	("5050-diff",  "i2"),
+	
+	("5050-err",   "i1"),
+	("5050-err",   "i2"),
+	
+	("8020-diff",  "i1"),
+	("8020-diff",  "i2"),
+	
+	("8020-err",   "i1"),
+	("8020-err",   "i2"),
 	]
 
 for dataset in plots:
-	plt.plot(x, data["100"]["t1-diff"][dataset[1]], color=O, label="100ps", marker="s", linestyle="dotted")
-	plt.plot(x, data["150"]["t1-diff"][dataset[1]], color=G, label="150ps", marker="s", linestyle="dotted")
-	plt.plot(x, data["180"]["t1-diff"][dataset[1]], color=B, label="180ps", marker="s", linestyle="dotted")
-	plt.plot(x, data["210"]["t1-diff"][dataset[1]], color=P, label="210ps", marker="s", linestyle="dotted")
+	plt.plot(x, data["100"][dataset[0]][dataset[1]], color=O, label="100ps", marker="s", linestyle="dotted")
+	plt.plot(x, data["150"][dataset[0]][dataset[1]], color=G, label="150ps", marker="s", linestyle="dotted")
+	plt.plot(x, data["180"][dataset[0]][dataset[1]], color=B, label="180ps", marker="s", linestyle="dotted")
+	plt.plot(x, data["210"][dataset[0]][dataset[1]], color=P, label="210ps", marker="s", linestyle="dotted")
 	
 	plt.xticks(x,x)
 	plt.legend()

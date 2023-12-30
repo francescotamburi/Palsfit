@@ -1,7 +1,6 @@
-- start to produce document that's part of dissertation 
-	(details: Introduction: basics of pls, what does spec file look like, --standard trapping model--, deconvolution of spectrum, palsfit (maybe moved to methods?)
-	plan in methods/summary
-	results&discussion <--- focus on this
-	)
-- single irf --> does narrowness of irf effect things?
-- d.k will try to see if MELT is a possibility
+td: 
+- catch up dissy
+- figure captions underneath, table above
+- get figures to be closer together horizontally
+- 1/2 fwhm res func -> double time/ch
+- rewrite some bs so it's clearer

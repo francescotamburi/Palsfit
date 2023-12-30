@@ -20,11 +20,11 @@ tau_5050 = df[df["Sim Int-1"]==50]
 tau_8020 = df[df["Sim Int-1"]==80]
 
 #Tau1
-plt.title("Tau 1 = 150ps")
+#plt.title("Tau 1 = 150ps")
 plt.xlabel("Simulated Tau 2 (ps)")
 plt.ylabel("Tau 1 (ps)")
 
-plt.axhline(y = 150, color = g, linestyle = 'dashed')
+plt.axhline(y = 220, color = g, linestyle = 'dashed')
 
 plt.errorbar(tau_2080["Sim Life-2"]-offset, tau_2080["Life-1"]*1000, yerr=tau_2080["Std Life-1"]*1000, linestyle="none", label="20-80", marker = "o", color=B, capsize=5)
 plt.errorbar(tau_5050["Sim Life-2"], tau_5050["Life-1"]*1000, yerr=tau_5050["Std Life-1"]*1000, linestyle="none", label="50-50", marker = "s", color=R, capsize=5)
@@ -34,7 +34,7 @@ plt.clf()
 
 
 #Tau 2
-plt.title("Tau 2 difference")
+#plt.title("Tau 2 difference")
 plt.xlabel("Simulated Tau 2 (ps)")
 plt.ylabel("PALSFIT Output - Simulated Tau 2 (ps)")
 
@@ -51,7 +51,7 @@ plt.clf()
 #5050
 plt.ylim(0,100)
 
-plt.title("50%-50% Intensity")
+#plt.title("50%-50% Intensity")
 plt.xlabel("Simulated Tau 2 (ps)")
 plt.ylabel("Intensity (%)")
 
@@ -68,7 +68,7 @@ plt.clf()
 #2080
 plt.ylim(0,100)
 
-plt.title("20%-80% Intensity")
+#plt.title("20%-80% Intensity")
 plt.xlabel("Simulated Tau 2 (ps)")
 plt.ylabel("Intensity (%)")
 
@@ -84,9 +84,9 @@ plt.clf()
 
 
 #8020
-plt.ylim(0,100)
+#plt.ylim(0,100)
 
-plt.title("80%-20% Intensity")
+#plt.title("80%-20% Intensity")
 plt.xlabel("Simulated Tau 2 (ps)")
 plt.ylabel("Intensity (%)")
 
