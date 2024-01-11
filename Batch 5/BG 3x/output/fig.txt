@@ -1,0 +1,39 @@
+\begin{figure}[p]
+    \centering
+    \caption{}
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=0.95\linewidth]{Batch 5\BG 3x\output/t1.png}
+        \caption{fixed $\tau_1 = 150$}
+        \label{fig:bg-3x-tau1}
+    \end{subfigure}
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\textwidth]{Batch 5\BG 3x\output/t2.png}
+        \caption{$\tau_2$ difference}
+        \label{fig:bg-3x-tau2}
+    \end{subfigure}
+    }
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=0.95\linewidth]{Batch 5\BG 3x\output/2080.png}
+        \caption{$\tau_1 = 20\%, \tau_2 = 80\%$}
+        \label{fig:bg-3x-2080}
+    \end{subfigure}
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\textwidth]{Batch 5\BG 3x\output/5050.png}
+        \caption{$\tau_1 = 50\%, \tau_2 = 50\%$}
+        \label{fig:bg-3x-5050}
+    \end{subfigure}
+    }
+    \begin{subfigure}{0.7\textwidth}
+        \centering
+        \includegraphics[width=.95\textwidth]{Batch 5\BG 3x\output/8020.png}
+        \caption{$\tau_1 = 80\%, \tau_2 = 20\%$}
+        \label{fig:bg-3x-8020}
+    \end{subfigure}
+    \label{fig:bg-3x}
+\end{figure}

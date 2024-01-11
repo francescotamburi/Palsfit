@@ -1,0 +1,158 @@
+\begin{figure}[p]
+    \centering
+    \caption{$\tau_1$, rows = 20-80, 50-50, 80-20, columns = diff, std dev}    
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/t1-diff 2080.png}
+            \caption{}
+            \label{fig:bg-t1-2080}
+        \end{subfigure}
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/t1-err 2080.png}
+            \caption{}
+            \label{fig:bg-t1err-2080}
+        \end{subfigure}
+    }
+
+    \centering
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/t1-diff 5050.png}
+            \caption{}
+            \label{fig:bg-t1-5050}
+        \end{subfigure}
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/t1-err 5050.png}
+            \caption{}
+            \label{fig:bg-t1err-5050}
+        \end{subfigure}
+    }
+
+    \centering
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/t1-diff 8020.png}
+            \caption{}
+            \label{fig:bg-t1-8020}
+        \end{subfigure}
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/t1-err 8020.png}
+            \caption{}
+            \label{fig:bg-t1err-8020}
+        \end{subfigure}
+    }
+
+    \label{fig:bg-t1-comp}
+\end{figure}
+
+\begin{figure}[p]
+    \centering
+    \caption{$\tau_2$, rows = 20-80, 50-50, 80-20, columns = diff, std dev}
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/t2-diff 2080.png}
+            \caption{}
+            \label{fig:bg-t2-2080}
+        \end{subfigure}
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/t2-err 2080.png}
+            \caption{}
+            \label{fig:bg-t2err-2080}
+        \end{subfigure}
+    }
+
+    \centering
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/t2-diff 5050.png}
+            \caption{}
+            \label{fig:bg-t2-5050}
+        \end{subfigure}
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/t2-err 5050.png}
+            \caption{}
+            \label{fig:bg-t2err-5050}
+        \end{subfigure}
+    }
+
+    \centering
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/t2-diff 8020.png}
+            \caption{}
+            \label{fig:bg-t2-8020}
+        \end{subfigure}
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/t2-err 8020.png}
+            \caption{}
+            \label{fig:bg-t2err-8020}
+        \end{subfigure}
+    }
+    
+    \label{fig:bg-t2-comp}
+\end{figure}
+
+\begin{figure}[p]
+    \centering
+    \caption{intensities, rows = 20-80, 50-50, 80-20, columns = diff, std dev}
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/2080-diff i1.png}
+            \caption{}
+            \label{fig:bg-int-2080}
+        \end{subfigure}
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/2080-err i1.png}
+            \caption{}
+            \label{fig:bg-interr-2080}
+        \end{subfigure}
+    }
+
+    \centering
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/5050-diff i1.png}
+            \caption{}
+            \label{fig:bg-int-5050}
+        \end{subfigure}
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/5050-err i1.png}
+            \caption{}
+            \label{fig:bg-interr-5050}
+        \end{subfigure}
+    }
+
+    \centering
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/8020-diff i1.png}
+            \caption{}
+            \label{fig:bg-int-8020}
+        \end{subfigure}
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 5/8020-err i1.png}
+            \caption{}
+            \label{fig:bg-interr-8020}
+        \end{subfigure}
+    }
+     
+    \label{fig:bg-int-comp}
+\end{figure}

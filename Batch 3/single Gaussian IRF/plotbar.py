@@ -162,8 +162,8 @@ plots = [
 for dataset in plots:
 	plt.plot(x, data["100"][dataset[0]][dataset[1]], color=O, label="100ps", marker="s", linestyle="dotted")
 	plt.plot(x, data["150"][dataset[0]][dataset[1]], color=G, label="150ps", marker="s", linestyle="dotted")
-	plt.plot(x, data["180"][dataset[0]][dataset[1]], color=B, label="180ps", marker="s", linestyle="dotted")
-	plt.plot(x, data["210"][dataset[0]][dataset[1]], color=P, label="210ps", marker="s", linestyle="dotted")
+	plt.plot(x, data["180"][dataset[0]][dataset[1]], color=P, label="180ps", marker="s", linestyle="dotted")
+	plt.plot(x, data["210"][dataset[0]][dataset[1]], color=B, label="210ps", marker="s", linestyle="dotted")
 	
 	plt.xticks(x,x)
 	plt.legend()

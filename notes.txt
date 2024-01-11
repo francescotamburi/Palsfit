@@ -3,4 +3,3 @@ td:
 - figure captions underneath, table above
 - get figures to be closer together horizontally
 - 1/2 fwhm res func -> double time/ch
-- rewrite some bs so it's clearer
