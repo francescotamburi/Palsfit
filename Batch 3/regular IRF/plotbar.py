@@ -29,17 +29,17 @@ for irf in [150,180,220]:
 	diff_t1_5050 = np.absolute(tau_5050["Life-1"]*1000-tau_5050["Sim Life-1"])
 	diff_t1_8020 = np.absolute(tau_8020["Life-1"]*1000-tau_8020["Sim Life-1"])
 	
-	err_t1_2080 = tau_2080["Std Life-1"]
-	err_t1_5050 = tau_5050["Std Life-1"]
-	err_t1_8020 = tau_8020["Std Life-1"]
+	err_t1_2080 = tau_2080["Std Life-1"]*1000
+	err_t1_5050 = tau_5050["Std Life-1"]*1000
+	err_t1_8020 = tau_8020["Std Life-1"]*1000
 	
 	diff_t2_2080 = np.absolute(tau_2080["Life-2"]*1000-tau_2080["Sim Life-2"])
 	diff_t2_5050 = np.absolute(tau_5050["Life-2"]*1000-tau_5050["Sim Life-2"])
 	diff_t2_8020 = np.absolute(tau_8020["Life-2"]*1000-tau_8020["Sim Life-2"])
 	
-	err_t2_2080 = tau_2080["Std Life-2"]
-	err_t2_5050 = tau_5050["Std Life-2"]
-	err_t2_8020 = tau_8020["Std Life-2"]
+	err_t2_2080 = tau_2080["Std Life-2"]*1000
+	err_t2_5050 = tau_5050["Std Life-2"]*1000
+	err_t2_8020 = tau_8020["Std Life-2"]*1000
 	
 	diff_i1_2080 = np.absolute(tau_2080["Int-1"]-tau_2080["Sim Int-1"])
 	diff_i2_2080 = np.absolute(tau_2080["Int-2"]-tau_2080["Sim Int-2"])
@@ -48,14 +48,14 @@ for irf in [150,180,220]:
 	err_i2_2080 = tau_2080["Std Int-2"]
 	
 	diff_i1_5050 = np.absolute(tau_5050["Int-1"]-tau_5050["Sim Int-1"])
-	print(diff_i1_5050)
+	#print(diff_i1_5050)
 	diff_i2_5050 = np.absolute(tau_5050["Int-2"]-tau_5050["Sim Int-2"])
 	
 	err_i1_5050 = tau_5050["Std Int-1"]
 	err_i2_5050 = tau_5050["Std Int-2"]
 	
 	diff_i1_8020 = np.absolute(tau_8020["Int-1"]-tau_8020["Sim Int-1"])
-	print(diff_i1_8020)
+	#print(diff_i1_8020)
 	diff_i2_8020 = np.absolute(tau_8020["Int-2"]-tau_8020["Sim Int-2"])
 	
 	err_i1_8020 = tau_8020["Std Int-1"]
