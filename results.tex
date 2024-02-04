@@ -814,13 +814,10 @@ To do so, three materials (?) were modeled, with three lifetime components. All 
     \end{subtable}
 \end{table}
 
-\subsection{Single lifetime fit}
-
 When a single lifetime is fitted, the resulting lifetime seems to tend towards a weighted average of the two shorter lifetimes, as can be seen in the following figures:
 
 \begin{figure}[p]
     \centering
-    \caption{single lifetime fit}    
     \makebox[\linewidth][c]{
         \begin{subfigure}{0.7\textwidth}
             \centering
@@ -845,9 +842,63 @@ When a single lifetime is fitted, the resulting lifetime seems to tend towards a
         \end{subfigure}
     }
     \label{fig:1life}
+    \caption{single lifetime fit} 
 \end{figure}
 
-\pagebreak
+\begin{figure}[p]
+    \centering
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 6/2-life/lifetimes.png}
+            \caption{$\tau_1$ = 370, $\tau_2$ = 442}
+            \label{fig:2life_370}
+        \end{subfigure}
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 7/355-444/output/2 life/lifetimes.png}
+            \caption{$\tau_1$ = 355, $\tau_2$ = 444}
+            \label{fig:2life-355}
+        \end{subfigure}
+    }
+    \centering
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 7/348-440/output/2 life/lifetimes.png}
+            \caption{$\tau_1$ = 370, $\tau_2$ = 440}
+            \label{fig:2life_348}
+        \end{subfigure}
+    }
+    \label{fig:2life}
+    \caption{two lifetime fit} 
+\end{figure}
 
-\subsection{Two lifetime fit}
-
+\begin{figure}[p]
+    \centering
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 6/3-life/lifetimes.png}
+            \caption{$\tau_1$ = 370, $\tau_2$ = 442}
+            \label{fig:3life_370}
+        \end{subfigure}
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 7/355-444/output/3 life/lifetimes.png}
+            \caption{$\tau_1$ = 355, $\tau_2$ = 444}
+            \label{fig:3life-355}
+        \end{subfigure}
+    }
+    \centering
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 7/348-440/output/3 life/lifetimes.png}
+            \caption{$\tau_1$ = 370, $\tau_2$ = 440}
+            \label{fig:3life_348}
+        \end{subfigure}
+    }
+    \label{fig:3life}
+    \caption{three lifetime fit} 
+\end{figure}
