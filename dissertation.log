@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.14)  22 JAN 2024 20:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.14)  4 FEB 2024 23:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -326,35 +326,39 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count296
 \l__lipsum_a_int=\count297
 \l__lipsum_b_int=\count298
- (c:/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (./dissertation.aux (./results.aux))
+ (c:/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (c:/texlive/2023/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count299
+\cp@tempcnt=\count300
+) (./dissertation.aux (./results.aux))
 \openout1 = `dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
  (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count299
+\scratchcounter=\count301
 \scratchdimen=\dimen267
 \scratchbox=\box65
-\nofMPsegments=\count300
-\nofMParguments=\count301
+\nofMPsegments=\count302
+\nofMParguments=\count303
 \everyMPshowfont=\toks35
-\MPscratchCnt=\count302
+\MPscratchCnt=\count304
 \MPscratchDim=\dimen268
-\MPnumerator=\count303
-\makeMPintoPDFobject=\count304
+\MPnumerator=\count305
+\makeMPintoPDFobject=\count306
 \everyMPtoPDFconversion=\toks36
 ) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -363,6 +367,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen269
+\caption@adjustwidth@linewidth=\dimen270
 Package caption Info: End \AtBeginDocument code.
 
 *geometry* driver: auto-detecting
@@ -400,11 +407,11 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 17.
+(Font)              <12> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 17.
+(Font)              <8> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 17.
+(Font)              <6> on input line 18.
 [1
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./dissertation.tdo
@@ -857,25 +864,41 @@ Package pdftex.def Info: Batch 5/8020-err i1.png  used on input line 725.
 
 LaTeX Warning: Float too large for page by 122.20078pt on input line 728.
 
-) [17] [18 <./Batch 5/t1-diff 2080.png> <./Batch 5/t1-err 2080.png> <./Batch 5/t1-diff 5050.png> <./Batch 5/t1-err 5050.png> <./Batch 5/t1-diff 8020.png> <./Batch 5/t1-err 8020.png>] [19 <./Batch 5/t2-diff 2080.png> <./Batch 5/t2-err 2080.png> <./Batch 5/t2-diff 5050.png> <./Batch 5/t2-err 5050.png> <./Batch 5/t2-diff 8020.png> <./Batch 5/t2-err 8020.png>] [20 <./Batch 5/2080-diff i1.png> <./Batch 5/2080-err i1.png> <./Batch 5/5050-diff i1.png> <./Batch 5/5050-err i1.png> <./Batch 5/8020-diff i1.png> <./Batch 5/8020-err i1.png>] (./dissertation.aux (./results.aux))
+[17] [18 <./Batch 5/t1-diff 2080.png> <./Batch 5/t1-err 2080.png> <./Batch 5/t1-diff 5050.png> <./Batch 5/t1-err 5050.png> <./Batch 5/t1-diff 8020.png> <./Batch 5/t1-err 8020.png>] [19 <./Batch 5/t2-diff 2080.png> <./Batch 5/t2-err 2080.png> <./Batch 5/t2-diff 5050.png> <./Batch 5/t2-err 5050.png> <./Batch 5/t2-diff 8020.png> <./Batch 5/t2-err 8020.png>] [20 <./Batch 5/2080-diff i1.png> <./Batch 5/2080-err i1.png> <./Batch 5/5050-diff i1.png> <./Batch 5/5050-err i1.png> <./Batch 5/8020-diff i1.png> <./Batch 5/8020-err i1.png>]
+<Batch 6/1-life/lifetime.png, id=234, 462.528pt x 346.896pt>
+File: Batch 6/1-life/lifetime.png Graphic file (type png)
+<use Batch 6/1-life/lifetime.png>
+Package pdftex.def Info: Batch 6/1-life/lifetime.png  used on input line 837.
+(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
+<Batch 7/355-444/output/1 life/lifetime.png, id=235, 462.528pt x 346.896pt>
+File: Batch 7/355-444/output/1 life/lifetime.png Graphic file (type png)
+<use Batch 7/355-444/output/1 life/lifetime.png>
+Package pdftex.def Info: Batch 7/355-444/output/1 life/lifetime.png  used on input line 837.
+(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
+<Batch 7/348-440/output/1 life/lifetime.png, id=236, 462.528pt x 346.896pt>
+File: Batch 7/348-440/output/1 life/lifetime.png Graphic file (type png)
+<use Batch 7/348-440/output/1 life/lifetime.png>
+Package pdftex.def Info: Batch 7/348-440/output/1 life/lifetime.png  used on input line 846.
+(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
+ [21] [22 <./Batch 6/1-life/lifetime.png> <./Batch 7/355-444/output/1 life/lifetime.png> <./Batch 7/348-440/output/1 life/lifetime.png>]) [23] (./dissertation.aux (./results.aux))
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15782 strings out of 474266
- 336033 string characters out of 5751449
+ 15871 strings out of 474266
+ 338242 string characters out of 5751449
  1945558 words of memory out of 5000000
- 37745 multiletter control sequences out of 15000+600000
- 563842 words of font info for 55 fonts, out of 8000000 for 9000
+ 37830 multiletter control sequences out of 15000+600000
+ 564149 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,9n,101p,1020b,950s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,11n,101p,1020b,950s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on dissertation.pdf (21 pages, 1572644 bytes).
+Output written on dissertation.pdf (24 pages, 1615039 bytes).
 PDF statistics:
- 281 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
+ 296 PDF objects out of 1000 (max. 8388607)
+ 91 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 388 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 403 words of extra memory for PDF output out of 10000 (max. 10000000)
 

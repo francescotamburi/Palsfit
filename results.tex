@@ -727,6 +727,9 @@ Looking at the left side of the figures ((a), (c) and (e)), we see that for the 
     \label{fig:bg-int-comp}
 \end{figure}
 
+\pagebreak
+
+
 \iffalse
 
 Using Python, we can plot the three gaussian functions that compose the instrument resolution function. The equation for a Gaussian function with parameters $a$, $b$ and $c$ (corresponding to the height of the peak, the position of the peak and the width of the graph) is given by the equation:
@@ -767,3 +770,84 @@ Plugging in these values into PALSSIM gives us very similar results to the three
 The next step would be to examine how the width of the instrument resolution function (IRF) affects the results. The values for $\tau_1$ and $\tau_2$ can be set to be kept the same between runs, with $\tau_1$ fixed to 150ps and $\tau_2$ ranging from 180-230ps, as we had the best results with these values. The full-width half maximum of our single gaussian IRF can be set to the following values: 100ps, 150ps, 180ps, 210ps.
 
 \fi
+
+
+\section{Realistic data}
+
+Analysis of real world data often differs from how we've conducted our analysis so far. One key factor is that usually the number of lifetimes present in a real life spectrum isn't known beforehand. As PALSFIT requires the user to input the number of fitted lifetimes, this might lead to situations in which the user predicts the wrong number of lifetimes, thus it might be useful to explore how the software behaves in such a situation.
+
+To do so, three materials (?) were modeled, with three lifetime components. All three have two shorter components that differed between them, and a long lifetime component set to 2.6ns with a 0.15\% intensity that was kept equal. The relative intensities of the two shorter lifetime components were adjusted to the following values:
+
+\begin{table}[h]
+    \centering
+    \begin{subtable}[t]{0.48\textwidth}
+        \flushleft
+        \begin{tabular}{|c|c|c|c|}
+            \hline
+            \multicolumn{2}{|c|}{relative} & \multicolumn{2}{|c|}{absolute} \\
+            \hline
+            $\tau_1$ & $\tau_2$ & $\tau_1$    & $\tau_2$   \\
+            \hline
+            99.5\% & 0.5\% & 99.3508\%*  &  0.4993\%* \\
+            90\%   & 10\% & 89.865\%    &  9.985\%   \\
+            80\%   & 20\% & 89.88\%     & 19.97\%    \\
+            50\%   & 50\% & 49.925\%    & 49.925\%   \\
+            20\%   & 80\% & 19.97\%     &  9.985\%   \\
+            \hline
+        \end{tabular}
+        \caption{intensities}
+    \end{subtable}
+
+    \hspace{\fill}
+
+    \begin{subtable}[t]{0.48\textwidth}
+        \begin{tabular}{|c|c|c|}
+            \hline
+            $\tau_1$(ps) & $\tau_2$(ps) & $\tau_3$(ns)\\
+            \hline
+            370 & 442 & 2.6 \\
+            355 & 444 & 2.6 \\
+            348 & 440 & 2.6 \\
+            \hline
+        \end{tabular}
+        \caption{lifetimes}
+    \end{subtable}
+\end{table}
+
+\subsection{Single lifetime fit}
+
+When a single lifetime is fitted, the resulting lifetime seems to tend towards a weighted average of the two shorter lifetimes, as can be seen in the following figures:
+
+\begin{figure}[p]
+    \centering
+    \caption{single lifetime fit}    
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 6/1-life/lifetime.png}
+            \caption{$\tau_1$ = 370, $\tau_2$ = 442}
+            \label{fig:1life_370}
+        \end{subfigure}
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 7/355-444/output/1 life/lifetime.png}
+            \caption{$\tau_1$ = 355, $\tau_2$ = 444}
+            \label{fig:1life-355}
+        \end{subfigure}
+    }
+    \centering
+    \makebox[\linewidth][c]{
+        \begin{subfigure}{0.7\textwidth}
+            \centering
+            \includegraphics[width=0.95\linewidth]{Batch 7/348-440/output/1 life/lifetime.png}
+            \caption{$\tau_1$ = 370, $\tau_2$ = 440}
+            \label{fig:1life_348}
+        \end{subfigure}
+    }
+    \label{fig:1life}
+\end{figure}
+
+\pagebreak
+
+\subsection{Two lifetime fit}
+

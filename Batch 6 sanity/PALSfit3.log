@@ -1,0 +1,117 @@
+PALSfit3 called with parameter: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested.pfc and options:           
+PALSfit3 loading control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested.pfc
+Controlfile[1]=
+Controlfile[2]=
+Controlfile[3]=
+Controlfile[4]=
+Controlfile[5]=
+Controlfile[6]=
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested.pfc loaded
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested.pfc loaded at startup
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested.pfc
+Controlfile[2]=
+Controlfile[3]=
+Controlfile[4]=
+Controlfile[5]=
+Controlfile[6]=
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Sug
+ gested.pfc
+16:27:27.04 02-FEB-24 - 00001 UNC_DJK_ID3 16:11:49.90 30-JAN-24
+16:27:28.24 02-FEB-24 - 00002 UNC_DJK_ID3 16:11:50.82 30-JAN-24
+16:27:29.57 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:51.75 30-JAN-24
+16:27:30.96 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:52.75 30-JAN-24
+16:27:32.37 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:53.69 30-JAN-24
+16:27:27.04 02-FEB-24 - 00001 UNC_DJK_ID3 16:11:49.90 30-JAN-24
+16:27:28.24 02-FEB-24 - 00002 UNC_DJK_ID3 16:11:50.82 30-JAN-24
+16:27:29.57 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:51.75 30-JAN-24
+16:27:30.96 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:52.75 30-JAN-24
+16:27:32.37 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:53.69 30-JAN-24
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested2.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested.pfc
+Controlfile[3]=
+Controlfile[4]=
+Controlfile[5]=
+Controlfile[6]=
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested2.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Sug
+ gested2.pfc
+16:30:18.44 02-FEB-24 - 00001 UNC_DJK_ID3 16:11:49.90 30-JAN-24
+16:30:19.83 02-FEB-24 - 00002 UNC_DJK_ID3 16:11:50.82 30-JAN-24
+16:30:21.24 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:51.75 30-JAN-24
+16:30:22.71 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:52.75 30-JAN-24
+16:30:24.12 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:53.69 30-JAN-24
+16:30:18.44 02-FEB-24 - 00001 UNC_DJK_ID3 16:11:49.90 30-JAN-24
+16:30:19.83 02-FEB-24 - 00002 UNC_DJK_ID3 16:11:50.82 30-JAN-24
+16:30:21.24 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:51.75 30-JAN-24
+16:30:22.71 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:52.75 30-JAN-24
+16:30:24.12 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:53.69 30-JAN-24
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested1.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested2.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested.pfc
+Controlfile[4]=
+Controlfile[5]=
+Controlfile[6]=
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested1.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Sug
+ gested1.pfc
+16:32:14.51 02-FEB-24 - 00001 UNC_DJK_ID3 16:11:49.90 30-JAN-24
+16:32:16.03 02-FEB-24 - 00002 UNC_DJK_ID3 16:11:50.82 30-JAN-24
+16:32:17.65 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:51.75 30-JAN-24
+16:32:19.38 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:52.75 30-JAN-24
+16:32:21.12 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:53.69 30-JAN-24
+16:32:14.51 02-FEB-24 - 00001 UNC_DJK_ID3 16:11:49.90 30-JAN-24
+16:32:16.03 02-FEB-24 - 00002 UNC_DJK_ID3 16:11:50.82 30-JAN-24
+16:32:17.65 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:51.75 30-JAN-24
+16:32:19.38 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:52.75 30-JAN-24
+16:32:21.12 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:53.69 30-JAN-24
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested1.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested2.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested.pfc
+Controlfile[4]=
+Controlfile[5]=
+Controlfile[6]=
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested1.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Sug
+ gested1.pfc
+16:36:01.51 02-FEB-24 - 00001 UNC_DJK_ID3 16:11:49.90 30-JAN-24
+16:36:02.21 02-FEB-24 - 00002 UNC_DJK_ID3 16:11:50.82 30-JAN-24
+16:36:02.93 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:51.75 30-JAN-24
+16:36:03.62 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:52.75 30-JAN-24
+16:36:04.34 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:53.69 30-JAN-24
+16:36:01.51 02-FEB-24 - 00001 UNC_DJK_ID3 16:11:49.90 30-JAN-24
+16:36:02.21 02-FEB-24 - 00002 UNC_DJK_ID3 16:11:50.82 30-JAN-24
+16:36:02.93 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:51.75 30-JAN-24
+16:36:03.62 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:52.75 30-JAN-24
+16:36:04.34 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:53.69 30-JAN-24
+Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested2.pfc
+Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested1.pfc
+Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested.pfc
+Controlfile[4]=
+Controlfile[5]=
+Controlfile[6]=
+Controlfile[7]=
+Controlfile[8]=
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Suggested2.pfc loaded
+ Analyzing C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 6 sanity\240125_DJK Sug
+ gested2.pfc
+16:37:38.21 02-FEB-24 - 00001 UNC_DJK_ID3 16:11:49.90 30-JAN-24
+16:37:39.20 02-FEB-24 - 00002 UNC_DJK_ID3 16:11:50.82 30-JAN-24
+16:37:40.24 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:51.75 30-JAN-24
+16:37:41.85 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:52.75 30-JAN-24
+16:37:43.87 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:53.69 30-JAN-24
+16:37:38.21 02-FEB-24 - 00001 UNC_DJK_ID3 16:11:49.90 30-JAN-24
+16:37:39.20 02-FEB-24 - 00002 UNC_DJK_ID3 16:11:50.82 30-JAN-24
+16:37:40.24 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:51.75 30-JAN-24
+16:37:41.85 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:52.75 30-JAN-24
+16:37:43.87 02-FEB-24 - 00003 UNC_DJK_ID3 16:11:53.69 30-JAN-24

@@ -1,0 +1,83 @@
+SIMULATION PARAMETERS: UNC_DJK_ID3
+NCHAN  18000                                   ! Number of channels
+AREA   10000000.                               ! Area without background
+BACKGR 0.5                                     ! Background
+T0     3000.                                   ! Time-zero T0
+CHATIM 3.0000E-03                              ! Time (ns) per channel width
+KG     3                                       ! Number of Gaussians in resolution function
+FWHM   0.2036 0.3022 0.1573                    ! FWHMs (ns) of the Gaussians
+OMEGA  60. 30. 10.                             ! Gaussian intensities (%) - must add up to 100
+DP0    0. 0.0203 -0.0847                       ! Shifts (ns) of the Gaussians
+K0     3                                       ! Number of lifetimes
+TA     0.37 0.442 2.6                          ! Lifetimes (ns)
+SIGMA  0. 0. 0.                                ! Log-normal standard deviation (0=no broadening)
+RINT   99.425 0.425 0.15                       ! Lifetime intensities (%) - must add up to 100
+IX     -1                                      ! Initial random integer
+NSPEC  1                                       ! Number of simulated spectra
+AUTONR
+NEXTNR 1                                       ! Number of first spectrum
+ 
+AREA   10000000.                               ! Area without background
+BACKGR 0.5                                     ! Background
+T0     3000.                                   ! Time-zero T0
+CHATIM 3.0000E-03                              ! Time (ns) per channel width
+KG     3                                       ! Number of Gaussians in resolution function
+FWHM   0.2036 0.3022 0.1573                    ! FWHMs (ns) of the Gaussians
+OMEGA  60. 30. 10.                             ! Gaussian intensities (%) - must add up to 100
+DP0    0. 0.0203 -0.0847                       ! Shifts (ns) of the Gaussians
+K0     3                                       ! Number of lifetimes
+TA     0.37 0.442 2.6                          ! Lifetimes (ns)
+SIGMA  0. 0. 0.                                ! Log-normal standard deviation (0=no broadening)
+RINT   89.925 9.925 0.15                       ! Lifetime intensities (%) - must add up to 100
+IX     -1                                      ! Initial random integer
+NSPEC  1                                       ! Number of simulated spectra
+NEXTNR 2                                       ! Number of first spectrum
+ 
+AREA   10000000.                               ! Area without background
+BACKGR 0.5                                     ! Background
+T0     3000.                                   ! Time-zero T0
+CHATIM 3.0000E-03                              ! Time (ns) per channel width
+KG     3                                       ! Number of Gaussians in resolution function
+FWHM   0.2036 0.3022 0.1573                    ! FWHMs (ns) of the Gaussians
+OMEGA  60. 30. 10.                             ! Gaussian intensities (%) - must add up to 100
+DP0    0. 0.0203 -0.0847                       ! Shifts (ns) of the Gaussians
+K0     3                                       ! Number of lifetimes
+TA     0.37 0.442 2.6                          ! Lifetimes (ns)
+SIGMA  0. 0. 0.                                ! Log-normal standard deviation (0=no broadening)
+RINT   79.925 19.925 0.15                      ! Lifetime intensities (%) - must add up to 100
+IX     -1                                      ! Initial random integer
+NSPEC  1                                       ! Number of simulated spectra
+NEXTNR 3                                       ! Number of first spectrum
+ 
+AREA   10000000.                               ! Area without background
+BACKGR 0.5                                     ! Background
+T0     3000.                                   ! Time-zero T0
+CHATIM 3.0000E-03                              ! Time (ns) per channel width
+KG     3                                       ! Number of Gaussians in resolution function
+FWHM   0.2036 0.3022 0.1573                    ! FWHMs (ns) of the Gaussians
+OMEGA  60. 30. 10.                             ! Gaussian intensities (%) - must add up to 100
+DP0    0. 0.0203 -0.0847                       ! Shifts (ns) of the Gaussians
+K0     3                                       ! Number of lifetimes
+TA     0.37 0.442 2.6                          ! Lifetimes (ns)
+SIGMA  0. 0. 0.                                ! Log-normal standard deviation (0=no broadening)
+RINT   49.925 49.925 0.15                      ! Lifetime intensities (%) - must add up to 100
+IX     -1                                      ! Initial random integer
+NSPEC  1                                       ! Number of simulated spectra
+NEXTNR 3                                       ! Number of first spectrum
+ 
+AREA   10000000.                               ! Area without background
+BACKGR 0.5                                     ! Background
+T0     3000.                                   ! Time-zero T0
+CHATIM 3.0000E-03                              ! Time (ns) per channel width
+KG     3                                       ! Number of Gaussians in resolution function
+FWHM   0.2036 0.3022 0.1573                    ! FWHMs (ns) of the Gaussians
+OMEGA  60. 30. 10.                             ! Gaussian intensities (%) - must add up to 100
+DP0    0. 0.0203 -0.0847                       ! Shifts (ns) of the Gaussians
+K0     3                                       ! Number of lifetimes
+TA     0.37 0.442 2.6                          ! Lifetimes (ns)
+SIGMA  0. 0. 0.                                ! Log-normal standard deviation (0=no broadening)
+RINT   19.925 79.925 0.15                      ! Lifetime intensities (%) - must add up to 100
+IX     -1                                      ! Initial random integer
+NSPEC  1                                       ! Number of simulated spectra
+NEXTNR 3                                       ! Number of first spectrum
+ 

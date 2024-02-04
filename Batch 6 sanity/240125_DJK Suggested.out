@@ -1,0 +1,170 @@
+
+ *****************************************************************
+ Parameters used in spectrum generation with header:
+ UNC_DJK_ID3
+
+ Next spectrum number:                1
+ Number of spectrum channels:     18000
+
+ Resolution function
+ Fwhm(ns):                   0.20360   0.30220   0.15730
+ Intensities(%):            60.00000  30.00000  10.00000
+ Shifts(ns):                 0.00000   0.02030  -0.08470
+
+ Lifetime components
+ Lifetimes(ns):              0.37000   0.44200   2.60000
+ Intensities(%):            99.42500   0.42500   0.15000
+
+ Background:                 0.50000
+
+ Time-zero channel:       3000.00000
+
+ Time scale (ns/ch):         0.00300
+
+ Input area without backgr:      1.0000000E+07
+
+ Starting with a true random number
+
+ Input area with background:     1.0009000E+07
+
+ Number of generated spectra:                1
+ -----------------------------------------------------------------
+
+ Generating spectrum no.    1. with initial random number: -1
+00001 UNC_DJK_ID3 16:11:49.90 30-JAN-24
+
+ *****************************************************************
+ Parameters used in spectrum generation with header:
+ UNC_DJK_ID3
+
+ Next spectrum number:                2
+ Number of spectrum channels:     18000
+
+ Resolution function
+ Fwhm(ns):                   0.20360   0.30220   0.15730
+ Intensities(%):            60.00000  30.00000  10.00000
+ Shifts(ns):                 0.00000   0.02030  -0.08470
+
+ Lifetime components
+ Lifetimes(ns):              0.37000   0.44200   2.60000
+ Intensities(%):            89.92500   9.92500   0.15000
+
+ Background:                 0.50000
+
+ Time-zero channel:       3000.00000
+
+ Time scale (ns/ch):         0.00300
+
+ Input area without backgr:      1.0000000E+07
+
+ Initial random number:   1253062277
+
+ Input area with background:     1.0009000E+07
+
+ Number of generated spectra:                1
+ -----------------------------------------------------------------
+
+ Generating spectrum no.    2. with initial random number: 1253062277
+00002 UNC_DJK_ID3 16:11:50.82 30-JAN-24
+
+ *****************************************************************
+ Parameters used in spectrum generation with header:
+ UNC_DJK_ID3
+
+ Next spectrum number:                3
+ Number of spectrum channels:     18000
+
+ Resolution function
+ Fwhm(ns):                   0.20360   0.30220   0.15730
+ Intensities(%):            60.00000  30.00000  10.00000
+ Shifts(ns):                 0.00000   0.02030  -0.08470
+
+ Lifetime components
+ Lifetimes(ns):              0.37000   0.44200   2.60000
+ Intensities(%):            79.92500  19.92500   0.15000
+
+ Background:                 0.50000
+
+ Time-zero channel:       3000.00000
+
+ Time scale (ns/ch):         0.00300
+
+ Input area without backgr:      1.0000000E+07
+
+ Initial random number:    914859852
+
+ Input area with background:     1.0009000E+07
+
+ Number of generated spectra:                1
+ -----------------------------------------------------------------
+
+ Generating spectrum no.    3. with initial random number: 914859852
+00003 UNC_DJK_ID3 16:11:51.75 30-JAN-24
+
+ *****************************************************************
+ Parameters used in spectrum generation with header:
+ UNC_DJK_ID3
+
+ Next spectrum number:                3
+ Number of spectrum channels:     18000
+
+ Resolution function
+ Fwhm(ns):                   0.20360   0.30220   0.15730
+ Intensities(%):            60.00000  30.00000  10.00000
+ Shifts(ns):                 0.00000   0.02030  -0.08470
+
+ Lifetime components
+ Lifetimes(ns):              0.37000   0.44200   2.60000
+ Intensities(%):            49.92500  49.92500   0.15000
+
+ Background:                 0.50000
+
+ Time-zero channel:       3000.00000
+
+ Time scale (ns/ch):         0.00300
+
+ Input area without backgr:      1.0000000E+07
+
+ Initial random number:   1852752212
+
+ Input area with background:     1.0009000E+07
+
+ Number of generated spectra:                1
+ -----------------------------------------------------------------
+
+ Generating spectrum no.    3. with initial random number: 1852752212
+00003 UNC_DJK_ID3 16:11:52.75 30-JAN-24
+
+ *****************************************************************
+ Parameters used in spectrum generation with header:
+ UNC_DJK_ID3
+
+ Next spectrum number:                3
+ Number of spectrum channels:     18000
+
+ Resolution function
+ Fwhm(ns):                   0.20360   0.30220   0.15730
+ Intensities(%):            60.00000  30.00000  10.00000
+ Shifts(ns):                 0.00000   0.02030  -0.08470
+
+ Lifetime components
+ Lifetimes(ns):              0.37000   0.44200   2.60000
+ Intensities(%):            19.92500  79.92500   0.15000
+
+ Background:                 0.50000
+
+ Time-zero channel:       3000.00000
+
+ Time scale (ns/ch):         0.00300
+
+ Input area without backgr:      1.0000000E+07
+
+ Initial random number:   1378182901
+
+ Input area with background:     1.0009000E+07
+
+ Number of generated spectra:                1
+ -----------------------------------------------------------------
+
+ Generating spectrum no.    3. with initial random number: 1378182901
+00003 UNC_DJK_ID3 16:11:53.69 30-JAN-24
