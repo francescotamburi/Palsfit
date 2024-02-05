@@ -22,7 +22,7 @@ ax1.errorbar(df["Intensities"], df["Life-2"]*1000, yerr=df["Std Life-2"]*1000, l
 ax2.set_ylim( 320,  500)
 ax1.set_ylim(2000, 2700)
 
-ax2.axhline(y = 358,  color = g, linestyle = 'dashed')
+ax2.axhline(y = 355,  color = g, linestyle = 'dashed')
 ax2.axhline(y = 444,  color = g, linestyle = 'dashed')
 ax1.axhline(y = 2600, color = g, linestyle = 'dashed')
 
@@ -38,4 +38,4 @@ kwargs = dict(marker=[(-1, -d), (1, d)], markersize=12,
 ax1.plot([0, 1], [0, 0], transform=ax1.transAxes, **kwargs)
 ax2.plot([0, 1], [1, 1], transform=ax2.transAxes, **kwargs)
 
-plt.show()
+plt.savefig("lifetimes.png")
