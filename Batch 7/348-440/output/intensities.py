@@ -8,8 +8,8 @@ B = "#1dadff"
 P = "#fb3efd"
 g = "#cdcd"
 
-double = pd.read_csv("2-life/life2f.csv")
-triple = pd.read_csv("3-life/life3f.csv")
+double = pd.read_csv("2 life/lifef.csv")
+triple = pd.read_csv("3 life/lifef.csv")
 
 intensities = double["Intensities"]
 

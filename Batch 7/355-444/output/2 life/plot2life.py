@@ -34,7 +34,7 @@ for i in rel_int:
 
 df = pd.read_csv("lifef.csv")
 
-fig, (ax1,ax2)  = plt.subplots(2,1, sharex=True)
+fig, (ax1,ax2)  = plt.subplots(2,1, sharex=True, height_ratios=[1,2])
 fig.subplots_adjust(hspace=0.1) #adjust space between axes
 
 ax2.errorbar(df["Intensities"], weighted_avg, yerr=0, linestyle="none", marker = ".", color=g, capsize=10, fmt="none")
