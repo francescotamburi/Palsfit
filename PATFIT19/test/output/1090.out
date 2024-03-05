@@ -1,0 +1,56 @@
+POSITRONFIT - PATFIT18 EDITION 24-04-2018
+INPUT FILE: 1090.pfc
+
+ A ZERO IN THE SPECTRUM WAS DETECTED
+
+P O S I T R O N F I T ...  24-APR-2018  ...  JOB TIME 17:54:00 25-FEB-24
+************************************************************************
+00001 Untitled 14:01:52.97 25-FEB-24
+IN FILE: 1090.dat
+************************************************************************
+DATASET  1                                    LT LN LX SX IX BG TZ AR GA
+                                               3  0  0  0  0  0  0  0  3
+TIME SCALE   NS/CHANNEL       :   0.003000
+AREA RANGE   STARTS IN CH     1 AND ENDS IN CH 10000
+FIT RANGE    STARTS IN CH  2939 AND ENDS IN CH  8607
+
+RESOLUTION   FWHM (NS)        :     0.2036    0.3022    0.1573
+FUNCTION     INTENSITIES (%)  :    60.0000   30.0000   10.0000
+             SHIFTS (NS)      :     0.0000    0.0203   -0.0847
+
+----------------- I N I T I A L   P A R A M E T E R S ------------------
+             TIME-ZERO(CHTIME):  3007.0000G
+             LIFETIMES (NS)   :     0.1117G   0.4420G   2.0000G
+
+
+ ----------------- N O  S O U R C E  C O R R E C T I O N ----------------
+
+
+####################### F I N A L  R E S U L T S #######################
+DATASET  1                                    LT LN LX SX IX BG TZ AR GA
+                                               3  0  0  0  0  0  0  0  3
+CONVERGENCE OBTAINED AFTER   6 ITERATIONS
+CHI-SQUARE =      4493.95   WITH     5661 DEGREES OF FREEDOM
+REDUCED CHI-SQUARE = CHI-SQUARE/DOF =    0.794  WITH STD DEVIATION 0.019
+SIGNIFICANCE OF IMPERFECT MODEL =   0.00 %
+
+LIFE.COMP.   LIFETIMES (NS)   :     0.1110    0.4417    1.8852
+             STD DEVIATIONS   :     0.0019    0.0004    0.1117
+
+             INTENSITIES (%)  :    10.2461   89.5889    0.1650
+             STD DEVIATIONS   :     0.1149    0.1081    0.0168
+
+             MEAN LIFETIME    :     0.4102
+             STD DEVIATION    :     0.0002
+
+BACKGROUND   COUNTS/CHANNEL   :     0.5223
+             STD DEVIATIONS   :     0.0251
+
+TIME-ZERO    CHANNEL TIME     :  3000.0607
+             STD DEVIATIONS   :     0.0648
+
+TOTAL AREA   FROM FIT         : 1.00050E+07      FROM TABLE: 1.00050E+07
+
+######################### P O S I T R O N F I T ########################
+
+ TOTAL CPU TIME:     0.08 SECONDS.
