@@ -1,33 +1,5 @@
-PALSfit3 called with parameter: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\8515.pfc and options:           
-PALSfit3 loading control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\8515.pfc
-Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\7525.pfc
-Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\6040.pfc
-Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\2080.pfc
-Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\1090.pfc
-Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\0595.pfc
-Controlfile[6]=
-Controlfile[7]=
-Controlfile[8]=
-POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\8515.pfc loaded
-POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\8515.pfc loaded at startup
-Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\8515.pfc
-Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\7525.pfc
-Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\6040.pfc
-Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\2080.pfc
-Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\1090.pfc
-Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\0595.pfc
-Controlfile[7]=
-Controlfile[8]=
-POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\8515.pfc loaded
-Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\8515.pfc
-Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\7525.pfc
-Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\6040.pfc
-Controlfile[4]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\2080.pfc
-Controlfile[5]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\1090.pfc
-Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\0595.pfc
-Controlfile[7]=
-Controlfile[8]=
-POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\9010.pfc loaded
+PALSfit3 called with parameter: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\9010.pfc and options:           
+PALSfit3 loading control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\9010.pfc
 Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\9010.pfc
 Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\8515.pfc
 Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\7525.pfc
@@ -37,6 +9,7 @@ Controlfile[6]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\1090.pfc
 Controlfile[7]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\0595.pfc
 Controlfile[8]=
 POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\9010.pfc loaded
+POSITRONFIT control file: C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\9010.pfc loaded at startup
 Controlfile[1]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\9010.pfc
 Controlfile[2]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\8515.pfc
 Controlfile[3]=C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\442\7525.pfc

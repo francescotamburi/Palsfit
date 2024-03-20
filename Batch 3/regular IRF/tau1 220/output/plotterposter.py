@@ -11,9 +11,13 @@ g = "#cdcd"
 
 offset = 1
 
-csv_filename = "a.csv"
+csv_filename = "af.csv"
 
 df = pd.read_csv(csv_filename)
+
+plt.rcParams['text.usetex'] = True
+plt.rcParams['font.size'] = 12
+
 
 tau_2080 = df[df["Sim Int-1"]==20]
 tau_5050 = df[df["Sim Int-1"]==50]
@@ -36,17 +40,17 @@ plt.clf()
 
 #Tau 2
 #plt.title("Tau 2 difference")
-plt.xlabel("Simulated Tau 2 (ps)")
-plt.ylabel("PALSFIT Output - Simulated Tau 2 (ps)")
+plt.xlabel("$\\tau_2$ (ps)")
+plt.ylabel("$\\tau_{2,PALSfit}-\\tau_{2,sim}$ (ps)")
 
 plt.axhline(y = 0, color = g, linestyle = 'dashed')
 
 plt.errorbar(tau_2080["Sim Life-2"]-offset, tau_2080["Life-2"]*1000-tau_2080["Sim Life-2"], yerr=tau_2080["Std Life-2"]*1000, linestyle="none", label="20-80", marker = "o", color=B, capsize=5)
 plt.errorbar(tau_5050["Sim Life-2"], tau_5050["Life-2"]*1000-tau_5050["Sim Life-2"], yerr=tau_5050["Std Life-2"]*1000, linestyle="none", label="50-50", marker = "s", color=R, capsize=5)
 plt.errorbar(tau_8020["Sim Life-2"]+offset, tau_8020["Life-2"]*1000-tau_8020["Sim Life-2"], yerr=tau_8020["Std Life-2"]*1000, linestyle="none", label="80-20", marker = "d", color=G, capsize=5)
-
-plt.legend()
-plt.show()
+plt.ylim(-35,10)
+plt.legend(title="$\\tau_1$,$\\tau_2$ (\\%)",loc=4)
+plt.savefig("t2poster",bbox_inches="tight")
 
 
 """
