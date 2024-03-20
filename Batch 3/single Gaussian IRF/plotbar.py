@@ -167,7 +167,7 @@ for dataset in plots:
 	
 	plt.xticks(x,x)
 	plt.legend()
-	plt.savefig(dataset[0]+" "+dataset[1]+".png")
+	plt.savefig(dataset[0]+" "+dataset[1]+".png", bbox_inches="tight")
 	plt.clf()
 
 """
