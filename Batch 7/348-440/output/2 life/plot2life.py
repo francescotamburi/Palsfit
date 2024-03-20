@@ -8,6 +8,9 @@ B = "#1dadff"
 P = "#fb3efd"
 g = "#cdcd"
 
+plt.rcParams['text.usetex'] = True
+plt.rcParams['font.size'] = 12
+
 true_int = [
 	(19.97  ,  79.88),
 	(49.925 , 49.925),
@@ -60,4 +63,7 @@ kwargs = dict(marker=[(-1, -d), (1, d)], markersize=12,
 ax1.plot([0, 1], [0, 0], transform=ax1.transAxes, **kwargs)
 ax2.plot([0, 1], [1, 1], transform=ax2.transAxes, **kwargs)
 
-plt.savefig("lifetimes.png")
+plt.xlabel(r"Relative intensities [\%]")
+plt.ylabel("Lifetime [ps]")
+
+plt.savefig("lifetimes.png", bbox_inches="tight")

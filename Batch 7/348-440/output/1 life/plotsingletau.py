@@ -8,6 +8,9 @@ B = "#1dadff"
 P = "#fb3efd"
 g = "#cdcd"
 
+plt.rcParams['text.usetex'] = True
+plt.rcParams['font.size'] = 12
+
 true_int = [
 	(19.97  ,  79.88),
 	(49.925 , 49.925),
@@ -47,4 +50,7 @@ for i in rel_int:
 
 plt.errorbar(df["Intensities"], weighted_avg, yerr=0, linestyle="none", marker = ".", color=g, capsize=10, fmt="none")
 
-plt.savefig("lifetime.png")
+plt.xlabel(r"Relative intensities [\%]")
+plt.ylabel("Lifetime [ps]")
+
+plt.savefig("lifetimes.png", bbox_inches="tight")

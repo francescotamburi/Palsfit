@@ -41,7 +41,7 @@ kwargs = dict(marker=[(-1, -d), (1, d)], markersize=12,
 ax1.plot([0, 1], [0, 0], transform=ax1.transAxes, **kwargs)
 ax2.plot([0, 1], [1, 1], transform=ax2.transAxes, **kwargs)
 
-plt.xlabel("Relative intensities $\\I_1$, $\\I_1$ [\\%]")
+plt.xlabel(r"Relative intensities [\%]")
 plt.ylabel("Lifetime [ps]")
 
 plt.savefig("lifetimes.png", bbox_inches="tight")
