@@ -1,4 +1,90 @@
-\chapter*{Introduction}
+\chapter*{Introduction and Overview}
 
-\chapter*{Standard Trapping Model}
+What is PALS?
+- Potential uses
+- Experimental setup
+- Intro to PALSfit
+- Positron lifetime
+(in some order)
+
+Positron Annihilation Spectroscopy is an experimental technique for analyzing materials that uses positrons (duh).
+
+Many types of analysis from positron experiments, lifetime analysis is particularly useful.
+
+Source, usually radioactive source material, produces positrons. High energy positrons slow down in "thermalization" phase, mechanism differs slightly for different materials (e.g conductors vs semiconductors vs insulators). Thermalization is overall not significant from a lifetime standpoint [cite the study cited in Krause]. Once slowed, positron wavefunction diffuses through the material (something something Bloch state).
+
+During diffusion, lattice structure affects lifetime due to electron density. Deviations from regular lattice structure affect lifetimes due to changes to electron density, e.g atomic vacancies (but also dislocations, bigger voids and precipitates). Longer lifetimes when defects present.
+
+A little bit about PALSfit...?
+
+\pagebreak
+
+\section{Positron Annihilation Lifetime Spectroscopy}
+
+Positron annihilation as a means of investigating lattice imperfections traces its roots back to the late 1960s, when the link between positron lifetimes and lattice vacancies was first proposed. \cite{Mackenzie67} As the lifetime of a positron is a function of the electron density at the annihilation site, and lattice defects (e.g. open vacancies) represent a local decrease in electron density, longer lifetimes are observed for positrons trapped in these defects. \cite{Krause} The presence of multiple positron lifetimes within a sample material, thus, indicates the presence of lattice defects within that material.
+
+Positron Annihilation Lifetime Spectroscopy (PALS) is the study of these lifetimes, with the aim of determining the number and types of defects present in a sample material. While other techniques to study lattice defects exist, the main advantage of PALS is the high sensitivity of the technique to open-volume defects.\footnote{Thorough comparisons of defect sensitive techniques, as well as their respective advantages and disadvantages, are available in literature, but detailed analysis of these is beyond the scope of this project.} This property, along with the non-destructive nature of the technique, has led to its application in various fields of study.\cite{PharmApp} \cite{Nuc}
+
+Positron lifetimes can be determined experimentally by measuring the time interval between the emission of gamma photons that signal the production and annihilation of the positron. Commonly used positron sources are weakly radioactive isotopes such as \ch{^{22}Na}, which simulataneously emits a 1.27 MeV $\gamma$-photon and a positron as a part of its \ch{$\beta$^{+}} decay. As the positron encounters the sample material, it quickly loses its kinetic energy in a process known as "thermalization" as it penetrates into the sample. The positron's wavefunction then diffuses into the material and finally annihilates, producing two 511 keV $\gamma$-photons.
+
+A scintillator-photomultiplier setup converts the $\gamma$-rays into analog electrical pulses, which are then processed by discriminators, distinguishing the 1.27 MeV from the 511keV pulses. The former is used as a "start" signal to begin charging a capacitor, and the latter stops the charging process. The capacitor acts as a sort of "electronic stopwatch", converting the time delay into an amplitude signal. To ensure a linear time-amplitude relationship, the stop signal is delayed by a fixed amount. Each signal is stored in the memory of a multichannel analyzer, where the channel numbers represent time and every count represents a single annihilation event. The resulting lifetime spectrum contains more than $10^6$ annihilation events.
+
+\section{The lifetime spectrum}
+
+The resulting spectrum contains $k+1$ lifetime components, corresponding to $k$ different defect types and the positron lifetime in the defect-free bulk ($\tau_b$). From these we get the time-dependent positron decay spectrum $D(t)$ -- the probability for a positron to still be alive at a given time $t$ \cite{EFermi} -- given by the expression
+
+\begin{equation}
+    D(t) = \sum_{i=1}^{k+1}I_i\exp\left(-\frac{t}{\tau_i}\right),
+\end{equation}
+
+where $\tau_i$ and $I_i$ represent the lifetime and intensity of each component, respectively.\footnote{When $k=0$ (i.e. there are no defect components), $\tau_i = \tau_b$ (the bulk lifetime) and $I_i = 100\%$} The resulting positron lifetime spectrum $N(t)$ is given by the absolute value of the time derivative of the positron decay spectrum $D(t)$\footnote{Due to the delay introduced in the time-amplitude conversion, $t = t + t_0$}:
+
+\begin{equation}
+    N(t) = \left|\frac{\mathrm{d}D(t)}{\mathrm{d}t}\right| = \sum_{i=1}^{k+1}\frac{I_i}{\tau_i}\exp\left(-\frac{t + t_0}{\tau_i}\right).
+\end{equation}
+
+The experimental spectrum is the convolution of the lifetime spectrum analytically described above and an Instrument Resolution Function (IRF). This resolution function is mainly determined by the scintillator+photomultiplier and takes the form of a sum of several Gaussian functions, 
+
+\begin{equation}
+    F(t) = \sum G_i(t),
+\end{equation}
+
+with variations in the peak position, relative height and width of each Gaussian, $G_i(t)$. This gives us an experimental spectrum of the form
+
+\begin{equation}
+    D_{exp} (t) = \int_{-\infty}^{+\infty} D(t-t') F(t') dt'.
+\end{equation}
+
+\section{PALSfit}
+
+Analysis of experimental spectra to extract physically meaningful parameters can be done using various computer programs. Most software does this by fitting a model function to the experimental spectrum, using some sort of least-squares method. PALSfit is a software package developed for this purpose. Using the POSITRONFIT module, it can determine lifetimes and intensities from lifetime spectra. 
+
+PALSfit Version 3, or more simply PALSfit3, is the latest version of this package, which this project is aimed at evaluating. Any subsequent references to PALSfit refer to this version of the software.
+
+
+
+
+\chapter{Reading the spectrum}
+
+\section{The positron lifetime}
+
+The lifetime of a positron, from production to annihilation, tends to be quite short, usually measured in the picosecond to nanosecond time scale. Nevertheless, during this brief lifetime, we can identify a few key stages and different paths that the positron may take. 
+
+A significant fraction of the positrons produced (up to 10-15\%) never penetrates the sample material, annihilating instead in the source or source-sample interface. This can occur, for example, due to the backscattering of the positrons as they encounter positively charged atomic nuclei. 
+
+Thermalization, the process that slows down positrons before they diffuse into the sample, occurs via different mechanisms, depending on both the type of material and the energy of the positron. For example, at high energies, atomic ionization is dominant, while at low energies ($<1$ eV in metals and $\sim1$ eV in semiconductors) scattering off phonons dominates. Regardless of the specific mechanisms, however, the thermalization process occurs within the first few picoseconds.
+
+Once thermalization occurs, the positron is free to diffuse through the sample lattice. This is the longest stage and also the one where defect trapping predominantly occurs. During diffusion, the wavefunction of the positively charged positron is primarily concentrated in the intersitial space between atoms due to the repulsion of positively charged atomic nuclei. In a perfect lattice, the positron delocalizes into a Bloch state with $k_+ = 0$. [mention of band structure?] 
+
+\section{Trapping}
+
+Trapping occurs when a vacancy-type defect is encountered and a localized positron state forms at the defect. The rate at which this occurs, called the positron trapping rate $\kappa$ is proportional to the defect concentration $C$. Specifically
+
+\begin{equation}
+    \kappa = \mu C,
+\end{equation}
+
+where $\mu$ is termed the positron trapping coefficient, and is constant for a given defect.
+
+Prob of trapping depends on vacancy concentration. $->$ Single defect trapping model
 
