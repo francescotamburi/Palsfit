@@ -1,23 +1,4 @@
-\chapter*{Introduction and Overview}
-
-What is PALS?
-- Potential uses
-- Experimental setup
-- Intro to PALSfit
-- Positron lifetime
-(in some order)
-
-Positron Annihilation Spectroscopy is an experimental technique for analyzing materials that uses positrons (duh).
-
-Many types of analysis from positron experiments, lifetime analysis is particularly useful.
-
-Source, usually radioactive source material, produces positrons. High energy positrons slow down in "thermalization" phase, mechanism differs slightly for different materials (e.g conductors vs semiconductors vs insulators). Thermalization is overall not significant from a lifetime standpoint [cite the study cited in Krause]. Once slowed, positron wavefunction diffuses through the material (something something Bloch state).
-
-During diffusion, lattice structure affects lifetime due to electron density. Deviations from regular lattice structure affect lifetimes due to changes to electron density, e.g atomic vacancies (but also dislocations, bigger voids and precipitates). Longer lifetimes when defects present.
-
-A little bit about PALSfit...?
-
-\pagebreak
+\chapter{Intro}
 
 \section{Positron Annihilation Lifetime Spectroscopy}
 
@@ -32,39 +13,34 @@ A scintillator-photomultiplier setup converts the $\gamma$-rays into analog elec
 \section{The lifetime spectrum}
 
 The resulting spectrum contains $k+1$ lifetime components, corresponding to $k$ different defect types and the positron lifetime in the defect-free bulk ($\tau_b$). From these we get the time-dependent positron decay spectrum $D(t)$ -- the probability for a positron to still be alive at a given time $t$ \cite{EFermi} -- given by the expression
-
 \begin{equation}
     D(t) = \sum_{i=1}^{k+1}I_i\exp\left(-\frac{t}{\tau_i}\right),
+    \label{eq:decayspec}
 \end{equation}
-
 where $\tau_i$ and $I_i$ represent the lifetime and intensity of each component, respectively.\footnote{When $k=0$ (i.e. there are no defect components), $\tau_i = \tau_b$ (the bulk lifetime) and $I_i = 100\%$} The resulting positron lifetime spectrum $N(t)$ is given by the absolute value of the time derivative of the positron decay spectrum $D(t)$\footnote{Due to the delay introduced in the time-amplitude conversion, $t = t + t_0$}:
-
 \begin{equation}
     N(t) = \left|\frac{\mathrm{d}D(t)}{\mathrm{d}t}\right| = \sum_{i=1}^{k+1}\frac{I_i}{\tau_i}\exp\left(-\frac{t + t_0}{\tau_i}\right).
+    \label{eq:lifespec}
 \end{equation}
 
 The experimental spectrum is the convolution of the lifetime spectrum analytically described above and an Instrument Resolution Function (IRF). This resolution function is mainly determined by the scintillator+photomultiplier and takes the form of a sum of several Gaussian functions, 
-
 \begin{equation}
     F(t) = \sum G_i(t),
 \end{equation}
-
 with variations in the peak position, relative height and width of each Gaussian, $G_i(t)$. This gives us an experimental spectrum of the form
-
 \begin{equation}
     D_{exp} (t) = \int_{-\infty}^{+\infty} D(t-t') F(t') dt'.
 \end{equation}
 
 \section{PALSfit}
 
-Analysis of experimental spectra to extract physically meaningful parameters can be done using various computer programs. Most software does this by fitting a model function to the experimental spectrum, using some sort of least-squares method. PALSfit is a software package developed for this purpose. Using the POSITRONFIT module, it can determine lifetimes and intensities from lifetime spectra. 
+Analysis of experimental spectra to extract physically meaningful parameters can be done using various computer programs. Most software does this by fitting a model function to the experimental spectrum, using some sort of least-squares method. 
 
-PALSfit Version 3, or more simply PALSfit3, is the latest version of this package, which this project is aimed at evaluating. Any subsequent references to PALSfit refer to this version of the software.
+One common disadvantage of all least-squares based programs is that the user must input the number of lifetime components in the spectrum. This often means starting with a single component and adding more until the variance stops decreasing.
 
+PALSfit is a software package based on the least-squares method. Using the POSITRONFIT module, it can determine lifetimes and intensities from lifetime spectra. PALSfit Version 3, or more simply PALSfit3, is the latest version of this package, which this project is aimed at evaluating. Any subsequent references to PALSfit refer to this version of the software.
 
-
-
-\chapter{Reading the spectrum}
+\chapter{Annihilation Spectra}
 
 \section{The positron lifetime}
 
@@ -74,17 +50,85 @@ A significant fraction of the positrons produced (up to 10-15\%) never penetrate
 
 Thermalization, the process that slows down positrons before they diffuse into the sample, occurs via different mechanisms, depending on both the type of material and the energy of the positron. For example, at high energies, atomic ionization is dominant, while at low energies ($<1$ eV in metals and $\sim1$ eV in semiconductors) scattering off phonons dominates. Regardless of the specific mechanisms, however, the thermalization process occurs within the first few picoseconds.
 
-Once thermalization occurs, the positron is free to diffuse through the sample lattice. This is the longest stage and also the one where defect trapping predominantly occurs. During diffusion, the wavefunction of the positively charged positron is primarily concentrated in the intersitial space between atoms due to the repulsion of positively charged atomic nuclei. In a perfect lattice, the positron delocalizes into a Bloch state with $k_+ = 0$. [mention of band structure?] 
-
-\section{Trapping}
+Once thermalization occurs, the positron is free to diffuse through the sample lattice. This is the longest stage and also the one where defect trapping predominantly occurs. During diffusion, the wavefunction of the positively charged positron is primarily concentrated in the intersitial space between atoms due to the repulsion of positively charged atomic nuclei. In a perfect lattice, the positron delocalizes into a Bloch state with $k_+ = 0$. [mention of band structure?]
 
 Trapping occurs when a vacancy-type defect is encountered and a localized positron state forms at the defect. The rate at which this occurs, called the positron trapping rate $\kappa$ is proportional to the defect concentration $C$. Specifically
-
 \begin{equation}
     \kappa = \mu C,
+    \label{eq:traprate}
+\end{equation}
+where $\mu$ is termed the positron trapping coefficient, and is constant for a given defect. 
+
+\section{Trapping Model(s)}
+
+Trapping models allow us to deduce defect concentration and type based on annihilation spectra. Key assumptions are that positron trapping during thermalization can be safely ignored and that defects within the sample are homogeneously distributed. From trapping models, we can derive a series of rate equations based on the time-dependent positron diffusion equation. \{expand diffusion?\}
+
+\subsection{Single defect trapping}
+
+The simplest trapping model assumes a single, open volume defect type, such as a vacancy. After thermalization, positrons either annihalate in the defect-free bulk at a rate $\lambda_b = \frac{1}{\tau_b}$ or within an open-volume defect, with trapping rate $\kappa_d$ ($\propto$ the defect concentration $C$). As the electron density within the defect is lower than that of the bulk, the corresponding annihilation rate $\lambda_d$ must be smaller than $\lambda_b$.
+
+This gives us the following equations:
+\begin{equation}
+    \frac{\mathrm{d}n_b(t)}{\mathrm{d}t} = -(\lambda_b + \kappa_d) n_b(t),
+    \label{eq:ratebulk}
+\end{equation}
+\begin{equation}
+    \frac{\mathrm{d}n_d(t)}{\mathrm{d}t} = - \kappa_d n_d(t) + \kappa_d n_b(t),
+    \label{eq:ratedefect}
+\end{equation}
+that describe the change in the number of positrons in the bulk ($n_b$) and the defect ($n_d$), repectively, at time $t$. As we have assumed no trapping during thermalization, if we define $N_0$ as the number of positrons at $t=0$, we get our starting conditions, i.e. $n_b(0) = N_0$ and $n_d(0) = 0$. The solution to eq.s \ref{eq:ratebulk} and \ref{eq:ratedefect} gives us the decay spectrum of the positrons
+\begin{equation}
+    D(t) = \frac{\lambda_b - \lambda_d}{\lambda_b - \lambda_d + \kappa_d} e^{- (\lambda_b+\kappa_d) t} + 
+    \frac{\kappa_d}{\lambda_b - \lambda_d + \kappa_d} e^{-\lambda_d t}.
 \end{equation}
 
-where $\mu$ is termed the positron trapping coefficient, and is constant for a given defect.
+Taking eq. \ref{eq:decayspec}, and setting $k=1$ (as we're dealing with a single defect type) we can make the appropriate subtitutions and get:
+\begin{equation}
+    D(t) = I_1\exp\left(-\frac{t}{\tau_1}\right) + I_2 \exp \left(-\frac{t}{\tau_2}\right),
+\end{equation}
+where
+\begin{equation}
+    \begin{array}{lcl}
+        \tau_1 = \dfrac{1}{\lambda_b+\kappa_d} &,& \tau_2 = \dfrac{1}{\lambda_d}, \\
+        I_1 = 1 - I_2                          &,& I_2 = \dfrac{\kappa_d}{\lambda_b - \lambda_d + \kappa_d}.
+    \end{array}
+    \label{eq:tau1tau2}
+\end{equation}
 
-Prob of trapping depends on vacancy concentration. $->$ Single defect trapping model
+By taking the absolute value of the time derivative of the decay spectrum, in similar fashion to eq. \ref{eq:lifespec}, we get the positron lifetime spectrum
+\begin{equation}
+    N(t) = \left|\frac{\mathrm{d}D}{\mathrm{d}t}\right| = 
+    \frac{I_1}{\tau_1} \exp \left(-\frac{t}{\tau_1}\right) +
+    \frac{I_2}{\tau_2} \exp \left(-\frac{t}{\tau_2}\right).
+    \label{eq:stmlifespec}
+\end{equation}
 
+Looking closely at eq. \ref{eq:stmlifespec}, we can see that there are two lifetime components in the spectrum. From eq. \ref{eq:tau1tau2} we can observe that the trapping rate $\kappa_d$ affects the first lifetime component and the relative intensity of the two components, but not the second lifetime component, which arises from positron annihilation within the defects. 
+This means that while $\tau_2$, also called the defect-related lifetime $\tau_d = 1/\lambda_d$, is simply the positron lifetime within the defect, $\tau_1$ is not the positron lifetime within the defect-free bulk $\tau_b = 1/\lambda_b$. As $\tau_1 \leq \tau_b$, $\tau_1$ is also called the "reduced bulk" lifetime. Additionaly, as $\tau_d$ is independent of defect concentration, it is taken to be an indication of the open volume of the defect.
+
+\subsection{Additional complexity}
+
+Often experimental spectra are more complex than can be described by the single defect model. They are likely to contain more than one defect type and often additional effects must be taken into consideration, such as detrapping, where a portion of the trapped positrons escape back into the bulk. The single defect model, however, can be easily extended to deal with this additional complexity.
+
+To do so, we assume that the different defects do not interact, and thus we can write $k+1$ rate equations, instead of just the two in the single defect model, giving us
+\begin{equation}
+    \dfrac{\mathrm{d}n_b}{\mathrm{d}t} = -\left(\lambda_b + \sum_{i=1}^{k} \kappa_i\right)n_b(t) + \sum_{i=1}^{k} \delta_i n_{di}(t),
+\end{equation}
+for the bulk, where $\delta_i$ is the detrapping rate for a given defect type, and
+\begin{equation}
+    \dfrac{\mathrm{d}n_{di}}{\mathrm{d}t} = \kappa_i n_b(t) - (\lambda_{di} + \delta_i) n_i(t),
+\end{equation}
+for each defect type. The boundary conditions are simply $n_b(0)=1$ and $n_i(0)=0$ for all values of $i$. From this, we procede in much the same way as the single defect.
+
+When dealing with a multi-defect spectrum, a useful parameter is the average lifetime $\overline{\tau}$. This is simply the average of the lifetime components, weighted by intensity, or
+\begin{equation}
+    \overline{\tau} = \sum_{i=1}^{k+1} I_i \tau_i.
+\end{equation}
+
+In any lifetime spectrum the average lifetime is simply the centre of mass of the spectrum. When fitting a multi-lifetime spectrum using a least-squares method, this can be easily determined by fitting a single lifetime component. Additionally, if we know the bulk lifetime of a defect free material, we can use the average lifetime of a sample of that material to determine the presence of defects, as in that case $\overline{\tau} > \tau_b$.
+
+Another factor to consider when fitting an experimental spectrum is saturated positron trapping. In a sample with high defect concentration, the average spacing may be much smaller than the average diffusion length of the positron in the bulk. In such a case all positrons might be trapped, resulting in a single-component spectrum, with $\tau_d = \overline{\tau}$, and a defect concentration that cannot accurately determined.
+
+\chapter{Methods}
+
+Outline: Explain PALSfit and PALSsim, graphs were made in Python using matplotlib.
