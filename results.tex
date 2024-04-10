@@ -1,4 +1,4 @@
-\chapter*{Results}
+\chapter{Results}
 
 \section{First analysis}
 
@@ -16,13 +16,6 @@
     \end{tabular}
     \label{tab:irf}
 \end{table}
-
-\begin{figure}
-    \centering
-    \includegraphics[width=0.8\textwidth]{Batch 3/regular IRF/irf.png}
-    \caption{instrument resolution function}
-    \label{fig:irf}
-\end{figure}
 
 Using PALSSIM, a series of spectra containing two positron lifetimes, $\tau_1$ and $\tau_2$, were generated with a three gaussian instrument resolution function (see Table \ref{tab:irf} and Figure \ref{fig:irf}). $\tau_1$ was kept fixed at 180ps and $\tau_2$ varied from 220-280ps, in 10ps intervals. For each value of $\tau_2$, three spectra were generated with the relative intensities of $\tau_1$ and $\tau_2$ set to 20\%-80\%, 50\%-50\% and 80\%-20\%. All the resulting spectra were then analyzed using PALSFIT, in order to evaluate how well the program could extract the two lifetimes, and their respective intensities, from each simulated spectrum.
 

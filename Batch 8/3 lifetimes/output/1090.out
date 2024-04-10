@@ -1,7 +1,7 @@
 PALSfit - Version 3.251 26-apr-2022 - Licensed to David J Keeble
 Input file: 
 C:\Users\ftamb\Documents\GitHub\Palsfit\Batch 8\3 lifetimes\1090.pfc
-P O S I T R O N F I T . Version 3.251     Job time 21:04:00.60 24-FEB-24
+P O S I T R O N F I T . Version 3.251     Job time 19:57:05.46 09-APR-24
 ************************************************************************
 00001 Untitled 21:01:37.94 24-FEB-24
 Intrinsic spectrum
@@ -53,4 +53,4 @@ Total area   from fit         : 1.00052E+07     from table : 1.00050E+07
 
 ######################### P o s i t r o n F i t ########################
 
-Time for this job:     0.58 seconds.
+Time for this job:     0.52 seconds.
