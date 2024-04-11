@@ -1,26 +1,26 @@
-\contentsline {chapter}{\numberline {1}Intro}{3}{}%
-\contentsline {section}{\numberline {1.1}Positron Annihilation Lifetime Spectroscopy}{3}{}%
-\contentsline {subsection}{\numberline {1.1.1}The Positron Lifetime}{3}{}%
-\contentsline {subsection}{\numberline {1.1.2}Positronium}{4}{}%
-\contentsline {subsection}{\numberline {1.1.3}Measuring Lifetimes}{4}{}%
-\contentsline {subsection}{\numberline {1.1.4}The Spectrum}{4}{}%
-\contentsline {section}{\numberline {1.2}The Standard Trapping Model}{5}{}%
-\contentsline {subsection}{\numberline {1.2.1}Single Defect Trapping}{5}{}%
-\contentsline {subsection}{\numberline {1.2.2}Observations}{6}{}%
-\contentsline {subsection}{\numberline {1.2.3}Multiple defects}{6}{}%
-\contentsline {section}{\numberline {1.3}Spectrum Decomposition and Project Aims}{6}{}%
-\contentsline {chapter}{\numberline {2}Method}{8}{}%
-\contentsline {section}{\numberline {2.1}The PALSfit Bundle}{8}{}%
-\contentsline {subsection}{\numberline {2.1.1}PALSsim}{8}{}%
-\contentsline {subsection}{\numberline {2.1.2}PALSfit}{10}{}%
-\contentsline {section}{\numberline {2.2}Python Scripts}{11}{}%
-\contentsline {subsection}{\numberline {2.2.1}Grouping fit results}{11}{}%
-\contentsline {subsection}{\numberline {2.2.2}Plotting fit data}{11}{}%
-\contentsline {subsection}{\numberline {2.2.3}Batch simulation and fitting}{12}{}%
-\contentsline {chapter}{\numberline {3}Trials and Results}{13}{}%
-\contentsline {section}{\numberline {3.1}Lifetime separation}{13}{}%
-\contentsline {section}{\numberline {3.2}Modifying $\tau _1$}{16}{}%
-\contentsline {section}{\numberline {3.3}Single Gaussian IRF}{22}{}%
-\contentsline {section}{\numberline {3.4}Number of counts}{27}{}%
-\contentsline {section}{\numberline {3.5}Realistic data}{31}{}%
-\contentsline {section}{\numberline {3.6}Using the STM to vary $\tau _1$:}{35}{}%
+\contentsline {chapter}{\numberline {1}Intro}{2}{}%
+\contentsline {section}{\numberline {1.1}Positron Annihilation Lifetime Spectroscopy}{2}{}%
+\contentsline {subsection}{\numberline {1.1.1}The Positron Lifetime}{2}{}%
+\contentsline {subsection}{\numberline {1.1.2}Positronium}{3}{}%
+\contentsline {subsection}{\numberline {1.1.3}Measuring Lifetimes}{3}{}%
+\contentsline {subsection}{\numberline {1.1.4}The Spectrum}{3}{}%
+\contentsline {section}{\numberline {1.2}The Standard Trapping Model}{4}{}%
+\contentsline {subsection}{\numberline {1.2.1}Single Defect Trapping}{4}{}%
+\contentsline {subsection}{\numberline {1.2.2}Observations}{5}{}%
+\contentsline {subsection}{\numberline {1.2.3}Multiple defects}{5}{}%
+\contentsline {section}{\numberline {1.3}Spectrum Decomposition and Project Aims}{5}{}%
+\contentsline {chapter}{\numberline {2}Method}{7}{}%
+\contentsline {section}{\numberline {2.1}The PALSfit Bundle}{7}{}%
+\contentsline {subsection}{\numberline {2.1.1}PALSsim}{7}{}%
+\contentsline {subsection}{\numberline {2.1.2}PALSfit}{9}{}%
+\contentsline {section}{\numberline {2.2}Python Scripts}{10}{}%
+\contentsline {subsection}{\numberline {2.2.1}Grouping fit results}{10}{}%
+\contentsline {subsection}{\numberline {2.2.2}Plotting fit data}{10}{}%
+\contentsline {subsection}{\numberline {2.2.3}Batch simulation and fitting}{11}{}%
+\contentsline {chapter}{\numberline {3}Trials and Results}{12}{}%
+\contentsline {section}{\numberline {3.1}Lifetime separation}{12}{}%
+\contentsline {section}{\numberline {3.2}Modifying $\tau _1$}{15}{}%
+\contentsline {section}{\numberline {3.3}Single Gaussian IRF}{21}{}%
+\contentsline {section}{\numberline {3.4}Number of counts}{26}{}%
+\contentsline {section}{\numberline {3.5}Realistic data}{30}{}%
+\contentsline {section}{\numberline {3.6}Using the STM to vary $\tau _1$:}{34}{}%

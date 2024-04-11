@@ -15,7 +15,7 @@ for irf in [150,180,220]:
 	#print(irf)
 	
 	if irf == 180:
-		csv_filename = "../../Batch 1+2/batch1+2f.csv"
+		csv_filename = "../../Batch 1+2/Batch1+2/output/af.csv"
 	else:
 		csv_filename = "tau1 "+str(irf)+"/output/af.csv"
 	

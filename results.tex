@@ -17,20 +17,20 @@ In Figure \ref{fig:180-tau1} is the fit for the first lifetime component $\tau_1
 \vspace{0.5cm}
 \begin{minipage}{.45\linewidth}
     \centering
-    \includegraphics[width=\linewidth]{Batch 1+2/plotfin/t1.png}
+    \includegraphics[width=\linewidth]{Batch 1+2/Batch1+2/output/plotfin/t1.png}
     \captionof{figure}{$\tau_1 = 180ps$, $\tau_2 = 220$-$280ps$}
     \label{fig:180-tau1}
 \end{minipage}
 \hfill
 \begin{minipage}{.45\linewidth}
     \centering
-    \includegraphics[width=\linewidth]{Batch 1+2/plotfin/t1zoom.png}
+    \includegraphics[width=\linewidth]{Batch 1+2/Batch1+2/output/plotfin/t1.png}
     \captionof{figure}{$\tau_1 = 180ps$, $\tau_2 = 250$-$270ps$}
     \label{fig:180-zoom}
 \end{minipage}
 \vspace{0.5cm}
 
-The overall trend in 
+Contrary to expectations, however, is the trend in accuracy.
 
 
 Using PALSSIM, a series of spectra containing two positron lifetimes, $\tau_1$ and $\tau_2$, were generated with a three gaussian instrument resolution function (see Table \ref{tab:irf} and Figure \ref{fig:irf}). $\tau_1$ was kept fixed at 180ps and $\tau_2$ varied from 220-280ps, in 10ps intervals. For each value of $\tau_2$, three spectra were generated with the relative intensities of $\tau_1$ and $\tau_2$ set to 20\%-80\%, 50\%-50\% and 80\%-20\%. All the resulting spectra were then analyzed using PALSFIT, in order to evaluate how well the program could extract the two lifetimes, and their respective intensities, from each simulated spectrum.
@@ -45,7 +45,7 @@ In Figures \ref{fig:180-2080} - \ref{fig:180-8020} the fitted intensities of the
 
 On the whole, PALSFIT seems to have performed well, but not perfectly. As the first lifetime, $\tau_1$, was kept constant at 180ps, the next step would be to change $\tau_1$ and see how that affects our results. 
 
-\todo{expand paragraph}
+
 
 \begin{figure}[p]
     \caption{}
@@ -336,7 +336,7 @@ The first is that the $\tau_2$ = 180ps data seems much more scattered than the o
 
 \section{Single Gaussian IRF}
 
-To investigate how the instrument resolution function affects the software, the three Gaussian resolution function in use so far can be simplified to a single Gaussian (refer to \dots) \todo{reference to justification, placed earlier}. As a sanity check, we can compare how the program 
+To investigate how the instrument resolution function affects the software, the three Gaussian resolution function in use so far can be simplified to a single Gaussian (refer to \dots). As a sanity check, we can compare how the program 
 performs with a single Gaussian resolution function versus the previous three Gaussian resolution function. Setting $\tau_1$ = 150ps, as this previously gave us the best results, we get the data in Figure \ref{fig:sing-210}. We can then compare this to Figure \ref{fig:150} and see that the single Gaussian resolution function produces remarkably similar results, demonstrating the single Gaussian approximation to be valid.
 
 \begin{figure}[p]
@@ -385,9 +385,7 @@ If we just look at the subfigures on the left ((a),(c) and (e) for each figure),
 
 Looking at the subfigures on the right, representing the standard deviation of the fitting given by PALSFIT, we again see three outliers where the predicted relationship between precision and resolution function width is reversed, in Figures \ref{fig:sing-t2err-2080}, \ref{fig:sing-t2err-5050} and \ref{fig:sing-interr-2080}, though in the case of \ref{fig:sing-t2err-5050}, this reversed relationship quickly reverts to the expected one as $\tau_2$ increases.
 
-\todo{
-    possibly expand
-}
+
 
 \begin{figure}[p]
     \centering
