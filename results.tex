@@ -1,21 +1,37 @@
-\chapter{Results}
+\chapter{Trials and Results}
 
-\section{First analysis}
+\section{Lifetime separation}
 
-\begin{table}
-    \caption{Instrument resolution function}
+The aim of the first trial was to investigate how the separation between lifetime components affected the fit. PALS spectra containing two lifetime components were generated, corresponding to a two defect material in saturation trapping. The first lifetime, $\tau_1$, remained fixed at 180 ps while the second lifetime, $\tau_2$, decreased from 280 ps to 220 ps, in 10 ps intervals. 
+
+For each pair of lifetimes, intensity was varied to simulate three diferent relative defect concentrations. The values chosen for the first lifetime intensity $I_1$ were 20\%, 50\% and 80\%, with $I_2 = 100\%-I_1$. 
+
+Expectations are that:
+\begin{enumerate}[label=(\roman*)]
+    \item The overall fit improves as lifetime separation, $\tau_1-\tau_2$, increases.
+    \item The fit improves for a given lifetime component as the intensity of that component increases.
+\end{enumerate}
+
+In Figure \ref{fig:180-tau1} is the fit for the first lifetime component $\tau_1$. Overall results seem to be mixed. As would be expected, the precision of the fit, indicated by the size of the error bars, visibly improves as $\tau_2$ (and therefore the lifetime separation) increases. For any given value of $\tau_2$ on the x-axis, a noticeable increase in both precision and accuracy can be observed as the intensity $I_1$ of the first component increases. This also in agreement with expectations.
+
+\vspace{0.5cm}
+\begin{minipage}{.45\linewidth}
     \centering
-    \begin{tabular}{|c|c|c|}
-        \hline
-        FWHM (ps) &  Shift (ps) & Intensity (\%) \\
-        \hline
-        213.3 & 0 & 80\\ 
-        150 & -5 & 10\\ 
-        267 & 17 & 10\\  
-        \hline
-    \end{tabular}
-    \label{tab:irf}
-\end{table}
+    \includegraphics[width=\linewidth]{Batch 1+2/plotfin/t1.png}
+    \captionof{figure}{$\tau_1 = 180ps$, $\tau_2 = 220$-$280ps$}
+    \label{fig:180-tau1}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{Batch 1+2/plotfin/t1zoom.png}
+    \captionof{figure}{$\tau_1 = 180ps$, $\tau_2 = 250$-$270ps$}
+    \label{fig:180-zoom}
+\end{minipage}
+\vspace{0.5cm}
+
+The overall trend in 
+
 
 Using PALSSIM, a series of spectra containing two positron lifetimes, $\tau_1$ and $\tau_2$, were generated with a three gaussian instrument resolution function (see Table \ref{tab:irf} and Figure \ref{fig:irf}). $\tau_1$ was kept fixed at 180ps and $\tau_2$ varied from 220-280ps, in 10ps intervals. For each value of $\tau_2$, three spectra were generated with the relative intensities of $\tau_1$ and $\tau_2$ set to 20\%-80\%, 50\%-50\% and 80\%-20\%. All the resulting spectra were then analyzed using PALSFIT, in order to evaluate how well the program could extract the two lifetimes, and their respective intensities, from each simulated spectrum.
 
@@ -33,21 +49,6 @@ On the whole, PALSFIT seems to have performed well, but not perfectly. As the fi
 
 \begin{figure}[p]
     \caption{}
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=0.95\linewidth]{Batch 1+2/t1.png}
-        \caption{fixed $\tau_1 = 180ps$}
-        \label{fig:180-tau1}
-    \end{subfigure}
-    \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=.95\textwidth]{Batch 1+2/Tau1 stragglers.png}
-        \caption{close-up $\tau_1 = 180ps$}
-        \label{fig:180-tau1-zoomed}
-    \end{subfigure}
-    }
     \makebox[\linewidth][c]{
     \begin{subfigure}{0.7\textwidth}
         \centering
