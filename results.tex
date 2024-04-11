@@ -12,71 +12,58 @@ Expectations are that:
     \item The fit improves for a given lifetime component as the intensity of that component increases.
 \end{enumerate}
 
-In Figure \ref{fig:180-tau1} is the fit for the first lifetime component $\tau_1$. Overall results seem to be mixed. As would be expected, the precision of the fit, indicated by the size of the error bars, visibly improves as $\tau_2$ (and therefore the lifetime separation) increases. For any given value of $\tau_2$ on the x-axis, a noticeable increase in both precision and accuracy can be observed as the intensity $I_1$ of the first component increases. This also in agreement with expectations.
+\begin{figure} [h]
+    \centering
+    \includegraphics[width=0.6\linewidth]{Batch 1+2/Batch1+2/output/plotfin/t1.png}
+    \caption{Fitted $\tau_1$}
+    \label{fig:180-tau1}
+\end{figure}
+
+In Figure \ref{fig:180-tau1} is the fit for the first lifetime component $\tau_1$. As would be expected, the accuracy of the fit increases as both the separation between lifetimes and the intensity of $I_1$ increases. The size of the error bars indicates the precision of the fit, and seems to follow the same expected trend.
 
 \vspace{0.5cm}
 \begin{minipage}{.45\linewidth}
     \centering
-    \includegraphics[width=\linewidth]{Batch 1+2/Batch1+2/output/plotfin/t1.png}
-    \captionof{figure}{$\tau_1 = 180ps$, $\tau_2 = 220$-$280ps$}
-    \label{fig:180-tau1}
+    \includegraphics[width=\linewidth]{Batch 1+2/Batch1+2/output/plotfin/t2.png}
+    \captionof{figure}{$\tau_2$ (Fitted$-$Simulated)}
+    \label{fig:180-tau2}
 \end{minipage}
 \hfill
 \begin{minipage}{.45\linewidth}
     \centering
-    \includegraphics[width=\linewidth]{Batch 1+2/Batch1+2/output/plotfin/t1.png}
-    \captionof{figure}{$\tau_1 = 180ps$, $\tau_2 = 250$-$270ps$}
-    \label{fig:180-zoom}
+    \includegraphics[width=\linewidth]{Batch 1+2/Batch1+2/output/plotfin/t1zoom.png}
+    \captionof{figure}{Fitted $\tau_1$, $\tau_2 = [220-250]$}
+    \label{fig:180-tau1zoom}
 \end{minipage}
 \vspace{0.5cm}
 
-Contrary to expectations, however, is the trend in accuracy.
+A similar picture emerges when looking at $\tau_2$, as can be seen in Figure \ref{fig:180-tau2}. Here, as the simulated value of $\tau_2$ that is being compared to the fitted $\tau_2$ is constantly changing, y-axis plots the difference between the two values. Nevertheless, we see that both accuracy and precision increase with lifetime separation and $I_2$ this time, which makes sense as the second lifetime is the observed variable.
 
+In both cases, the fitted values of the component tend to be higher than their simulated counterparts. Outliers emerge when looking at the 80-20 data in the 220-240ps range, for both $\tau_1$ and $\tau_2$. This is harder to spot in the former, though, unless zoomed in (see Figure \ref{fig:180-tau1zoom}).
 
-Using PALSSIM, a series of spectra containing two positron lifetimes, $\tau_1$ and $\tau_2$, were generated with a three gaussian instrument resolution function (see Table \ref{tab:irf} and Figure \ref{fig:irf}). $\tau_1$ was kept fixed at 180ps and $\tau_2$ varied from 220-280ps, in 10ps intervals. For each value of $\tau_2$, three spectra were generated with the relative intensities of $\tau_1$ and $\tau_2$ set to 20\%-80\%, 50\%-50\% and 80\%-20\%. All the resulting spectra were then analyzed using PALSFIT, in order to evaluate how well the program could extract the two lifetimes, and their respective intensities, from each simulated spectrum.
+Plotting intensities (Figures \ref{fig:180-2080},\ref{fig:180-5050} and \ref{fig:180-8020}), the same expected trends are observed. The error bars seem to get smaller, though, as the intensity of the first component $I_1$ increases. As a consequence, the error bars of the first three datapoints in Figue \ref{fig:180-8020} end up falling short of their simulated values.
 
-In Figure \ref{fig:180-tau1}, we can observe how the values of $\tau_1$ outputted by the program change, as the simulated value of $\tau_2$ (on the horizontal axis) increases and the relative intensities (indicated by color and shape of marker) vary. Zooming in to the $\tau_2$ = 250-270ps range, we can see in Figure \ref{fig:180-tau1-zoomed} that, for these values in particular, PALSFIT struggles to determine $\tau_1$ in the 50-50 and 80-20 case. 
+\vfill
+\begin{minipage}{.45\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{Batch 1+2/Batch1+2/output/plotfin/2080.png}
+    \captionof{figure}{$I_1 = 20\%, I_2 = 80\%$}
+    \label{fig:180-2080}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{Batch 1+2/Batch1+2/output/plotfin/5050.png}
+    \captionof{figure}{$I_1 = 50\%, I_2 = 50\%$}
+    \label{fig:180-5050}
+\end{minipage}
+\vfill
 
-Unlike for $\tau_1$, where the simulated value of the lifetime is fixed, the simulated value of $\tau_2$ (our point of comparison) changes in between spectra. To make the data easier to visualize, rather than the fitted value of $\tau_2$, the difference between the result and the original is plotted instead (see Figure \ref{fig:180-tau2}). In the figure we can see that, aside from the 20-80 spectrum for $\tau_2$ = 220, the software performs better than for $\tau_1$.
-
-The error bars represent the standard deviation of -- and thus the confidence of the program in -- the lifetimes. From them, we see two factors that affect the size of the bars. The first is the relative intensities of the two intensities. In fact, in Figure \ref{fig:180-tau1}, which plots $\tau_1$, the error bars are the smallest for the 80-20 data, where the shorter lifetime is more intense, and in Figure \ref{fig:180-tau2}, tracking $\tau_2$, the opposite is the case and we have the 20-80 data is most precise. Observing all the figures, we see the second factor: as the time interval between the two lifetimes increases, the size of the error bars decrease.
-
-In Figures \ref{fig:180-2080} - \ref{fig:180-8020} the fitted intensities of the two lifetimes are plotted against simulated $\tau_2$, for each combination of simulated intensities. In the figures, we see that when the relative intensity of $\tau_2$ was greater or equal to $\tau_1$, then PALSFIT was able to calculate all the appropriate lifetime intensities. However, when the intensity of $\tau_2$ was set to 80\%, shown in Figure \ref{fig:180-2080}, the software was unable to output the correct intensities for the first two simulated values of $\tau_2$. Looking at our error bars, we can see the same relationship between their size and the lifetime separation mentioned earlier.
-
-On the whole, PALSFIT seems to have performed well, but not perfectly. As the first lifetime, $\tau_1$, was kept constant at 180ps, the next step would be to change $\tau_1$ and see how that affects our results. 
-
-
-
-\begin{figure}[p]
-    \caption{}
-    \makebox[\linewidth][c]{
-    \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=.95\linewidth]{Batch 1+2/t2.png}
-        \caption{$\tau_2$ difference}
-        \label{fig:180-tau2}
-    \end{subfigure}
-    \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=.95\linewidth]{Batch 1+2/2080.png}
-        \caption{$\tau_1 = 20\%, \tau_1 = 80\%$}
-        \label{fig:180-2080}
-    \end{subfigure}
-    }
-    \makebox[\linewidth][c]{
-    \begin{subfigure}{.7\textwidth}
-        \centering
-        \includegraphics[width=0.95\linewidth]{Batch 1+2/5050.png}
-        \caption{$\tau_1 = 50\%, \tau_2 = 50\%$}
-        \label{fig:180-5050}
-    \end{subfigure}
-    \begin{subfigure}{.7\textwidth}
-        \centering
-        \includegraphics[width=0.95\linewidth]{Batch 1+2/8020.png}
-        \caption{$\tau_1 = 80\%, \tau_2 = 20\%$}
-        \label{fig:180-8020}
-    \end{subfigure}
-    }
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{Batch 1+2/Batch1+2/output/plotfin/8020.png}
+    \caption{$I_1 = 80\%, I_2 = 20\%$}
+    \label{fig:180-8020}
 \end{figure}
 
 \pagebreak

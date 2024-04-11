@@ -32,7 +32,7 @@ plt.errorbar(tau_2080["Sim Life-2"]-offset, tau_2080["Life-1"]*1000, yerr=tau_20
 plt.errorbar(tau_5050["Sim Life-2"], tau_5050["Life-1"]*1000, yerr=tau_5050["Std Life-1"]*1000, linestyle="none", label="50-50", marker = "s", color=R, capsize=5)
 plt.errorbar(tau_8020["Sim Life-2"]+offset, tau_8020["Life-1"]*1000, yerr=tau_8020["Std Life-1"]*1000, linestyle="none", label="80-20", marker = "d", color=G, capsize=5)
 
-plt.legend(title="$I_1$-$I_2$ [\\%]",loc=1)
+plt.legend(title="$I_1$-$I_2$ [\\%]",loc=4)
 plt.savefig("plotfin/t1.png", bbox_inches="tight")
 plt.clf()
 
@@ -47,7 +47,7 @@ plt.errorbar(tau_2080["Sim Life-2"]-offset, tau_2080["Life-2"]*1000-tau_2080["Si
 plt.errorbar(tau_5050["Sim Life-2"], tau_5050["Life-2"]*1000-tau_5050["Sim Life-2"], yerr=tau_5050["Std Life-2"]*1000, linestyle="none", label="50-50", marker = "s", color=R, capsize=5)
 plt.errorbar(tau_8020["Sim Life-2"]+offset, tau_8020["Life-2"]*1000-tau_8020["Sim Life-2"], yerr=tau_8020["Std Life-2"]*1000, linestyle="none", label="80-20", marker = "d", color=G, capsize=5)
 
-plt.legend(title="$I_1$-$I_2$ [\\%]",loc=1)
+plt.legend(title="$I_1$-$I_2$ [\\%]",loc=4)
 plt.savefig("plotfin/t2.png", bbox_inches="tight")
 plt.clf()
 
@@ -63,7 +63,7 @@ plt.axhline(y = 50, color = g, linestyle = 'dashed')
 plt.errorbar(tau_5050["Sim Life-2"], tau_5050["Int-1"], yerr=tau_5050["Std Int-1"], linestyle="none", marker="s", color=P, capsize=5, label="$I_1$")
 plt.errorbar(tau_5050["Sim Life-2"], tau_5050["Int-2"], yerr=tau_5050["Std Int-2"], linestyle="none", marker="d", color=O, capsize=5, label="$I_2$")
 
-plt.legend(loc=1)
+plt.legend(loc=4)
 plt.savefig("plotfin/5050.png", bbox_inches="tight")
 plt.clf()
 

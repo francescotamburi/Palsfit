@@ -33,8 +33,8 @@ plt.errorbar(tau_5050["Sim Life-2"], tau_5050["Life-1"]*1000, yerr=tau_5050["Std
 plt.errorbar(tau_8020["Sim Life-2"]+offset, tau_8020["Life-1"]*1000, yerr=tau_8020["Std Life-1"]*1000, linestyle="none", label="80-20", marker = "d", color=G, capsize=5)
 
 plt.xticks(tau_2080["Sim Life-2"])
-plt.xlim(235,275)
-plt.ylim(175,188)
-plt.legend(title="$I_1$-$I_2$ [\\%]",loc=4)
+plt.xlim(218,252)
+plt.ylim(178,185)
+plt.legend(title="$I_1$-$I_2$ [\\%]",loc=1)
 plt.savefig("plotfin/t1zoom.png", bbox_inches="tight")
 plt.clf()
