@@ -18,12 +18,13 @@
 \contentsline {subsection}{\numberline {2.2.2}Plotting fit data}{10}{}%
 \contentsline {subsection}{\numberline {2.2.3}Batch simulation and fitting}{11}{}%
 \contentsline {chapter}{\numberline {3}Trials and Results}{12}{}%
-\contentsline {section}{\numberline {3.1}Lifetime separation}{12}{}%
-\contentsline {section}{\numberline {3.2}Modifying $\tau _1$}{14}{}%
-\contentsline {section}{\numberline {3.3}Single Gaussian IRF}{20}{}%
-\contentsline {section}{\numberline {3.4}Number of counts}{25}{}%
-\contentsline {section}{\numberline {3.5}Realistic data}{29}{}%
-\contentsline {section}{\numberline {3.6}Using the STM to vary $\tau _1$:}{33}{}%
-\contentsline {chapter}{\numberline {A}Figures}{34}{}%
-\contentsline {section}{\numberline {A.1}\boldmath Two components, $\tau _1 = 150$ps, $\tau _2=190$-$230$ps \unboldmath }{35}{}%
-\contentsline {section}{\numberline {A.2}\boldmath Two components, $\tau _1 = 220$ps, $\tau _2=260$-$340$ps \unboldmath }{36}{}%
+\contentsline {section}{\numberline {3.1}Lifetime separation, fixed $\tau _1$}{12}{}%
+\contentsline {section}{\numberline {3.2}Lifetime separation, varying $\tau _1$}{14}{}%
+\contentsline {section}{\numberline {3.3}Single Gaussian IRF}{15}{}%
+\contentsline {section}{\numberline {3.4}Number of counts}{20}{}%
+\contentsline {section}{\numberline {3.5}Realistic data}{24}{}%
+\contentsline {section}{\numberline {3.6}Using the STM to vary $\tau _1$:}{28}{}%
+\contentsline {chapter}{\numberline {A}Figures}{29}{}%
+\contentsline {section}{\numberline {A.1}\boldmath Two components, $\tau _1 = 150$ps, $\tau _2=190$-$230$ps \unboldmath }{30}{}%
+\contentsline {section}{\numberline {A.2}\boldmath Two components, $\tau _1 = 220$ps, $\tau _2=260$-$340$ps \unboldmath }{31}{}%
+\contentsline {section}{\numberline {A.3}\boldmath Comparison two component fit, $\tau _1 = 150,180,220$ \unboldmath }{32}{}%

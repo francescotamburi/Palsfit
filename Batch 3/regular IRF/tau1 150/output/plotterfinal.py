@@ -33,7 +33,7 @@ plt.errorbar(tau_5050["Sim Life-2"], tau_5050["Life-1"]*1000, yerr=tau_5050["Std
 plt.errorbar(tau_8020["Sim Life-2"]+offset, tau_8020["Life-1"]*1000, yerr=tau_8020["Std Life-1"]*1000, linestyle="none", label="80-20", marker = "d", color=G, capsize=5)
 
 plt.xlim(185,255)
-plt.legend(title="$I_1$-$I_2$ [\\%]",loc=1)
+plt.legend(title="$I_1$-$I_2$ [\\%]",loc=4)
 plt.savefig("plotfin/t1.png", bbox_inches="tight")
 plt.clf()
 

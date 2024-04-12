@@ -1,15 +1,15 @@
 \chapter{Trials and Results}
 
-\section{Lifetime separation}
+\section{Lifetime separation, fixed $\tau_1$}
 
 The aim of the first trial was to investigate how the separation between lifetime components affected the fit. PALS spectra containing two lifetime components were generated, corresponding to a two defect material in saturation trapping. The first lifetime, $\tau_1$, remained fixed at 180 ps while the second lifetime, $\tau_2$, decreased from 280 ps to 220 ps, in 10 ps intervals. 
 
 For each pair of lifetimes, intensity was varied to simulate three diferent relative defect concentrations. The values chosen for the first lifetime intensity $I_1$ were 20\%, 50\% and 80\%, with $I_2 = 100\%-I_1$. 
 
-Expectations are that:
+Expectations were that:
 \begin{enumerate}[label=(\roman*)]
-    \item The overall fit improves as lifetime separation, $\tau_1-\tau_2$, increases.
-    \item The fit improves for a given lifetime component as the intensity of that component increases.
+    \item The overall fit would improve as lifetime separation, $\tau_1-\tau_2$, increases.
+    \item The fit would improve for a given lifetime component as the intensity of that component increases.
 \end{enumerate}
 
 \begin{figure} [h]
@@ -68,7 +68,11 @@ Plotting intensities (Figures \ref{fig:180-2080},\ref{fig:180-5050} and \ref{fig
 
 \pagebreak
 
-\section{Modifying $\tau_1$}
+\section{Lifetime separation, varying $\tau_1$}
+
+This trial builds on the previous, investigating the effect of varying $\tau_1$. Adding to the fits generated in the previous trial, two more sets of spectra were generated. 
+
+In the first of these, every lifetime was shortened by 30ps. This meant that the first lifetime $\tau_1$ was set to 150ps and $\tau_1$ ranged from 190-250ps, while keeping the relative spacing consistent. The spectra were fitted and the same plots generated in the previous trial were also generated for this set of spectra (the full set of plots are available in Appendix \ref{t1-150}). 
 
 A similar procedure was performed for $\tau_1$=150 and $\tau_1$=220. To keep the relative time interval the same in between batches, the corresponding spacing between $\tau_1$ and the $\tau_2$ range was kept consistent. For $\tau_1$ = 150, this meant a $\tau_2$ range of 190-250ps, and for $\tau_1$ = 220, this meant a corresponding $\tau_2$ range of 260-320ps.
 
@@ -79,245 +83,6 @@ The other batch, meanwhile, where $\tau_1$ was set to 220ps, was not as successf
 In order to compare all three datasets, the absolute difference between the fitted and simulated values of each relevant variable, $\tau_1$, $\tau_2$ and intensity was plotted. Additionally, plots for their respective standard deviations were generated. The resulting plots are represented in Figures \ref{fig:t1-comp}-\ref{fig:int-comp}. Two general observations are apparent from analysis of these figures: 
 
 The first is that the $\tau_2$ = 180ps data seems much more scattered than the other two datasets, which both follow a relatively clear increase in precision and accuracy as the lifetime separation increases. The second is that as $\tau_1$ decreases, PALSFIT seems better able to resolve the two lifetimes, with both the difference from the true value and the size of the error bars being the smallest when $\tau_1$ = 150ps.
-
-\begin{figure}[p]
-    \centering
-    \caption{}
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/tau1 150/output/t1.png}
-        \caption{fixed $\tau_1 = 150ps$}
-        \label{fig:150-tau1}
-    \end{subfigure}
-    \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=.95\textwidth]{Batch 3/regular IRF/tau1 150/output/t2.png}
-        \caption{$\tau_2$ difference}
-        \label{fig:150-tau2}
-    \end{subfigure}
-    }
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/tau1 150/output/2080r.png}
-        \caption{$\tau_1 = 20\%, \tau_2 = 80\%$}
-        \label{fig:150-2080}
-    \end{subfigure}
-    \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=.95\textwidth]{Batch 3/regular IRF/tau1 150/output/5050r.png}
-        \caption{$\tau_1 = 50\%, \tau_2 = 50\%$}
-        \label{fig:150-5050}
-    \end{subfigure}
-    }
-    \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=.95\textwidth]{Batch 3/regular IRF/tau1 150/output/8020r.png}
-        \caption{$\tau_1 = 80\%, \tau_2 = 20\%$}
-        \label{fig:150-8020}
-    \end{subfigure}
-    \label{fig:150}
-\end{figure}
-
-\begin{figure}[p]
-    \centering
-    \caption{}
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/tau1 220/output/t1.png}
-        \caption{fixed $\tau_1 = 220ps$}
-        \label{fig:220-tau1}
-    \end{subfigure}
-    \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=.95\textwidth]{Batch 3/regular IRF/tau1 220/output/t2.png}
-        \caption{$\tau_2$ difference}
-        \label{fig:220-tau2}
-    \end{subfigure}
-    }
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/tau1 220/output/2080.png}
-        \caption{$\tau_1 = 20\%, \tau_2 = 80\%$}
-        \label{fig:220-2080}
-    \end{subfigure}
-    \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=.95\textwidth]{Batch 3/regular IRF/tau1 220/output/5050.png}
-        \caption{$\tau_1 = 50\%, \tau_2 = 50\%$}
-        \label{fig:220-5050}
-    \end{subfigure}
-    }
-    \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=.95\textwidth]{Batch 3/regular IRF/tau1 220/output/8020.png}
-        \caption{$\tau_1 = 80\%, \tau_2 = 20\%$}
-        \label{fig:220-8020}
-    \end{subfigure}
-    \label{fig:220}
-\end{figure}
-
-\begin{figure}[p]
-    \centering
-    \caption{$\tau_1$, rows = 20-80, 50-50, 80-20, columns = diff, std dev}    
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/t1-diff 2080.png}
-            \label{fig:reg-t1-2080}
-            \caption{}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/t1-err 2080.png}
-            \label{fig:reg-t1err-2080}
-            \caption{}
-        \end{subfigure}
-    }
-
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/t1-diff 5050.png}
-            \label{fig:reg-t1-5050}
-            \caption{}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/t1-err 5050.png}
-            \label{fig:reg-t1err-5050}
-            \caption{}
-        \end{subfigure}
-    }
-
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/t1-diff 8020.png}
-            \label{fig:reg-t1-8020}
-            \caption{}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/t1-err 8020.png}
-            \label{fig:reg-t1err-8020}
-            \caption{}
-        \end{subfigure}
-    }
-
-    \label{fig:t1-comp}
-\end{figure}
-
-\begin{figure}[p]
-    \centering
-    \caption{$\tau_2$, rows = 20-80, 50-50, 80-20, columns = diff, std dev}
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/t2-diff 2080.png}
-            \label{fig:reg-t2-2080}
-            \caption{}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/t2-err 2080.png}
-            \label{fig:reg-t2err-2080}
-            \caption{}
-        \end{subfigure}
-    }
-
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/t2-diff 5050.png}
-            \label{fig:reg-t2-5050}
-            \caption{}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/t2-err 5050.png}
-            \label{fig:reg-t2err-5050}
-            \caption{}
-        \end{subfigure}
-    }
-
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/t2-diff 8020.png}
-            \label{fig:reg-t2-8020}
-            \caption{}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/t2-err 8020.png}
-            \label{fig:reg-t2err-8020}
-            \caption{}
-        \end{subfigure}
-    }
-    
-    \label{fig:t2-comp}
-\end{figure}
-
-\begin{figure}[p]
-    \centering
-    \caption{intensities, rows = 20-80, 50-50, 80-20, columns = diff, std dev}
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/2080-diff i1.png}
-            \label{fig:reg-int-2080}
-            \caption{}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/2080-err i1.png}
-            \label{fig:reg-interr-2080}
-            \caption{}
-        \end{subfigure}
-    }
-
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/5050-diff i1.png}
-            \label{fig:reg-int-5050}
-            \caption{}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/5050-err i1.png}
-            \label{fig:reg-interr-5050}
-            \caption{}
-        \end{subfigure}
-    }
-
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/5050-diff i1.png}
-            \label{fig:reg-int-8020}
-            \caption{}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/regular IRF/8020-err i1.png}
-            \label{fig:reg-interr-8020}
-            \caption{}
-        \end{subfigure}
-    }
-     
-    \label{fig:int-comp}
-\end{figure}
 
 \pagebreak
 

@@ -26,7 +26,7 @@ tau_8020 = df[df["Sim Int-1"]==80]
 plt.xlabel("$\\tau_2$ (sim) [ps]")
 plt.ylabel("$\\tau_1$ (fit) [ps]")
 
-plt.axhline(y = 180, color = g, linestyle = 'dashed')
+plt.axhline(y = 220, color = g, linestyle = 'dashed')
 
 plt.errorbar(tau_2080["Sim Life-2"]-offset, tau_2080["Life-1"]*1000, yerr=tau_2080["Std Life-1"]*1000, linestyle="none", label="20-80", marker = "o", color=B, capsize=5)
 plt.errorbar(tau_5050["Sim Life-2"], tau_5050["Life-1"]*1000, yerr=tau_5050["Std Life-1"]*1000, linestyle="none", label="50-50", marker = "s", color=R, capsize=5)
