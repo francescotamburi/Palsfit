@@ -8,13 +8,13 @@ B = "#1dadff"
 P = "#fb3efd"
 g = "#cdcd"
 
-plt.axhline(y = 348, color = g, linestyle = 'dashed')
-plt.axhline(y = 440, color = g, linestyle = 'dashed')
+plt.axhline(y = 370, color = g, linestyle = 'dashed')
+plt.axhline(y = 442, color = g, linestyle = 'dashed')
 
 plt.xlabel("Intensities (%)")
 plt.ylabel("Lifetime (ps)")
 
-csv_filename = "lifef.csv"
+csv_filename = "life2f.csv"
 df = pd.read_csv(csv_filename)
 
 #print(df.keys())

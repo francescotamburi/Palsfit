@@ -1,514 +1,838 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.11)  12 APR 2024 02:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.14)  13 APR 2024 15:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**h:/PALSfit3/Project/dissertation.tex
-(h:/PALSfit3/Project/dissertation.tex
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-03-14>
-(c:/texlive/2024/texmf-dist/tex/latex/base/report.cls
+**c:/Users/ftamb/Documents/GitHub/Palsfit/dissertation
+(c:/Users/ftamb/Documents/GitHub/Palsfit/dissertation.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(c:/texlive/2023/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
-(c:/texlive/2024/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(c:/texlive/2023/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count188
-\c@chapter=\count189
-\c@section=\count190
-\c@subsection=\count191
-\c@subsubsection=\count192
-\c@paragraph=\count193
-\c@subparagraph=\count194
-\c@figure=\count195
-\c@table=\count196
+\c@part=\count186
+\c@chapter=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (c:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
-) (c:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 107.
- (c:/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen141
-\Gin@req@width=\dimen142
-) (c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count197
-\float@exts=\toks18
-\float@box=\box51
-\@float@everytoks=\toks19
-\@floatcapt=\box52
-) (c:/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (c:/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen143
-\captionmargin=\dimen144
-\caption@leftmargin=\dimen145
-\caption@rightmargin=\dimen146
-\caption@width=\dimen147
-\caption@indent=\dimen148
-\caption@parindent=\dimen149
-\caption@hangindent=\dimen150
-Package caption Info: Standard document class detected.
-)
-\c@caption@flags=\count198
-\c@continuedfloat=\count199
-Package caption Info: float package is loaded.
-) (c:/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
-Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count266
-Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count267
-) (c:/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
- (c:/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-))
-\Gm@cnth=\count268
-\Gm@cntv=\count269
-\c@Gm@tempcnt=\count270
-\Gm@bindingoffset=\dimen151
-\Gm@wd@mp=\dimen152
-\Gm@odd@mp=\dimen153
-\Gm@even@mp=\dimen154
-\Gm@layoutwidth=\dimen155
-\Gm@layoutheight=\dimen156
-\Gm@layouthoffset=\dimen157
-\Gm@layoutvoffset=\dimen158
-\Gm@dimlist=\toks20
-) (c:/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.sty (c:/texlive/2024/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (c:/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-03-14 L3 programming layer (loader) 
- (c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count271
-\l__pdf_internal_box=\box53
-))
-Package: l3keys2e 2024-03-14 LaTeX2e option processing using LaTeX3 keys
-)
-Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count272
-\l__lipsum_a_int=\count273
-\l__lipsum_b_int=\count274
- (c:/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (c:/texlive/2024/texmf-dist/tex/latex/changepage/changepage.sty
-Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count275
-\cp@tempcnt=\count276
-) (c:/texlive/2024/texmf-dist/tex/latex/chemformula/chemformula.sty (c:/texlive/2024/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks21
-\pgfutil@tempdima=\dimen159
-\pgfutil@tempdimb=\dimen160
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box54
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
-))
-Package: pgf 2023-01-15 v3.1.10 (3.1.10)
- (c:/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/texlive/2024/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
- (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks22
-\pgfkeys@temptoks=\toks23
- (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks24
-))
-\pgf@x=\dimen161
-\pgf@y=\dimen162
-\pgf@xa=\dimen163
-\pgf@ya=\dimen164
-\pgf@xb=\dimen165
-\pgf@yb=\dimen166
-\pgf@xc=\dimen167
-\pgf@yc=\dimen168
-\pgf@xd=\dimen169
-\pgf@yd=\dimen170
-\w@pgf@writea=\write3
-\r@pgf@reada=\read2
-\c@pgf@counta=\count277
-\c@pgf@countb=\count278
-\c@pgf@countc=\count279
-\c@pgf@countd=\count280
-\t@pgf@toka=\toks25
-\t@pgf@tokb=\toks26
-\t@pgf@tokc=\toks27
-\pgf@sys@id@count=\count281
- (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
-)
-Driver file for pgf: pgfsys-pdftex.def
- (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
- (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-))) (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count282
-\pgfsyssoftpath@bigbuffer@items=\count283
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (c:/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
- (c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+) (c:/texlive/2023/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box51
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
+\ttl@plus=\dimen141
+\ttl@minus=\dimen142
+\ttl@toksa=\toks17
+\titlewidth=\dimen143
+\titlewidthlast=\dimen144
+\titlewidthfirst=\dimen145
+) (c:/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/11 v3.00 LaTeX color extensions (UK)
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 274.
- (c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
-Package xcolor Info: Model `RGB' extended on input line 1366.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
- (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen171
-\pgfmath@count=\count284
-\pgfmath@box=\box55
-\pgfmath@toks=\toks28
-\pgfmath@stack@operand=\toks29
-\pgfmath@stack@operation=\toks30
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count285
-)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen172
-\pgf@picmaxx=\dimen173
-\pgf@picminy=\dimen174
-\pgf@picmaxy=\dimen175
-\pgf@pathminx=\dimen176
-\pgf@pathmaxx=\dimen177
-\pgf@pathminy=\dimen178
-\pgf@pathmaxy=\dimen179
-\pgf@xx=\dimen180
-\pgf@xy=\dimen181
-\pgf@yx=\dimen182
-\pgf@yy=\dimen183
-\pgf@zx=\dimen184
-\pgf@zy=\dimen185
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen186
-\pgf@path@lasty=\dimen187
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen188
-\pgf@shorten@start@additional=\dimen189
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box56
-\pgf@hbox=\box57
-\pgf@layerbox@main=\box58
-\pgf@picture@serial@count=\count286
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen190
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
-File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen191
-\pgf@pt@y=\dimen192
-\pgf@pt@temp=\dimen193
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen194
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen195
-\pgf@sys@shading@range@num=\count287
-\pgf@shadingcount=\count288
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box59
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box60
-) (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen196
-\pgf@nodesepend=\dimen197
-) (c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (c:/texlive/2024/texmf-dist/tex/latex/pgf/math/pgfmath.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen198
-\pgffor@skip=\dimen199
-\pgffor@stack=\toks31
-\pgffor@toks=\toks32
-)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2023-01-15 v3.1.10 (3.1.10)
- (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count289
-\pgfplotmarksize=\dimen256
+Package xcolor Info: Driver file: pdftex.def on input line 264.
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1340.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1344.
+Package xcolor Info: Model `RGB' extended on input line 1356.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1358.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1359.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1360.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1361.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1362.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1363.
+) (c:/texlive/2023/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+ (c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen146
+\ar@mcellbox=\box52
+\extrarowheight=\dimen147
+\NC@list=\toks18
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box53
 )
-\tikz@lastx=\dimen257
-\tikz@lasty=\dimen258
-\tikz@lastxsaved=\dimen259
-\tikz@lastysaved=\dimen260
-\tikz@lastmovetox=\dimen261
-\tikz@lastmovetoy=\dimen262
-\tikzleveldistance=\dimen263
-\tikzsiblingdistance=\dimen264
-\tikz@figbox=\box61
-\tikz@figbox@bg=\box62
-\tikz@tempbox=\box63
-\tikz@tempbox@bg=\box64
-\tikztreelevel=\count290
-\tikznumberofchildren=\count291
-\tikznumberofcurrentchild=\count292
-\tikz@fig@count=\count293
- (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count294
-\pgfmatrixcurrentcolumn=\count295
-\pgf@matrix@numberofcolumns=\count296
+\everycr=\toks19
+\minrowclearance=\skip54
+\rownum=\count195
+) (c:/texlive/2023/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen148
+\TX@old@table=\dimen149
+\TX@old@col=\dimen150
+\TX@target=\dimen151
+\TX@delta=\dimen152
+\TX@cols=\count196
+\TX@ftn=\toks20
+) (c:/texlive/2023/texmf-dist/tex/latex/ltablex/ltablex.sty
+Package: ltablex 2014/08/13 v1.1 Modified tabularx
+ (c:/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip55
+\LTright=\skip56
+\LTpre=\skip57
+\LTpost=\skip58
+\LTchunksize=\count197
+\LTcapwidth=\dimen153
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@gbox=\box58
+\LT@cols=\count198
+\LT@rows=\count199
+\c@LT@tables=\count266
+\c@LT@chunks=\count267
+\LT@p@ftn=\toks21
+)) (c:/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (c:/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
 )
-\tikz@expandcount=\count297
- (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+\caption@tempdima=\dimen154
+\captionmargin=\dimen155
+\caption@leftmargin=\dimen156
+\caption@rightmargin=\dimen157
+\caption@width=\dimen158
+\caption@indent=\dimen159
+\caption@parindent=\dimen160
+\caption@hangindent=\dimen161
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count268
+\c@continuedfloat=\count269
+Package caption Info: longtable package is loaded.
+ (c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)) (c:/texlive/2023/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen162
+\c@nlinenum=\count270
+\TeXr@lab=\toks23
+) (c:/texlive/2023/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2023/10/14 v2.0e lastpage: 2.09 or 2e? (HMM)
+ (c:/texlive/2023/texmf-dist/tex/latex/lastpage/lastpage2e.sty
+Package: lastpage2e 2023/10/14 v2.0e Decide which 2e lastpage version to use (HMM)
+ (c:/texlive/2023/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
+Package: lastpagemodern 2023-10-14 v2.0e Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count271
+) 
+)) (c:/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip59
+\f@nch@O@elh=\skip60
+\f@nch@O@erh=\skip61
+\f@nch@O@olh=\skip62
+\f@nch@O@orh=\skip63
+\f@nch@O@elf=\skip64
+\f@nch@O@erf=\skip65
+\f@nch@O@olf=\skip66
+\f@nch@O@orf=\skip67
+) (c:/texlive/2023/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip68
+\enit@outerparindent=\dimen163
+\enit@toks=\toks24
+\enit@inbox=\box59
+\enit@count@id=\count272
+\enitdp@description=\count273
+) (c:/texlive/2023/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip69
+) (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip50
+\@mathmargin=\skip70
 
 For additional information on amsmath, use the `?' option.
-(c:/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks33
-\ex@=\dimen265
-)) (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+\@emptytoks=\toks25
+\ex@=\dimen164
+)) (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen266
-) (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+\pmbraise@=\dimen165
+) (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count298
+\inf@bad=\count274
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count299
-\leftroot@=\count300
+\uproot@=\count275
+\leftroot@=\count276
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count301
-\DOTSCASE@=\count302
+\classnum@=\count277
+\DOTSCASE@=\count278
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box65
-\strutbox@=\box66
+\Mathstrutbox@=\box60
+\strutbox@=\box61
 LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen267
+\big@size=\dimen166
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count303
+\macc@depth=\count279
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count304
+\c@MaxMatrixCols=\count280
 \dotsspace@=\muskip16
-\c@parentequation=\count305
-\dspbrk@lvl=\count306
-\tag@help=\toks34
-\row@=\count307
-\column@=\count308
-\maxfields@=\count309
-\andhelp@=\toks35
-\eqnshift@=\dimen268
-\alignsep@=\dimen269
-\tagshift@=\dimen270
-\tagwidth@=\dimen271
-\totwidth@=\dimen272
-\lineht@=\dimen273
-\@envbody=\toks36
-\multlinegap=\skip51
-\multlinetaggap=\skip52
-\mathdisplay@stack=\toks37
+\c@parentequation=\count281
+\dspbrk@lvl=\count282
+\tag@help=\toks26
+\row@=\count283
+\column@=\count284
+\maxfields@=\count285
+\andhelp@=\toks27
+\eqnshift@=\dimen167
+\alignsep@=\dimen168
+\tagshift@=\dimen169
+\tagwidth@=\dimen170
+\totwidth@=\dimen171
+\lineht@=\dimen172
+\@envbody=\toks28
+\multlinegap=\skip71
+\multlinetaggap=\skip72
+\mathdisplay@stack=\toks29
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) (c:/texlive/2024/texmf-dist/tex/latex/xfrac/xfrac.sty
-Package: xfrac 2024-02-13 Split-level fractions
- (c:/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty (c:/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate-2023-10-10.sty
-Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen274
-\l__xtemplate_tmp_int=\count310
-\l__xtemplate_tmp_muskip=\muskip17
-\l__xtemplate_tmp_skip=\skip53
+) (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (c:/texlive/2023/texmf-dist/tex/latex/esint/esint.sty
+Package: esint 
+\symlargesymbolsA=\mathgroup6
+) (c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\l__xfrac_slash_box=\box67
-\l__xfrac_tmp_box=\box68
-\l__xfrac_denominator_bot_sep_dim=\dimen275
-\l__xfrac_numerator_bot_sep_dim=\dimen276
-\l__xfrac_numerator_top_sep_dim=\dimen277
-\l__xfrac_slash_left_sep_dim=\dimen278
-\l__xfrac_slash_right_sep_dim=\dimen279
+\Gm@cnth=\count286
+\Gm@cntv=\count287
+\c@Gm@tempcnt=\count288
+\Gm@bindingoffset=\dimen173
+\Gm@wd@mp=\dimen174
+\Gm@odd@mp=\dimen175
+\Gm@even@mp=\dimen176
+\Gm@layoutwidth=\dimen177
+\Gm@layoutheight=\dimen178
+\Gm@layouthoffset=\dimen179
+\Gm@layoutvoffset=\dimen180
+\Gm@dimlist=\toks30
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen181
+\Gin@req@width=\dimen182
+) (c:/texlive/2023/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+) (c:/texlive/2023/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box62
+\shadowsize=\dimen183
+\@Sbox=\box63
+\do@VerbBox=\toks31
+\the@fancyput=\toks32
+\this@fancyput=\toks33
+\EndVerbatimTokens=\toks34
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read2
+) (c:/texlive/2023/texmf-dist/tex/latex/here/here.sty) (c:/texlive/2023/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count289
+\float@exts=\toks35
+\float@box=\box64
+\@float@everytoks=\toks36
+\@floatcapt=\box65
+) (c:/texlive/2023/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip73
+\fb@frw=\dimen184
+\fb@frh=\dimen185
+\FrameRule=\dimen186
+\FrameSep=\dimen187
+) (c:/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count290
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count291
+) (c:/texlive/2023/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count292
+\cp@tempcnt=\count293
+) (c:/texlive/2023/texmf-dist/tex/latex/chemformula/chemformula.sty (c:/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks37
+\pgfutil@tempdima=\dimen188
+\pgfutil@tempdimb=\dimen189
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box66
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/texlive/2023/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/texlive/2023/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks38
+\pgfkeys@temptoks=\toks39
+ (c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks40
+))
+\pgf@x=\dimen190
+\pgf@y=\dimen191
+\pgf@xa=\dimen192
+\pgf@ya=\dimen193
+\pgf@xb=\dimen194
+\pgf@yb=\dimen195
+\pgf@xc=\dimen196
+\pgf@yc=\dimen197
+\pgf@xd=\dimen198
+\pgf@yd=\dimen199
+\w@pgf@writea=\write4
+\r@pgf@reada=\read3
+\c@pgf@counta=\count294
+\c@pgf@countb=\count295
+\c@pgf@countc=\count296
+\c@pgf@countd=\count297
+\t@pgf@toka=\toks41
+\t@pgf@tokb=\toks42
+\t@pgf@tokc=\toks43
+\pgf@sys@id@count=\count298
+ (c:/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (c:/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count299
+\pgfsyssoftpath@bigbuffer@items=\count300
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen256
+\pgfmath@count=\count301
+\pgfmath@box=\box67
+\pgfmath@toks=\toks44
+\pgfmath@stack@operand=\toks45
+\pgfmath@stack@operation=\toks46
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count302
+)) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen257
+\pgf@picmaxx=\dimen258
+\pgf@picminy=\dimen259
+\pgf@picmaxy=\dimen260
+\pgf@pathminx=\dimen261
+\pgf@pathmaxx=\dimen262
+\pgf@pathminy=\dimen263
+\pgf@pathmaxy=\dimen264
+\pgf@xx=\dimen265
+\pgf@xy=\dimen266
+\pgf@yx=\dimen267
+\pgf@yy=\dimen268
+\pgf@zx=\dimen269
+\pgf@zy=\dimen270
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen271
+\pgf@path@lasty=\dimen272
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen273
+\pgf@shorten@start@additional=\dimen274
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box68
+\pgf@hbox=\box69
+\pgf@layerbox@main=\box70
+\pgf@picture@serial@count=\count303
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen275
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen276
+\pgf@pt@y=\dimen277
+\pgf@pt@temp=\dimen278
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen279
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen280
+\pgf@sys@shading@range@num=\count304
+\pgf@shadingcount=\count305
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box71
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box72
+) (c:/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen281
+\pgf@nodesepend=\dimen282
+) (c:/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (c:/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (c:/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (c:/texlive/2023/texmf-dist/tex/latex/pgf/math/pgfmath.sty (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen283
+\pgffor@skip=\dimen284
+\pgffor@stack=\toks47
+\pgffor@toks=\toks48
+)) (c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count306
+\pgfplotmarksize=\dimen285
+)
+\tikz@lastx=\dimen286
+\tikz@lasty=\dimen287
+\tikz@lastxsaved=\dimen288
+\tikz@lastysaved=\dimen289
+\tikz@lastmovetox=\dimen290
+\tikz@lastmovetoy=\dimen291
+\tikzleveldistance=\dimen292
+\tikzsiblingdistance=\dimen293
+\tikz@figbox=\box73
+\tikz@figbox@bg=\box74
+\tikz@tempbox=\box75
+\tikz@tempbox@bg=\box76
+\tikztreelevel=\count307
+\tikznumberofchildren=\count308
+\tikznumberofcurrentchild=\count309
+\tikz@fig@count=\count310
+ (c:/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count311
+\pgfmatrixcurrentcolumn=\count312
+\pgf@matrix@numberofcolumns=\count313
+)
+\tikz@expandcount=\count314
+ (c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2023/texmf-dist/tex/latex/l3packages/xfrac/xfrac.sty (c:/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-11-09 L3 programming layer (loader) 
+ (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count315
+\l__pdf_internal_box=\box77
+)) (c:/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
+) (c:/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (c:/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-10-10 L3 Experimental document command parser
+) (c:/texlive/2023/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen294
+\l__xtemplate_tmp_int=\count316
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip74
+)
+Package: xfrac 2023-10-10 L3 Experimental split-level fractions
+\l__xfrac_slash_box=\box78
+\l__xfrac_tmp_box=\box79
+\l__xfrac_denominator_bot_sep_dim=\dimen295
+\l__xfrac_numerator_bot_sep_dim=\dimen296
+\l__xfrac_numerator_top_sep_dim=\dimen297
+\l__xfrac_slash_left_sep_dim=\dimen298
+\l__xfrac_slash_right_sep_dim=\dimen299
 \l__xfrac_slash_left_muskip=\muskip18
 \l__xfrac_slash_right_muskip=\muskip19
 
 Package xtemplate Info: Declaring object type 'xfrac' taking 3 argument(s) on
-(xtemplate)             line 98.
+(xtemplate)             line 80.
 
-) (c:/texlive/2024/texmf-dist/tex/latex/units/nicefrac.sty
+) (c:/texlive/2023/texmf-dist/tex/latex/units/nicefrac.sty
 Package: nicefrac 1998/08/04 v0.9b Nice fractions
-\L@UnitsRaiseDisplaystyle=\skip54
-\L@UnitsRaiseTextstyle=\skip55
-\L@UnitsRaiseScriptstyle=\skip56
- (c:/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+\L@UnitsRaiseDisplaystyle=\skip75
+\L@UnitsRaiseTextstyle=\skip76
+\L@UnitsRaiseScriptstyle=\skip77
+ (c:/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+)) (c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen280
-\pgfarrowlength=\dimen281
-\pgfarrowwidth=\dimen282
-\pgfarrowlinewidth=\dimen283
+\pgfarrowinset=\dimen300
+\pgfarrowlength=\dimen301
+\pgfarrowwidth=\dimen302
+\pgfarrowlinewidth=\dimen303
 )
 Package: chemformula 2022/01/23 v4.17 typeset chemical compounds and reactions (CN)
-\l__chemformula_tmpa_dim=\dimen284
-\l__chemformula_tmpb_dim=\dimen285
-\l__chemformula_tmpc_dim=\dimen286
-\l__chemformula_tmpa_int=\count311
-\l__chemformula_tmpb_int=\count312
-\l__chemformula_tmpc_int=\count313
-\l__chemformula_tmpa_box=\box69
-\l__chemformula_tmpb_box=\box70
-\l__chemformula_arrow_length_dim=\dimen287
-\l__chemformula_arrow_label_height_dim=\dimen288
-\l__chemformula_arrow_label_offset_dim=\dimen289
-\l__chemformula_arrow_minimum_length_dim=\dimen290
-\l__chemformula_arrow_shortage_dim=\dimen291
-\l__chemformula_arrow_offset_dim=\dimen292
-\l__chemformula_arrow_yshift_dim=\dimen293
-\l__chemformula_radical_radius_dim=\dimen294
-\l__chemformula_radical_hshift_dim=\dimen295
-\l__chemformula_radical_vshift_dim=\dimen296
-\l__chemformula_radical_space_dim=\dimen297
-\l__chemformula_arrow_head_dim=\dimen298
-\l__chemformula_name_dim=\dimen299
-\l__chemformula_adduct_space_dim=\dimen300
-\l__chemformula_charge_shift_dim=\dimen301
-\l__chemformula_subscript_shift_dim=\dimen302
-\l__chemformula_superscript_shift_dim=\dimen303
-\l__chemformula_subscript_dim=\dimen304
-\l__chemformula_superscript_dim=\dimen305
-\l__chemformula_bond_dim=\dimen306
-\l__chemformula_bond_space_dim=\dimen307
-\l__chemformula_elspec_pair_distance_dim=\dimen308
-\l__chemformula_elspec_pair_line_length_dim=\dimen309
-\l__chemformula_elspec_pair_width_dim=\dimen310
-\l__chemformula_kroegervink_positive_radius_dim=\dimen311
-\l__chemformula_kroegervink_positive_hshift_dim=\dimen312
-\l__chemformula_kroegervink_positive_vshift_dim=\dimen313
-\l__chemformula_kroegervink_positive_space_dim=\dimen314
-\l__chemformula_stoich_space_skip=\skip57
-\l__chemformula_math_space_skip=\skip58
-\l__chemformula_additions_symbol_space_skip=\skip59
-\l__chemformula_count_tokens_int=\count314
-\g__chemformula_lewis_int=\count315
-\l__chemformula_arrow_arg_i_box=\box71
-\l__chemformula_arrow_arg_ii_box=\box72
-\l__chemformula_superscript_box=\box73
-\l__chemformula_subscript_box=\box74
-\l__chemformula_plus_space_skip=\skip60
-\l__chemformula_minus_space_skip=\skip61
-) (c:/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip62
-\enit@outerparindent=\dimen315
-\enit@toks=\toks38
-\enit@inbox=\box75
-\enit@count@id=\count316
-\enitdp@description=\count317
-) (c:/texlive/2024/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen316
-\WF@size=\dimen317
-\c@WF@wrappedlines=\count318
-\WF@box=\box76
-\WF@everypar=\toks39
+\l__chemformula_tmpa_dim=\dimen304
+\l__chemformula_tmpb_dim=\dimen305
+\l__chemformula_tmpc_dim=\dimen306
+\l__chemformula_tmpa_int=\count317
+\l__chemformula_tmpb_int=\count318
+\l__chemformula_tmpc_int=\count319
+\l__chemformula_tmpa_box=\box80
+\l__chemformula_tmpb_box=\box81
+\l__chemformula_arrow_length_dim=\dimen307
+\l__chemformula_arrow_label_height_dim=\dimen308
+\l__chemformula_arrow_label_offset_dim=\dimen309
+\l__chemformula_arrow_minimum_length_dim=\dimen310
+\l__chemformula_arrow_shortage_dim=\dimen311
+\l__chemformula_arrow_offset_dim=\dimen312
+\l__chemformula_arrow_yshift_dim=\dimen313
+\l__chemformula_radical_radius_dim=\dimen314
+\l__chemformula_radical_hshift_dim=\dimen315
+\l__chemformula_radical_vshift_dim=\dimen316
+\l__chemformula_radical_space_dim=\dimen317
+\l__chemformula_arrow_head_dim=\dimen318
+\l__chemformula_name_dim=\dimen319
+\l__chemformula_adduct_space_dim=\dimen320
+\l__chemformula_charge_shift_dim=\dimen321
+\l__chemformula_subscript_shift_dim=\dimen322
+\l__chemformula_superscript_shift_dim=\dimen323
+\l__chemformula_subscript_dim=\dimen324
+\l__chemformula_superscript_dim=\dimen325
+\l__chemformula_bond_dim=\dimen326
+\l__chemformula_bond_space_dim=\dimen327
+\l__chemformula_elspec_pair_distance_dim=\dimen328
+\l__chemformula_elspec_pair_line_length_dim=\dimen329
+\l__chemformula_elspec_pair_width_dim=\dimen330
+\l__chemformula_kroegervink_positive_radius_dim=\dimen331
+\l__chemformula_kroegervink_positive_hshift_dim=\dimen332
+\l__chemformula_kroegervink_positive_vshift_dim=\dimen333
+\l__chemformula_kroegervink_positive_space_dim=\dimen334
+\l__chemformula_stoich_space_skip=\skip78
+\l__chemformula_math_space_skip=\skip79
+\l__chemformula_additions_symbol_space_skip=\skip80
+\l__chemformula_count_tokens_int=\count320
+\g__chemformula_lewis_int=\count321
+\l__chemformula_arrow_arg_i_box=\box82
+\l__chemformula_arrow_arg_ii_box=\box83
+\l__chemformula_superscript_box=\box84
+\l__chemformula_subscript_box=\box85
+\l__chemformula_plus_space_skip=\skip81
+\l__chemformula_minus_space_skip=\skip82
+) (c:/texlive/2023/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen335
+\WF@size=\dimen336
+\c@WF@wrappedlines=\count322
+\WF@box=\box86
+\WF@everypar=\toks49
 Package: wrapfig 2003/01/31  v 3.6
-) (c:/texlive/2024/texmf-dist/tex/latex/appendix/appendix.sty
+) (c:/texlive/2023/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count319
-\c@@ppsavesec=\count320
-\c@@ppsaveapp=\count321
-) (./dissertation.aux (./introduction.aux) (./method.aux) (./results.aux) (./appendix.aux))
+\c@@pps=\count323
+\c@@ppsavesec=\count324
+\c@@ppsaveapp=\count325
+) (c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (c:/texlive/2023/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
+ (c:/texlive/2023/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count326
+\calc@Bcount=\count327
+\calc@Adimen=\dimen337
+\calc@Bdimen=\dimen338
+\calc@Askip=\skip83
+\calc@Bskip=\skip84
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count328
+\calc@Cskip=\skip85
+) (c:/texlive/2023/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen339
+\ESO@tempdimb=\dimen340
+)
+\AM@pagewidth=\dimen341
+\AM@pageheight=\dimen342
+\AM@fboxrule=\dimen343
+ (c:/texlive/2023/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count329
+\AM@pagebox=\box87
+\AM@global@opts=\toks50
+\AM@pagecnt=\count330
+\AM@toc@title=\toks51
+\AM@lof@heading=\toks52
+\c@AM@survey=\count331
+\AM@templatesizebox=\box88
+) (c:/texlive/2023/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
+\AP@output=\toks53
+\AP@partial=\box89
+\AP@footins=\box90
+) (c:/texlive/2023/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2023/07/05 v6.0f a miscellany of footnote facilities
+\FN@temptoken=\toks54
+\footnotemargin=\dimen344
+\@outputbox@depth=\dimen345
+Package footmisc Info: Declaring symbol style bringhurst on input line 696.
+Package footmisc Info: Declaring symbol style chicago on input line 704.
+Package footmisc Info: Declaring symbol style wiley on input line 713.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 724.
+Package footmisc Info: Declaring symbol style lamport* on input line 744.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 765.
+) (c:/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2023-11-09 v7.01f Hypertext links for LaTeX
+ (c:/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (c:/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (c:/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (c:/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (c:/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (c:/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (c:/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (c:/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (c:/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (c:/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-09 v2.55 Cross-referencing by name of section
+ (c:/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (c:/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (c:/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count332
+) (c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count333
+)
+\@linkdim=\dimen346
+\Hy@linkcounter=\count334
+\Hy@pagecounter=\count335
+ (c:/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2023-11-09 v7.01f Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (c:/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count336
+ (c:/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2023-11-09 v7.01f Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4054.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4054.
+Package hyperref Info: Hyper figures OFF on input line 4171.
+Package hyperref Info: Link nesting OFF on input line 4176.
+Package hyperref Info: Hyper index ON on input line 4179.
+Package hyperref Info: Plain pages OFF on input line 4186.
+Package hyperref Info: Backreferencing OFF on input line 4191.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4438.
+\c@Hy@tempcnt=\count337
+ (c:/texlive/2023/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip20
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4776.
+\XeTeXLinkMargin=\dimen347
+ (c:/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (c:/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count338
+\Field@Width=\dimen348
+\Fld@charsize=\dimen349
+Package hyperref Info: Hyper figures OFF on input line 6055.
+Package hyperref Info: Link nesting OFF on input line 6060.
+Package hyperref Info: Hyper index ON on input line 6063.
+Package hyperref Info: backreferencing OFF on input line 6070.
+Package hyperref Info: Link coloring ON on input line 6073.
+Package hyperref Info: Link coloring with OCG OFF on input line 6080.
+Package hyperref Info: PDF/A mode OFF on input line 6085.
+ (c:/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count339
+\c@Item=\count340
+\c@Hfootnote=\count341
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (c:/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2023-11-09 v7.01f Hyperref driver for pdfTeX
+ (c:/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count342
+\c@bookmark@seq@number=\count343
+ (c:/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (c:/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip86
+) (c:/texlive/2023/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+) (c:/texlive/2023/texmf-dist/tex/latex/oberdiek/hypcap.sty
+Package: hypcap 2016/05/16 v1.12 Adjusting the anchors of captions (HO)
+) (c:/texlive/2023/texmf-dist/tex/latex/was/upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+) (c:/texlive/2023/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2023/07/08 v1.2f Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup8
+\symboldletters=\mathgroup9
+\symboldsymbols=\mathgroup10
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+Package bm Info: No bold for \U/msa/m/n, using \pmb.
+Package bm Info: No bold for \U/msb/m/n, using \pmb.
+Package bm Info: No bold for \U/esint/m/n, using \pmb.
+\symboldugrf@m=\mathgroup11
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+) (c:/texlive/2023/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip87
+\bibsep=\skip88
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count344
+)
+No file dissertation.aux.
 \openout1 = `dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
- (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+(c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count322
-\scratchdimen=\dimen318
-\scratchbox=\box77
-\nofMPsegments=\count323
-\nofMParguments=\count324
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count325
-\MPscratchDim=\dimen319
-\MPnumerator=\count326
-\makeMPintoPDFobject=\count327
-\everyMPtoPDFconversion=\toks41
-) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\scratchcounter=\count345
+\scratchdimen=\dimen350
+\scratchbox=\box91
+\nofMPsegments=\count346
+\nofMParguments=\count347
+\everyMPshowfont=\toks55
+\MPscratchCnt=\count348
+\MPscratchDim=\dimen351
+\MPnumerator=\count349
+\makeMPintoPDFobject=\count350
+\everyMPtoPDFconversion=\toks56
+) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+ (c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen320
-\caption@adjustwidth@linewidth=\dimen321
+\caption@adjustwidth@hsize=\dimen352
+\caption@adjustwidth@linewidth=\dimen353
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: hypcap package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
@@ -519,24 +843,24 @@ Package caption Info: End \AtBeginDocument code.
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
-* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=418.25368pt
-* \textheight=591.5302pt
-* \oddsidemargin=17.3571pt
-* \evensidemargin=17.3571pt
-* \topmargin=-7.86334pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=10.0pt
+* \textwidth=483.69687pt
+* \textheight=672.78308pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-1.1381pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=20.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -546,13 +870,67 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+(c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+Package hyperref Info: Link coloring ON on input line 124.
+\@outlinefile=\write5
+\openout5 = `dissertation.out'.
+
+<logo-structure.png, id=7, 831.105pt x 282.05376pt>
+File: logo-structure.png Graphic file (type png)
+<use logo-structure.png>
+Package pdftex.def Info: logo-structure.png  used on input line 133.
+(pdftex.def)             Requested size: 256.0748pt x 86.90208pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--154
+
+ []
+
 [1
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./dissertation.toc)
-\tf@toc=\write4
-\openout4 = `dissertation.toc'.
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo-structure.png>]
+File: logo-structure.png Graphic file (type png)
+<use logo-structure.png>
+Package pdftex.def Info: logo-structure.png  used on input line 162.
+(pdftex.def)             Requested size: 256.0748pt x 86.90208pt.
 
- [1
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
+
+ []
+
+[2]
+No file dissertation.toc.
+\tf@toc=\write6
+\openout6 = `dissertation.toc'.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.181 \newpage
+               [1
 
 ]
 \openout2 = `introduction.aux'.
@@ -560,637 +938,1237 @@ Package caption Info: End \AtBeginDocument code.
  (./introduction.tex
 Chapter 1.
 
-LaTeX Warning: Citation `Mackenzie67' on page 2 undefined on input line 5.
+Package natbib Warning: Citation `Mackenzie67' on page 2 undefined on input line 5.
 
 
-LaTeX Warning: Citation `Krause' on page 2 undefined on input line 5.
+Package natbib Warning: Citation `Krause' on page 2 undefined on input line 5.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
+ (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+esint on input line 7.
+ (c:/texlive/2023/texmf-dist/tex/latex/esint/uesint.fd
+File: uesint.fd 
+)
+
+Package natbib Warning: Citation `Nuc' on page 2 undefined on input line 7.
 
 
-LaTeX Warning: Citation `PharmApp' on page 2 undefined on input line 7.
-
-
-LaTeX Warning: Citation `Nuc' on page 2 undefined on input line 7.
-
-[2
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.14 
+      [2
 
 
 ]
 
-LaTeX Warning: Citation `EFermi' on page 3 undefined on input line 36.
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 33.
 
-[3] [4] [5]) [6]
+[3]
+
+Package natbib Warning: Citation `EFermi' on page 4 undefined on input line 36.
+
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 57.
+
+[4]
+
+LaTeX Warning: Reference `eq:ratebulk' on page 5 undefined on input line 82.
+
+
+LaTeX Warning: Reference `eq:ratedefect' on page 5 undefined on input line 82.
+
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 86.
+
+[5]
+
+LaTeX Warning: Reference `eq:decayspec' on page 6 undefined on input line 88.
+
+
+LaTeX Warning: Reference `eq:lifespec' on page 6 undefined on input line 101.
+
+
+LaTeX Warning: Reference `eq:stmlifespec' on page 6 undefined on input line 111.
+
+
+LaTeX Warning: Reference `eq:tau1tau2' on page 6 undefined on input line 111.
+
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 119.
+
+[6])
+
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 183.
+
+[7]
 \openout2 = `method.aux'.
 
  (./method.tex
 Chapter 2.
-<PALSsim.PNG, id=46, 634.62094pt x 514.17094pt>
-File: PALSsim.PNG Graphic file (type png)
-<use PALSsim.PNG>
-Package pdftex.def Info: PALSsim.PNG  used on input line 18.
-(pdftex.def)             Requested size: 334.60422pt x 271.10493pt.
-[7
+[8
 
-
-
-
-] [8{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./PALSsim.PNG>]
-<Batch 3/regular IRF/irf.png, id=57, 412.6617pt x 312.2064pt>
-File: Batch 3/regular IRF/irf.png Graphic file (type png)
-<use Batch 3/regular IRF/irf.png>
-Package pdftex.def Info: Batch 3/regular IRF/irf.png  used on input line 45.
-(pdftex.def)             Requested size: 250.95476pt x 189.86443pt.
-
-Underfull \hbox (badness 1325) in paragraph at lines 62--62
-[]\OT1/cmr/m/n/10 Figure 2.2: |Vi-sual rep-re-sen-ta-
- []
-
-<SpecSetup.PNG, id=58, 621.82312pt x 335.00156pt>
-File: SpecSetup.PNG Graphic file (type png)
-<use SpecSetup.PNG>
-Package pdftex.def Info: SpecSetup.PNG  used on input line 74.
-(pdftex.def)             Requested size: 250.95476pt x 135.1995pt.
-[9 <./Batch 3/regular IRF/irf.png> <./SpecSetup.PNG>]
-<Batch 3/regular IRF/tau1 220/output/t1.png, id=64, 462.528pt x 346.896pt>
-File: Batch 3/regular IRF/tau1 220/output/t1.png Graphic file (type png)
-<use Batch 3/regular IRF/tau1 220/output/t1.png>
-Package pdftex.def Info: Batch 3/regular IRF/tau1 220/output/t1.png  used on input line 98.
-(pdftex.def)             Requested size: 192.39949pt x 144.29791pt.
-<Batch 1+2/8020.png, id=65, 462.528pt x 346.896pt>
-File: Batch 1+2/8020.png Graphic file (type png)
-<use Batch 1+2/8020.png>
-Package pdftex.def Info: Batch 1+2/8020.png  used on input line 105.
-(pdftex.def)             Requested size: 192.39949pt x 144.29791pt.
- [10 <./Batch 3/regular IRF/tau1 220/output/t1.png> <./Batch 1+2/8020.png>]
-<Batch 5/t1-err 5050.png, id=71, 462.528pt x 346.896pt>
-File: Batch 5/t1-err 5050.png Graphic file (type png)
-<use Batch 5/t1-err 5050.png>
-Package pdftex.def Info: Batch 5/t1-err 5050.png  used on input line 114.
-(pdftex.def)             Requested size: 250.95476pt x 188.21559pt.
-) [11 <./Batch 5/t1-err 5050.png>]
-\openout2 = `results.aux'.
-
- (./results.tex
-Chapter 3.
-<Batch 1+2/Batch1+2/output/plotfin/t1.png, id=76, 413.3844pt x 315.0972pt>
-File: Batch 1+2/Batch1+2/output/plotfin/t1.png Graphic file (type png)
-<use Batch 1+2/Batch1+2/output/plotfin/t1.png>
-Package pdftex.def Info: Batch 1+2/Batch1+2/output/plotfin/t1.png  used on input line 17.
-(pdftex.def)             Requested size: 250.95476pt x 191.29068pt.
-[12
-
-
-
-
- <./Batch 1+2/Batch1+2/output/plotfin/t1.png>]
-<Batch 1+2/Batch1+2/output/plotfin/t2.png, id=83, 407.6028pt x 315.0972pt>
-File: Batch 1+2/Batch1+2/output/plotfin/t2.png Graphic file (type png)
-<use Batch 1+2/Batch1+2/output/plotfin/t2.png>
-Package pdftex.def Info: Batch 1+2/Batch1+2/output/plotfin/t2.png  used on input line 27.
-(pdftex.def)             Requested size: 188.21288pt x 145.49937pt.
-<Batch 1+2/Batch1+2/output/plotfin/t1zoom.png, id=84, 413.3844pt x 319.4334pt>
-File: Batch 1+2/Batch1+2/output/plotfin/t1zoom.png Graphic file (type png)
-<use Batch 1+2/Batch1+2/output/plotfin/t1zoom.png>
-Package pdftex.def Info: Batch 1+2/Batch1+2/output/plotfin/t1zoom.png  used on input line 34.
-(pdftex.def)             Requested size: 188.21288pt x 145.4399pt.
-<Batch 1+2/Batch1+2/output/plotfin/2080.png, id=85, 413.3844pt x 319.4334pt>
-File: Batch 1+2/Batch1+2/output/plotfin/2080.png Graphic file (type png)
-<use Batch 1+2/Batch1+2/output/plotfin/2080.png>
-Package pdftex.def Info: Batch 1+2/Batch1+2/output/plotfin/2080.png  used on input line 49.
-(pdftex.def)             Requested size: 188.21288pt x 145.4399pt.
-<Batch 1+2/Batch1+2/output/plotfin/5050.png, id=86, 413.3844pt x 319.4334pt>
-File: Batch 1+2/Batch1+2/output/plotfin/5050.png Graphic file (type png)
-<use Batch 1+2/Batch1+2/output/plotfin/5050.png>
-Package pdftex.def Info: Batch 1+2/Batch1+2/output/plotfin/5050.png  used on input line 56.
-(pdftex.def)             Requested size: 188.21288pt x 145.4399pt.
-<Batch 1+2/Batch1+2/output/plotfin/8020.png, id=87, 413.3844pt x 319.4334pt>
-File: Batch 1+2/Batch1+2/output/plotfin/8020.png Graphic file (type png)
-<use Batch 1+2/Batch1+2/output/plotfin/8020.png>
-Package pdftex.def Info: Batch 1+2/Batch1+2/output/plotfin/8020.png  used on input line 64.
-(pdftex.def)             Requested size: 209.12683pt x 161.59772pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[13 <./Batch 1+2/Batch1+2/output/plotfin/t2.png> <./Batch 1+2/Batch1+2/output/plotfin/t1zoom.png> <./Batch 1+2/Batch1+2/output/plotfin/2080.png> <./Batch 1+2/Batch1+2/output/plotfin/5050.png>]
-
-LaTeX Warning: Reference `fig:150' on page 14 undefined on input line 79.
-
-
-LaTeX Warning: Reference `fig:220' on page 14 undefined on input line 81.
-
-
-LaTeX Warning: Reference `fig:220-tau1' on page 14 undefined on input line 81.
-
-
-LaTeX Warning: Reference `fig:220-tau2' on page 14 undefined on input line 81.
-
-
-LaTeX Warning: Reference `fig:t1-comp' on page 14 undefined on input line 83.
-
-
-LaTeX Warning: Reference `fig:int-comp' on page 14 undefined on input line 83.
-
-[14 <./Batch 1+2/Batch1+2/output/plotfin/8020.png>]
-
-LaTeX Warning: Reference `fig:150' on page 15 undefined on input line 92.
-
-<Batch 3/single Gaussian IRF/gauss210/150/output/t1.png, id=99, 462.528pt x 346.896pt>
-File: Batch 3/single Gaussian IRF/gauss210/150/output/t1.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/gauss210/150/output/t1.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss210/150/output/t1.png  used on input line 110.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 3/single Gaussian IRF/gauss210/150/output/t2.png, id=100, 462.528pt x 346.896pt>
-File: Batch 3/single Gaussian IRF/gauss210/150/output/t2.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/gauss210/150/output/t2.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss210/150/output/t2.png  used on input line 110.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 3/single Gaussian IRF/gauss210/150/output/2080.png, id=101, 462.528pt x 346.896pt>
-File: Batch 3/single Gaussian IRF/gauss210/150/output/2080.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/gauss210/150/output/2080.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss210/150/output/2080.png  used on input line 124.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 3/single Gaussian IRF/gauss210/150/output/5050.png, id=102, 462.528pt x 346.896pt>
-File: Batch 3/single Gaussian IRF/gauss210/150/output/5050.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/gauss210/150/output/5050.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss210/150/output/5050.png  used on input line 124.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 3/single Gaussian IRF/gauss210/150/output/8020.png, id=103, 462.528pt x 346.896pt>
-File: Batch 3/single Gaussian IRF/gauss210/150/output/8020.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/gauss210/150/output/8020.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss210/150/output/8020.png  used on input line 127.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-
-LaTeX Warning: Float too large for page by 122.20078pt on input line 132.
-
-<Batch 3/single Gaussian IRF/t1-diff 2080.png, id=104, 392.4261pt x 298.4751pt>
-File: Batch 3/single Gaussian IRF/t1-diff 2080.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/t1-diff 2080.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/t1-diff 2080.png  used on input line 158.
-(pdftex.def)             Requested size: 278.13658pt x 211.55444pt.
-<Batch 3/single Gaussian IRF/t1-err 2080.png, id=105, 401.8212pt x 298.4751pt>
-File: Batch 3/single Gaussian IRF/t1-err 2080.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/t1-err 2080.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/t1-err 2080.png  used on input line 158.
-(pdftex.def)             Requested size: 278.13658pt x 206.60387pt.
-<Batch 3/single Gaussian IRF/t1-diff 5050.png, id=106, 395.3169pt x 298.4751pt>
-File: Batch 3/single Gaussian IRF/t1-diff 5050.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/t1-diff 5050.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/t1-diff 5050.png  used on input line 174.
-(pdftex.def)             Requested size: 278.13658pt x 210.0014pt.
-<Batch 3/single Gaussian IRF/t1-err 5050.png, id=107, 392.4261pt x 298.4751pt>
-File: Batch 3/single Gaussian IRF/t1-err 5050.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/t1-err 5050.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/t1-err 5050.png  used on input line 174.
-(pdftex.def)             Requested size: 278.13658pt x 211.55444pt.
-<Batch 3/single Gaussian IRF/t1-diff 8020.png, id=108, 401.8212pt x 298.4751pt>
-File: Batch 3/single Gaussian IRF/t1-diff 8020.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/t1-diff 8020.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/t1-diff 8020.png  used on input line 190.
-(pdftex.def)             Requested size: 278.13658pt x 206.60387pt.
-<Batch 3/single Gaussian IRF/t1-err 8020.png, id=109, 395.3169pt x 298.4751pt>
-File: Batch 3/single Gaussian IRF/t1-err 8020.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/t1-err 8020.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/t1-err 8020.png  used on input line 190.
-(pdftex.def)             Requested size: 278.13658pt x 210.0014pt.
-
-LaTeX Warning: Float too large for page by 129.4802pt on input line 193.
-
-<Batch 3/single Gaussian IRF/t2-diff 2080.png, id=110, 401.8212pt x 298.4751pt>
-File: Batch 3/single Gaussian IRF/t2-diff 2080.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/t2-diff 2080.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/t2-diff 2080.png  used on input line 211.
-(pdftex.def)             Requested size: 278.13658pt x 206.60387pt.
-<Batch 3/single Gaussian IRF/t2-err 2080.png, id=111, 395.3169pt x 298.4751pt>
-File: Batch 3/single Gaussian IRF/t2-err 2080.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/t2-err 2080.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/t2-err 2080.png  used on input line 211.
-(pdftex.def)             Requested size: 278.13658pt x 210.0014pt.
-<Batch 3/single Gaussian IRF/t2-diff 5050.png, id=112, 395.3169pt x 299.1978pt>
-File: Batch 3/single Gaussian IRF/t2-diff 5050.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/t2-diff 5050.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/t2-diff 5050.png  used on input line 227.
-(pdftex.def)             Requested size: 278.13658pt x 210.50989pt.
-<Batch 3/single Gaussian IRF/t2-err 5050.png, id=113, 385.9218pt x 298.4751pt>
-File: Batch 3/single Gaussian IRF/t2-err 5050.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/t2-err 5050.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/t2-err 5050.png  used on input line 227.
-(pdftex.def)             Requested size: 278.13658pt x 215.12051pt.
-<Batch 3/single Gaussian IRF/t2-diff 8020.png, id=114, 392.4261pt x 298.4751pt>
-File: Batch 3/single Gaussian IRF/t2-diff 8020.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/t2-diff 8020.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/t2-diff 8020.png  used on input line 243.
-(pdftex.def)             Requested size: 278.13658pt x 211.55444pt.
-<Batch 3/single Gaussian IRF/t2-err 8020.png, id=115, 392.4261pt x 298.4751pt>
-File: Batch 3/single Gaussian IRF/t2-err 8020.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/t2-err 8020.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/t2-err 8020.png  used on input line 243.
-(pdftex.def)             Requested size: 278.13658pt x 211.55444pt.
-
-LaTeX Warning: Float too large for page by 133.04626pt on input line 246.
-
-<Batch 3/single Gaussian IRF/2080-diff i1.png, id=116, 392.4261pt x 298.4751pt>
-File: Batch 3/single Gaussian IRF/2080-diff i1.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/2080-diff i1.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/2080-diff i1.png  used on input line 264.
-(pdftex.def)             Requested size: 278.13658pt x 211.55444pt.
-<Batch 3/single Gaussian IRF/2080-err i1.png, id=117, 392.4261pt x 298.4751pt>
-File: Batch 3/single Gaussian IRF/2080-err i1.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/2080-err i1.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/2080-err i1.png  used on input line 264.
-(pdftex.def)             Requested size: 278.13658pt x 211.55444pt.
-<Batch 3/single Gaussian IRF/5050-diff i1.png, id=118, 392.4261pt x 298.4751pt>
-File: Batch 3/single Gaussian IRF/5050-diff i1.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/5050-diff i1.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/5050-diff i1.png  used on input line 280.
-(pdftex.def)             Requested size: 278.13658pt x 211.55444pt.
-<Batch 3/single Gaussian IRF/5050-err i1.png, id=119, 392.4261pt x 300.6432pt>
-File: Batch 3/single Gaussian IRF/5050-err i1.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/5050-err i1.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/5050-err i1.png  used on input line 280.
-(pdftex.def)             Requested size: 278.13658pt x 213.09116pt.
-<Batch 3/single Gaussian IRF/8020-diff i1.png, id=120, 392.4261pt x 298.4751pt>
-File: Batch 3/single Gaussian IRF/8020-diff i1.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/8020-diff i1.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/8020-diff i1.png  used on input line 296.
-(pdftex.def)             Requested size: 278.13658pt x 211.55444pt.
-<Batch 3/single Gaussian IRF/8020-err i1.png, id=121, 392.4261pt x 298.4751pt>
-File: Batch 3/single Gaussian IRF/8020-err i1.png Graphic file (type png)
-<use Batch 3/single Gaussian IRF/8020-err i1.png>
-Package pdftex.def Info: Batch 3/single Gaussian IRF/8020-err i1.png  used on input line 296.
-(pdftex.def)             Requested size: 278.13658pt x 211.55444pt.
-
-LaTeX Warning: Float too large for page by 132.56995pt on input line 299.
-
-[15] [16 <./Batch 3/single Gaussian IRF/gauss210/150/output/t1.png> <./Batch 3/single Gaussian IRF/gauss210/150/output/t2.png> <./Batch 3/single Gaussian IRF/gauss210/150/output/2080.png> <./Batch 3/single Gaussian IRF/gauss210/150/output/5050.png> <./Batch 3/single Gaussian IRF/gauss210/150/output/8020.png>] [17 <./Batch 3/single Gaussian IRF/t1-diff 2080.png> <./Batch 3/single Gaussian IRF/t1-err 2080.png> <./Batch 3/single Gaussian IRF/t1-diff 5050.png> <./Batch 3/single Gaussian IRF/t1-err 5050.png> <./Batch 3/single Gaussian IRF/t1-diff 8020.png> <./Batch 3/single Gaussian IRF/t1-err 8020.png>] [18 <./Batch 3/single Gaussian IRF/t2-diff 2080.png> <./Batch 3/single Gaussian IRF/t2-err 2080.png> <./Batch 3/single Gaussian IRF/t2-diff 5050.png> <./Batch 3/single Gaussian IRF/t2-err 5050.png> <./Batch 3/single Gaussian IRF/t2-diff 8020.png> <./Batch 3/single Gaussian IRF/t2-err 8020.png>] [19 <./Batch 3/single Gaussian IRF/2080-diff i1.png> <./Batch 3/single Gaussian IRF/2080-err i1.png> <./Batch 3/single Gaussian IRF/5050-diff i1.png> <./Batch 3/single Gaussian IRF/5050-err i1.png> <./Batch 3/single Gaussian IRF/8020-diff i1.png> <./Batch 3/single Gaussian IRF/8020-err i1.png>]
-<Batch 5/t1-diff 2080.png, id=163, 462.528pt x 346.896pt>
-File: Batch 5/t1-diff 2080.png Graphic file (type png)
-<use Batch 5/t1-diff 2080.png>
-Package pdftex.def Info: Batch 5/t1-diff 2080.png  used on input line 331.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 5/t1-err 2080.png, id=164, 462.528pt x 346.896pt>
-File: Batch 5/t1-err 2080.png Graphic file (type png)
-<use Batch 5/t1-err 2080.png>
-Package pdftex.def Info: Batch 5/t1-err 2080.png  used on input line 331.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 5/t1-diff 5050.png, id=165, 462.528pt x 346.896pt>
-File: Batch 5/t1-diff 5050.png Graphic file (type png)
-<use Batch 5/t1-diff 5050.png>
-Package pdftex.def Info: Batch 5/t1-diff 5050.png  used on input line 347.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-File: Batch 5/t1-err 5050.png Graphic file (type png)
-<use Batch 5/t1-err 5050.png>
-Package pdftex.def Info: Batch 5/t1-err 5050.png  used on input line 347.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 5/t1-diff 8020.png, id=166, 462.528pt x 346.896pt>
-File: Batch 5/t1-diff 8020.png Graphic file (type png)
-<use Batch 5/t1-diff 8020.png>
-Package pdftex.def Info: Batch 5/t1-diff 8020.png  used on input line 363.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 5/t1-err 8020.png, id=167, 462.528pt x 346.896pt>
-File: Batch 5/t1-err 8020.png Graphic file (type png)
-<use Batch 5/t1-err 8020.png>
-Package pdftex.def Info: Batch 5/t1-err 8020.png  used on input line 363.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-
-
-LaTeX Warning: Float too large for page by 122.20078pt on input line 366.
-
-<Batch 5/t2-diff 2080.png, id=168, 462.528pt x 346.896pt>
-File: Batch 5/t2-diff 2080.png Graphic file (type png)
-<use Batch 5/t2-diff 2080.png>
-Package pdftex.def Info: Batch 5/t2-diff 2080.png  used on input line 384.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 5/t2-err 2080.png, id=169, 462.528pt x 346.896pt>
-File: Batch 5/t2-err 2080.png Graphic file (type png)
-<use Batch 5/t2-err 2080.png>
-Package pdftex.def Info: Batch 5/t2-err 2080.png  used on input line 384.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 5/t2-diff 5050.png, id=170, 462.528pt x 346.896pt>
-File: Batch 5/t2-diff 5050.png Graphic file (type png)
-<use Batch 5/t2-diff 5050.png>
-Package pdftex.def Info: Batch 5/t2-diff 5050.png  used on input line 400.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 5/t2-err 5050.png, id=171, 462.528pt x 346.896pt>
-File: Batch 5/t2-err 5050.png Graphic file (type png)
-<use Batch 5/t2-err 5050.png>
-Package pdftex.def Info: Batch 5/t2-err 5050.png  used on input line 400.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 5/t2-diff 8020.png, id=172, 462.528pt x 346.896pt>
-File: Batch 5/t2-diff 8020.png Graphic file (type png)
-<use Batch 5/t2-diff 8020.png>
-Package pdftex.def Info: Batch 5/t2-diff 8020.png  used on input line 416.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 5/t2-err 8020.png, id=173, 462.528pt x 346.896pt>
-File: Batch 5/t2-err 8020.png Graphic file (type png)
-<use Batch 5/t2-err 8020.png>
-Package pdftex.def Info: Batch 5/t2-err 8020.png  used on input line 416.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-
-LaTeX Warning: Float too large for page by 122.20078pt on input line 419.
-
-<Batch 5/2080-diff i1.png, id=174, 462.528pt x 346.896pt>
-File: Batch 5/2080-diff i1.png Graphic file (type png)
-<use Batch 5/2080-diff i1.png>
-Package pdftex.def Info: Batch 5/2080-diff i1.png  used on input line 437.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 5/2080-err i1.png, id=175, 462.528pt x 346.896pt>
-File: Batch 5/2080-err i1.png Graphic file (type png)
-<use Batch 5/2080-err i1.png>
-Package pdftex.def Info: Batch 5/2080-err i1.png  used on input line 437.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 5/5050-diff i1.png, id=176, 462.528pt x 346.896pt>
-File: Batch 5/5050-diff i1.png Graphic file (type png)
-<use Batch 5/5050-diff i1.png>
-Package pdftex.def Info: Batch 5/5050-diff i1.png  used on input line 453.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 5/5050-err i1.png, id=177, 462.528pt x 346.896pt>
-File: Batch 5/5050-err i1.png Graphic file (type png)
-<use Batch 5/5050-err i1.png>
-Package pdftex.def Info: Batch 5/5050-err i1.png  used on input line 453.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 5/8020-diff i1.png, id=178, 462.528pt x 346.896pt>
-File: Batch 5/8020-diff i1.png Graphic file (type png)
-<use Batch 5/8020-diff i1.png>
-Package pdftex.def Info: Batch 5/8020-diff i1.png  used on input line 469.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 5/8020-err i1.png, id=179, 462.528pt x 346.896pt>
-File: Batch 5/8020-err i1.png Graphic file (type png)
-<use Batch 5/8020-err i1.png>
-Package pdftex.def Info: Batch 5/8020-err i1.png  used on input line 469.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-
-LaTeX Warning: Float too large for page by 122.20078pt on input line 472.
-
-[20] [21 <./Batch 5/t1-diff 2080.png> <./Batch 5/t1-err 2080.png> <./Batch 5/t1-diff 5050.png> <./Batch 5/t1-diff 8020.png> <./Batch 5/t1-err 8020.png>] [22 <./Batch 5/t2-diff 2080.png> <./Batch 5/t2-err 2080.png> <./Batch 5/t2-diff 5050.png> <./Batch 5/t2-err 5050.png> <./Batch 5/t2-diff 8020.png> <./Batch 5/t2-err 8020.png>] [23 <./Batch 5/2080-diff i1.png> <./Batch 5/2080-err i1.png> <./Batch 5/5050-diff i1.png> <./Batch 5/5050-err i1.png> <./Batch 5/8020-diff i1.png> <./Batch 5/8020-err i1.png>]
-<Batch 6/1-life/lifetime.png, id=209, 462.528pt x 346.896pt>
-File: Batch 6/1-life/lifetime.png Graphic file (type png)
-<use Batch 6/1-life/lifetime.png>
-Package pdftex.def Info: Batch 6/1-life/lifetime.png  used on input line 580.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 7/355-444/output/1 life/lifetime.png, id=210, 462.528pt x 346.896pt>
-File: Batch 7/355-444/output/1 life/lifetime.png Graphic file (type png)
-<use Batch 7/355-444/output/1 life/lifetime.png>
-Package pdftex.def Info: Batch 7/355-444/output/1 life/lifetime.png  used on input line 580.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 7/348-440/output/1 life/lifetime.png, id=211, 462.528pt x 346.896pt>
-File: Batch 7/348-440/output/1 life/lifetime.png Graphic file (type png)
-<use Batch 7/348-440/output/1 life/lifetime.png>
-Package pdftex.def Info: Batch 7/348-440/output/1 life/lifetime.png  used on input line 589.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 6/2-life/lifetimes.png, id=212, 462.528pt x 346.896pt>
-File: Batch 6/2-life/lifetimes.png Graphic file (type png)
-<use Batch 6/2-life/lifetimes.png>
-Package pdftex.def Info: Batch 6/2-life/lifetimes.png  used on input line 609.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 7/355-444/output/2 life/lifetimes.png, id=213, 462.528pt x 346.896pt>
-File: Batch 7/355-444/output/2 life/lifetimes.png Graphic file (type png)
-<use Batch 7/355-444/output/2 life/lifetimes.png>
-Package pdftex.def Info: Batch 7/355-444/output/2 life/lifetimes.png  used on input line 609.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 7/348-440/output/2 life/lifetimes.png, id=214, 419.166pt x 318.7107pt>
-File: Batch 7/348-440/output/2 life/lifetimes.png Graphic file (type png)
-<use Batch 7/348-440/output/2 life/lifetimes.png>
-Package pdftex.def Info: Batch 7/348-440/output/2 life/lifetimes.png  used on input line 618.
-(pdftex.def)             Requested size: 278.13658pt x 211.4828pt.
-<Batch 6/3-life/lifetimes.png, id=215, 462.528pt x 346.896pt>
-File: Batch 6/3-life/lifetimes.png Graphic file (type png)
-<use Batch 6/3-life/lifetimes.png>
-Package pdftex.def Info: Batch 6/3-life/lifetimes.png  used on input line 638.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 7/355-444/output/3 life/lifetimes.png, id=216, 462.528pt x 346.896pt>
-File: Batch 7/355-444/output/3 life/lifetimes.png Graphic file (type png)
-<use Batch 7/355-444/output/3 life/lifetimes.png>
-Package pdftex.def Info: Batch 7/355-444/output/3 life/lifetimes.png  used on input line 638.
-(pdftex.def)             Requested size: 278.13658pt x 208.61029pt.
-<Batch 7/348-440/output/3 life/lifetimes.png, id=217, 419.166pt x 318.7107pt>
-File: Batch 7/348-440/output/3 life/lifetimes.png Graphic file (type png)
-<use Batch 7/348-440/output/3 life/lifetimes.png>
-Package pdftex.def Info: Batch 7/348-440/output/3 life/lifetimes.png  used on input line 647.
-(pdftex.def)             Requested size: 278.13658pt x 211.4828pt.
- [24] [25 <./Batch 6/1-life/lifetime.png> <./Batch 7/355-444/output/1 life/lifetime.png> <./Batch 7/348-440/output/1 life/lifetime.png>] [26 <./Batch 6/2-life/lifetimes.png> <./Batch 7/355-444/output/2 life/lifetimes.png> <./Batch 7/348-440/output/2 life/lifetimes.png>] [27 <./Batch 6/3-life/lifetimes.png> <./Batch 7/355-444/output/3 life/lifetimes.png> <./Batch 7/348-440/output/3 life/lifetimes.png>]) [28]
-\openout2 = `appendix.aux'.
-
- (./appendix.tex [29
 
 
 
 ]
-<Batch 3/regular IRF/tau1 150/output/plotfin/t1.png, id=246, 413.3844pt x 315.0972pt>
-File: Batch 3/regular IRF/tau1 150/output/plotfin/t1.png Graphic file (type png)
-<use Batch 3/regular IRF/tau1 150/output/plotfin/t1.png>
-Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/plotfin/t1.png  used on input line 27.
-(pdftex.def)             Requested size: 209.12683pt x 159.40408pt.
-<Batch 3/regular IRF/tau1 150/output/plotfin/t2.png, id=247, 416.9979pt x 315.0972pt>
-File: Batch 3/regular IRF/tau1 150/output/plotfin/t2.png Graphic file (type png)
-<use Batch 3/regular IRF/tau1 150/output/plotfin/t2.png>
-Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/plotfin/t2.png  used on input line 33.
-(pdftex.def)             Requested size: 209.12683pt x 158.0242pt.
-<Batch 3/regular IRF/tau1 150/output/plotfin/2080.png, id=248, 413.3844pt x 319.4334pt>
-File: Batch 3/regular IRF/tau1 150/output/plotfin/2080.png Graphic file (type png)
-<use Batch 3/regular IRF/tau1 150/output/plotfin/2080.png>
-Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/plotfin/2080.png  used on input line 39.
-(pdftex.def)             Requested size: 209.12683pt x 161.59772pt.
-<Batch 3/regular IRF/tau1 150/output/plotfin/8020.png, id=249, 413.3844pt x 319.4334pt>
-File: Batch 3/regular IRF/tau1 150/output/plotfin/8020.png Graphic file (type png)
-<use Batch 3/regular IRF/tau1 150/output/plotfin/8020.png>
-Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/plotfin/8020.png  used on input line 45.
-(pdftex.def)             Requested size: 209.12683pt x 161.59772pt.
-<Batch 3/regular IRF/tau1 150/output/plotfin/5050.png, id=250, 413.3844pt x 319.4334pt>
-File: Batch 3/regular IRF/tau1 150/output/plotfin/5050.png Graphic file (type png)
-<use Batch 3/regular IRF/tau1 150/output/plotfin/5050.png>
-Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/plotfin/5050.png  used on input line 51.
-(pdftex.def)             Requested size: 209.12683pt x 161.59772pt.
-
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 25--55
-$[]$ $[]$
- []
+<PALSsim.PNG, id=103, 634.62094pt x 514.17094pt>
+File: PALSsim.PNG Graphic file (type png)
+<use PALSsim.PNG>
+Package pdftex.def Info: PALSsim.PNG  used on input line 18.
+(pdftex.def)             Requested size: 386.95897pt x 313.52614pt.
 
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 25--55
-[]$ $[]$
- []
+LaTeX Warning: Reference `fig:Psim' on page 9 undefined on input line 23.
 
-<Batch 3/regular IRF/tau1 220/output/plotfin/t1.png, id=251, 413.3844pt x 315.0972pt>
-File: Batch 3/regular IRF/tau1 220/output/plotfin/t1.png Graphic file (type png)
-<use Batch 3/regular IRF/tau1 220/output/plotfin/t1.png>
-Package pdftex.def Info: Batch 3/regular IRF/tau1 220/output/plotfin/t1.png  used on input line 61.
-(pdftex.def)             Requested size: 209.12683pt x 159.40408pt.
-<Batch 3/regular IRF/tau1 220/output/plotfin/t2.png, id=252, 416.9979pt x 315.0972pt>
+
+LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 28.
+
+[9 <./PALSsim.PNG>]
+
+LaTeX Warning: Reference `tab:irfcomp' on page 10 undefined on input line 29.
+
+
+LaTeX Warning: Reference `fig:irf' on page 10 undefined on input line 29.
+
+<Batch 3/regular IRF/irf.png, id=113, 412.6617pt x 312.2064pt>
+File: Batch 3/regular IRF/irf.png Graphic file (type png)
+<use Batch 3/regular IRF/irf.png>
+Package pdftex.def Info: Batch 3/regular IRF/irf.png  used on input line 45.
+(pdftex.def)             Requested size: 290.22107pt x 219.57199pt.
+
+LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 66.
+
+[10{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+<SpecSetup.PNG, id=119, 621.82312pt x 335.00156pt>
+File: SpecSetup.PNG Graphic file (type png)
+<use SpecSetup.PNG>
+Package pdftex.def Info: SpecSetup.PNG  used on input line 74.
+(pdftex.def)             Requested size: 290.22107pt x 156.35173pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 81.
+
+[11 <./Batch 3/regular IRF/irf.png> <./SpecSetup.PNG>]
+
+LaTeX Warning: Reference `fig:type1' on page 12 undefined on input line 94.
+
+<Batch 3/regular IRF/tau1 220/output/t1.png, id=131, 462.528pt x 346.896pt>
+File: Batch 3/regular IRF/tau1 220/output/t1.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 220/output/t1.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 220/output/t1.png  used on input line 98.
+(pdftex.def)             Requested size: 222.5038pt x 166.87871pt.
+<Batch 1+2/8020.png, id=132, 462.528pt x 346.896pt>
+File: Batch 1+2/8020.png Graphic file (type png)
+<use Batch 1+2/8020.png>
+Package pdftex.def Info: Batch 1+2/8020.png  used on input line 105.
+(pdftex.def)             Requested size: 222.5038pt x 166.87871pt.
+
+LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 110.
+
+[12]
+
+LaTeX Warning: Reference `fig:type2' on page 13 undefined on input line 110.
+
+<Batch 5/t1-err 5050.png, id=140, 406.1574pt x 315.0972pt>
+File: Batch 5/t1-err 5050.png Graphic file (type png)
+<use Batch 5/t1-err 5050.png>
+Package pdftex.def Info: Batch 5/t1-err 5050.png  used on input line 114.
+(pdftex.def)             Requested size: 290.22107pt x 225.15335pt.
+
+LaTeX Warning: Reference `fig:type3' on page 13 undefined on input line 119.
+
+<Batch 7/348-440/output/1 life/lifetimes.png, id=141, 416.9979pt x 315.0972pt>
+File: Batch 7/348-440/output/1 life/lifetimes.png Graphic file (type png)
+<use Batch 7/348-440/output/1 life/lifetimes.png>
+Package pdftex.def Info: Batch 7/348-440/output/1 life/lifetimes.png  used on input line 124.
+(pdftex.def)             Requested size: 227.3381pt x 171.78467pt.
+<Batch 8/442/output/lifetimes.png, id=142, 419.166pt x 319.4334pt>
+File: Batch 8/442/output/lifetimes.png Graphic file (type png)
+<use Batch 8/442/output/lifetimes.png>
+Package pdftex.def Info: Batch 8/442/output/lifetimes.png  used on input line 131.
+(pdftex.def)             Requested size: 227.3381pt x 173.24695pt.
+
+LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 137.
+
+[13 <./Batch 3/regular IRF/tau1 220/output/t1.png> <./Batch 1+2/8020.png> <./Batch 5/t1-err 5050.png>]
+
+LaTeX Warning: Reference `fig:type4a' on page 14 undefined on input line 137.
+
+
+LaTeX Warning: Reference `fig:type4a' on page 14 undefined on input line 137.
+
+
+LaTeX Warning: Reference `tab:irfcomp' on page 14 undefined on input line 142.
+
+
+LaTeX Warning: Reference `fig:irf' on page 14 undefined on input line 142.
+
+
+LaTeX Warning: Reference `tab:irfcomp' on page 14 undefined on input line 147.
+
+
+LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 155.
+
+[14 <./Batch 7/348-440/output/1 life/lifetimes.png> <./Batch 8/442/output/lifetimes.png>])
+
+LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 184.
+
+[15]
+\openout2 = `results.aux'.
+
+ (./results.tex
+Chapter 3.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 3.
+
+<Batch 1+2/Batch1+2/output/plotfin/t1.png, id=171, 413.3844pt x 315.0972pt>
+File: Batch 1+2/Batch1+2/output/plotfin/t1.png Graphic file (type png)
+<use Batch 1+2/Batch1+2/output/plotfin/t1.png>
+Package pdftex.def Info: Batch 1+2/Batch1+2/output/plotfin/t1.png  used on input line 17.
+(pdftex.def)             Requested size: 290.22107pt x 221.22041pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `fig:180-tau1' on page 16 undefined on input line 22.
+
+
+LaTeX Warning: Reference `fig:180-tau2' on page 16 undefined on input line 24.
+
+[16
+
+
+
+
+]
+
+LaTeX Warning: Reference `fig:180-tau1zoom' on page 17 undefined on input line 26.
+
+<Batch 1+2/Batch1+2/output/plotfin/t2.png, id=180, 407.6028pt x 315.0972pt>
+File: Batch 1+2/Batch1+2/output/plotfin/t2.png Graphic file (type png)
+<use Batch 1+2/Batch1+2/output/plotfin/t2.png>
+Package pdftex.def Info: Batch 1+2/Batch1+2/output/plotfin/t2.png  used on input line 31.
+(pdftex.def)             Requested size: 217.66211pt x 168.26521pt.
+<Batch 1+2/Batch1+2/output/plotfin/t1zoom.png, id=181, 413.3844pt x 319.4334pt>
+File: Batch 1+2/Batch1+2/output/plotfin/t1zoom.png Graphic file (type png)
+<use Batch 1+2/Batch1+2/output/plotfin/t1zoom.png>
+Package pdftex.def Info: Batch 1+2/Batch1+2/output/plotfin/t1zoom.png  used on input line 38.
+(pdftex.def)             Requested size: 217.66211pt x 168.19244pt.
+
+LaTeX Warning: Reference `fig:180-2080' on page 17 undefined on input line 44.
+
+
+LaTeX Warning: Reference `fig:180-5050' on page 17 undefined on input line 44.
+
+
+LaTeX Warning: Reference `fig:180-8020' on page 17 undefined on input line 44.
+
+
+LaTeX Warning: Reference `fig:180-8020' on page 17 undefined on input line 44.
+
+
+LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 46.
+
+[17 <./Batch 1+2/Batch1+2/output/plotfin/t1.png> <./Batch 1+2/Batch1+2/output/plotfin/t2.png> <./Batch 1+2/Batch1+2/output/plotfin/t1zoom.png>]
+<Batch 1+2/Batch1+2/output/plotfin/2080.png, id=193, 413.3844pt x 319.4334pt>
+File: Batch 1+2/Batch1+2/output/plotfin/2080.png Graphic file (type png)
+<use Batch 1+2/Batch1+2/output/plotfin/2080.png>
+Package pdftex.def Info: Batch 1+2/Batch1+2/output/plotfin/2080.png  used on input line 47.
+(pdftex.def)             Requested size: 217.66211pt x 168.19244pt.
+<Batch 1+2/Batch1+2/output/plotfin/5050.png, id=194, 413.3844pt x 319.4334pt>
+File: Batch 1+2/Batch1+2/output/plotfin/5050.png Graphic file (type png)
+<use Batch 1+2/Batch1+2/output/plotfin/5050.png>
+Package pdftex.def Info: Batch 1+2/Batch1+2/output/plotfin/5050.png  used on input line 53.
+(pdftex.def)             Requested size: 217.66211pt x 168.19244pt.
+<Batch 1+2/Batch1+2/output/plotfin/8020.png, id=195, 413.3844pt x 319.4334pt>
+File: Batch 1+2/Batch1+2/output/plotfin/8020.png Graphic file (type png)
+<use Batch 1+2/Batch1+2/output/plotfin/8020.png>
+Package pdftex.def Info: Batch 1+2/Batch1+2/output/plotfin/8020.png  used on input line 58.
+(pdftex.def)             Requested size: 217.66211pt x 168.19244pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 64.
+
+[18 <./Batch 1+2/Batch1+2/output/plotfin/2080.png> <./Batch 1+2/Batch1+2/output/plotfin/5050.png> <./Batch 1+2/Batch1+2/output/plotfin/8020.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 65.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 65.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 65.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 65.
+
+
+LaTeX Warning: Reference `t1-150' on page 19 undefined on input line 69.
+
+
+LaTeX Warning: Reference `t1-220' on page 19 undefined on input line 71.
+
+
+LaTeX Warning: Reference `fig:220-t2-high' on page 19 undefined on input line 71.
+
+<Batch 3/regular IRF/tau1 220/output/plotfin/t2.png, id=206, 416.9979pt x 315.0972pt>
 File: Batch 3/regular IRF/tau1 220/output/plotfin/t2.png Graphic file (type png)
 <use Batch 3/regular IRF/tau1 220/output/plotfin/t2.png>
-Package pdftex.def Info: Batch 3/regular IRF/tau1 220/output/plotfin/t2.png  used on input line 67.
-(pdftex.def)             Requested size: 209.12683pt x 158.0242pt.
-<Batch 3/regular IRF/tau1 220/output/plotfin/2080.png, id=253, 413.3844pt x 319.4334pt>
-File: Batch 3/regular IRF/tau1 220/output/plotfin/2080.png Graphic file (type png)
-<use Batch 3/regular IRF/tau1 220/output/plotfin/2080.png>
-Package pdftex.def Info: Batch 3/regular IRF/tau1 220/output/plotfin/2080.png  used on input line 73.
-(pdftex.def)             Requested size: 209.12683pt x 161.59772pt.
-<Batch 3/regular IRF/tau1 220/output/plotfin/8020.png, id=254, 413.3844pt x 319.4334pt>
-File: Batch 3/regular IRF/tau1 220/output/plotfin/8020.png Graphic file (type png)
-<use Batch 3/regular IRF/tau1 220/output/plotfin/8020.png>
-Package pdftex.def Info: Batch 3/regular IRF/tau1 220/output/plotfin/8020.png  used on input line 79.
-(pdftex.def)             Requested size: 209.12683pt x 161.59772pt.
-<Batch 3/regular IRF/tau1 220/output/plotfin/5050.png, id=255, 413.3844pt x 319.4334pt>
-File: Batch 3/regular IRF/tau1 220/output/plotfin/5050.png Graphic file (type png)
-<use Batch 3/regular IRF/tau1 220/output/plotfin/5050.png>
-Package pdftex.def Info: Batch 3/regular IRF/tau1 220/output/plotfin/5050.png  used on input line 85.
-(pdftex.def)             Requested size: 209.12683pt x 161.59772pt.
+Package pdftex.def Info: Batch 3/regular IRF/tau1 220/output/plotfin/t2.png  used on input line 77.
+(pdftex.def)             Requested size: 261.19717pt x 197.3776pt.
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 59--89
-$[]$ $[]$
- []
+LaTeX Warning: Reference `fig:220-t2-high' on page 19 undefined on input line 84.
 
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 59--89
-[]$ $[]$
- []
+LaTeX Warning: Reference `fig:180-tau1' on page 19 undefined on input line 84.
 
-[30 <./Batch 3/regular IRF/tau1 150/output/plotfin/t1.png> <./Batch 3/regular IRF/tau1 150/output/plotfin/t2.png> <./Batch 3/regular IRF/tau1 150/output/plotfin/2080.png> <./Batch 3/regular IRF/tau1 150/output/plotfin/8020.png> <./Batch 3/regular IRF/tau1 150/output/plotfin/5050.png>]
-<Batch 3/regular IRF/t1-diff 2080.png, id=265, 409.0482pt x 315.0972pt>
-File: Batch 3/regular IRF/t1-diff 2080.png Graphic file (type png)
-<use Batch 3/regular IRF/t1-diff 2080.png>
-Package pdftex.def Info: Batch 3/regular IRF/t1-diff 2080.png  used on input line 96.
-(pdftex.def)             Requested size: 196.57973pt x 151.42763pt.
-<Batch 3/regular IRF/t1-err 2080.png, id=266, 409.0482pt x 315.0972pt>
-File: Batch 3/regular IRF/t1-err 2080.png Graphic file (type png)
-<use Batch 3/regular IRF/t1-err 2080.png>
-Package pdftex.def Info: Batch 3/regular IRF/t1-err 2080.png  used on input line 103.
-(pdftex.def)             Requested size: 196.57973pt x 151.42763pt.
-<Batch 3/regular IRF/t1-diff 5050.png, id=267, 409.0482pt x 315.0972pt>
-File: Batch 3/regular IRF/t1-diff 5050.png Graphic file (type png)
-<use Batch 3/regular IRF/t1-diff 5050.png>
-Package pdftex.def Info: Batch 3/regular IRF/t1-diff 5050.png  used on input line 109.
-(pdftex.def)             Requested size: 196.57973pt x 151.42763pt.
-<Batch 3/regular IRF/t1-err 5050.png, id=268, 409.0482pt x 315.0972pt>
-File: Batch 3/regular IRF/t1-err 5050.png Graphic file (type png)
-<use Batch 3/regular IRF/t1-err 5050.png>
-Package pdftex.def Info: Batch 3/regular IRF/t1-err 5050.png  used on input line 116.
-(pdftex.def)             Requested size: 196.57973pt x 151.42763pt.
-<Batch 3/regular IRF/t1-diff 8020.png, id=269, 403.2666pt x 315.0972pt>
-File: Batch 3/regular IRF/t1-diff 8020.png Graphic file (type png)
-<use Batch 3/regular IRF/t1-diff 8020.png>
-Package pdftex.def Info: Batch 3/regular IRF/t1-diff 8020.png  used on input line 122.
-(pdftex.def)             Requested size: 196.57973pt x 153.60565pt.
-<Batch 3/regular IRF/t1-err 8020.png, id=270, 402.5439pt x 317.988pt>
-File: Batch 3/regular IRF/t1-err 8020.png Graphic file (type png)
-<use Batch 3/regular IRF/t1-err 8020.png>
-Package pdftex.def Info: Batch 3/regular IRF/t1-err 8020.png  used on input line 129.
-(pdftex.def)             Requested size: 196.57973pt x 155.29144pt.
- [31 <./Batch 3/regular IRF/tau1 220/output/plotfin/t1.png> <./Batch 3/regular IRF/tau1 220/output/plotfin/t2.png> <./Batch 3/regular IRF/tau1 220/output/plotfin/2080.png> <./Batch 3/regular IRF/tau1 220/output/plotfin/8020.png> <./Batch 3/regular IRF/tau1 220/output/plotfin/5050.png>]
-<Batch 3/regular IRF/t2-diff 2080.png, id=279, 412.6617pt x 315.0972pt>
-File: Batch 3/regular IRF/t2-diff 2080.png Graphic file (type png)
-<use Batch 3/regular IRF/t2-diff 2080.png>
-Package pdftex.def Info: Batch 3/regular IRF/t2-diff 2080.png  used on input line 139.
-(pdftex.def)             Requested size: 209.12683pt x 159.68295pt.
-<Batch 3/regular IRF/t2-err 2080.png, id=280, 402.5439pt x 317.2653pt>
-File: Batch 3/regular IRF/t2-err 2080.png Graphic file (type png)
-<use Batch 3/regular IRF/t2-err 2080.png>
-Package pdftex.def Info: Batch 3/regular IRF/t2-err 2080.png  used on input line 145.
-(pdftex.def)             Requested size: 209.12683pt x 164.82399pt.
-<Batch 3/regular IRF/t2-diff 5050.png, id=281, 403.2666pt x 317.988pt>
+
+LaTeX Warning: Reference `fig:180-tau2' on page 19 undefined on input line 84.
+
+
+LaTeX Warning: Reference `comp-t1' on page 19 undefined on input line 86.
+
+
+LaTeX Warning: Reference `fig:comp-t1err-8020' on page 19 undefined on input line 86.
+
+
+LaTeX Warning: Reference `fig:comp-t2err-8020' on page 19 undefined on input line 86.
+
+
+LaTeX Warning: Reference `fig:comp-Ierr-8020' on page 19 undefined on input line 86.
+
+
+LaTeX Warning: Reference `LastPage' on page 19 undefined on input line 88.
+
+[19 <./Batch 3/regular IRF/tau1 220/output/plotfin/t2.png>]
+
+LaTeX Warning: Reference `fig:comp-t2-ex' on page 20 undefined on input line 88.
+
+<Batch 3/regular IRF/t2-diff 5050.png, id=214, 403.2666pt x 317.988pt>
 File: Batch 3/regular IRF/t2-diff 5050.png Graphic file (type png)
 <use Batch 3/regular IRF/t2-diff 5050.png>
-Package pdftex.def Info: Batch 3/regular IRF/t2-diff 5050.png  used on input line 151.
-(pdftex.def)             Requested size: 209.12683pt x 164.90831pt.
-<Batch 3/regular IRF/t2-err 5050.png, id=282, 402.5439pt x 315.0972pt>
+Package pdftex.def Info: Batch 3/regular IRF/t2-diff 5050.png  used on input line 96.
+(pdftex.def)             Requested size: 261.19717pt x 205.96678pt.
+
+LaTeX Warning: Reference `singlegauss' on page 20 undefined on input line 107.
+
+
+LaTeX Warning: Reference `1g' on page 20 undefined on input line 107.
+
+
+LaTeX Warning: Reference `LastPage' on page 20 undefined on input line 108.
+
+[20 <./Batch 3/regular IRF/t2-diff 5050.png>]
+
+LaTeX Warning: Reference `comp-irf' on page 21 undefined on input line 109.
+
+
+LaTeX Warning: Reference `fig:irf-reverse2080' on page 21 undefined on input line 111.
+
+
+LaTeX Warning: Reference `fig:irf-reverse8020' on page 21 undefined on input line 111.
+
+<Batch 3/single Gaussian IRF/t2-diff 2080.png, id=222, 416.2752pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/t2-diff 2080.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/t2-diff 2080.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/t2-diff 2080.png  used on input line 116.
+(pdftex.def)             Requested size: 195.89456pt x 148.2832pt.
+<Batch 3/single Gaussian IRF/t2-diff 8020.png, id=223, 407.6028pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/t2-diff 8020.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/t2-diff 8020.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/t2-diff 8020.png  used on input line 122.
+(pdftex.def)             Requested size: 195.89456pt x 151.43724pt.
+
+LaTeX Warning: Reference `fig:compirf-t1-2080' on page 21 undefined on input line 131.
+
+
+LaTeX Warning: Reference `fig:compirf-I-2080' on page 21 undefined on input line 131.
+
+
+LaTeX Warning: Reference `fig:compirf-I-5050' on page 21 undefined on input line 131.
+
+
+LaTeX Warning: Reference `LastPage' on page 21 undefined on input line 136.
+
+[21 <./Batch 3/single Gaussian IRF/t2-diff 2080.png> <./Batch 3/single Gaussian IRF/t2-diff 8020.png>]
+
+LaTeX Warning: Reference `comp-count' on page 22 undefined on input line 139.
+
+
+LaTeX Warning: Reference `fig:thegood' on page 22 undefined on input line 139.
+
+<Batch 5/t1-diff 5050.png, id=233, 410.4936pt x 315.0972pt>
+File: Batch 5/t1-diff 5050.png Graphic file (type png)
+<use Batch 5/t1-diff 5050.png>
+Package pdftex.def Info: Batch 5/t1-diff 5050.png  used on input line 143.
+(pdftex.def)             Requested size: 227.3381pt x 174.50598pt.
+<Batch 5/t1-diff 8020.png, id=234, 410.4936pt x 315.0972pt>
+File: Batch 5/t1-diff 8020.png Graphic file (type png)
+<use Batch 5/t1-diff 8020.png>
+Package pdftex.def Info: Batch 5/t1-diff 8020.png  used on input line 148.
+(pdftex.def)             Requested size: 227.3381pt x 174.50598pt.
+
+LaTeX Warning: Reference `fig:thebad' on page 22 undefined on input line 154.
+
+
+LaTeX Warning: Reference `tab:3life' on page 22 undefined on input line 159.
+
+
+LaTeX Warning: Reference `LastPage' on page 22 undefined on input line 160.
+
+[22 <./Batch 5/t1-diff 5050.png> <./Batch 5/t1-diff 8020.png>]
+
+LaTeX Warning: Reference `tab:relint' on page 23 undefined on input line 197.
+
+
+LaTeX Warning: Reference `3lifefits' on page 23 undefined on input line 197.
+
+
+LaTeX Warning: Reference `fig:1lifeex' on page 23 undefined on input line 199.
+
+<Batch 7/348-440/output/1 life/lifetime.png, id=244, 416.9979pt x 315.0972pt>
+File: Batch 7/348-440/output/1 life/lifetime.png Graphic file (type png)
+<use Batch 7/348-440/output/1 life/lifetime.png>
+Package pdftex.def Info: Batch 7/348-440/output/1 life/lifetime.png  used on input line 204.
+(pdftex.def)             Requested size: 217.66211pt x 164.47652pt.
+<Batch 7/348-440/output/2 life/lifetimes.png, id=245, 419.166pt x 318.7107pt>
+File: Batch 7/348-440/output/2 life/lifetimes.png Graphic file (type png)
+<use Batch 7/348-440/output/2 life/lifetimes.png>
+Package pdftex.def Info: Batch 7/348-440/output/2 life/lifetimes.png  used on input line 211.
+(pdftex.def)             Requested size: 217.66211pt x 165.49707pt.
+
+LaTeX Warning: Reference `fig:2lifeex' on page 23 undefined on input line 217.
+
+
+LaTeX Warning: Reference `LastPage' on page 23 undefined on input line 219.
+
+[23 <./Batch 7/348-440/output/1 life/lifetime.png> <./Batch 7/348-440/output/2 life/lifetimes.png>]
+<Batch 7/348-440/output/3 life/lifetimes.png, id=257, 419.166pt x 318.7107pt>
+File: Batch 7/348-440/output/3 life/lifetimes.png Graphic file (type png)
+<use Batch 7/348-440/output/3 life/lifetimes.png>
+Package pdftex.def Info: Batch 7/348-440/output/3 life/lifetimes.png  used on input line 224.
+(pdftex.def)             Requested size: 217.66211pt x 165.49707pt.
+<Batch 7/348-440/output/3 life/intensities.png, id=258, 416.9979pt x 315.0972pt>
+File: Batch 7/348-440/output/3 life/intensities.png Graphic file (type png)
+<use Batch 7/348-440/output/3 life/intensities.png>
+Package pdftex.def Info: Batch 7/348-440/output/3 life/intensities.png  used on input line 231.
+(pdftex.def)             Requested size: 217.66211pt x 164.47652pt.
+
+
+LaTeX Warning: Reference `fig:3lifeex' on page 24 undefined on input line 237.
+
+
+LaTeX Warning: Reference `fig:3intex' on page 24 undefined on input line 237.
+
+)
+
+LaTeX Warning: Reference `LastPage' on page 24 undefined on input line 185.
+
+[24 <./Batch 7/348-440/output/3 life/lifetimes.png> <./Batch 7/348-440/output/3 life/intensities.png>]
+\openout2 = `discussion.aux'.
+
+ (./discussion.tex
+Chapter 4.
+[25
+
+
+
+
+]
+
+LaTeX Warning: Reference `LastPage' on page 26 undefined on input line 21.
+
+[26])
+
+LaTeX Warning: Reference `LastPage' on page 27 undefined on input line 186.
+
+[27]
+\openout2 = `appendix.aux'.
+
+ (./appendix.tex
+Appendix A.
+[28
+
+
+
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 8.
+
+<Batch 3/regular IRF/tau1 150/output/plotfin/t1.png, id=288, 413.3844pt x 315.0972pt>
+File: Batch 3/regular IRF/tau1 150/output/plotfin/t1.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 150/output/plotfin/t1.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/plotfin/t1.png  used on input line 11.
+(pdftex.def)             Requested size: 227.3381pt x 173.28476pt.
+<Batch 3/regular IRF/tau1 150/output/plotfin/t2.png, id=289, 416.9979pt x 315.0972pt>
+File: Batch 3/regular IRF/tau1 150/output/plotfin/t2.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 150/output/plotfin/t2.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/plotfin/t2.png  used on input line 17.
+(pdftex.def)             Requested size: 227.3381pt x 171.78467pt.
+<Batch 3/regular IRF/tau1 150/output/plotfin/2080.png, id=290, 413.3844pt x 319.4334pt>
+File: Batch 3/regular IRF/tau1 150/output/plotfin/2080.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 150/output/plotfin/2080.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/plotfin/2080.png  used on input line 22.
+(pdftex.def)             Requested size: 227.3381pt x 175.6694pt.
+<Batch 3/regular IRF/tau1 150/output/plotfin/8020.png, id=291, 413.3844pt x 319.4334pt>
+File: Batch 3/regular IRF/tau1 150/output/plotfin/8020.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 150/output/plotfin/8020.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/plotfin/8020.png  used on input line 28.
+(pdftex.def)             Requested size: 227.3381pt x 175.6694pt.
+<Batch 3/regular IRF/tau1 150/output/plotfin/5050.png, id=292, 413.3844pt x 319.4334pt>
+File: Batch 3/regular IRF/tau1 150/output/plotfin/5050.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 150/output/plotfin/5050.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 150/output/plotfin/5050.png  used on input line 33.
+(pdftex.def)             Requested size: 227.3381pt x 175.6694pt.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 38.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 38.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 38.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 38.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 38.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 38.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 38.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 38.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 38.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 38.
+
+<Batch 3/regular IRF/tau1 220/output/plotfin/t1.png, id=293, 413.3844pt x 315.0972pt>
+File: Batch 3/regular IRF/tau1 220/output/plotfin/t1.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 220/output/plotfin/t1.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 220/output/plotfin/t1.png  used on input line 41.
+(pdftex.def)             Requested size: 227.3381pt x 173.28476pt.
+File: Batch 3/regular IRF/tau1 220/output/plotfin/t2.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 220/output/plotfin/t2.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 220/output/plotfin/t2.png  used on input line 47.
+(pdftex.def)             Requested size: 227.3381pt x 171.78467pt.
+<Batch 3/regular IRF/tau1 220/output/plotfin/2080.png, id=294, 413.3844pt x 319.4334pt>
+File: Batch 3/regular IRF/tau1 220/output/plotfin/2080.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 220/output/plotfin/2080.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 220/output/plotfin/2080.png  used on input line 52.
+(pdftex.def)             Requested size: 227.3381pt x 175.6694pt.
+<Batch 3/regular IRF/tau1 220/output/plotfin/8020.png, id=295, 413.3844pt x 319.4334pt>
+File: Batch 3/regular IRF/tau1 220/output/plotfin/8020.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 220/output/plotfin/8020.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 220/output/plotfin/8020.png  used on input line 59.
+(pdftex.def)             Requested size: 227.3381pt x 175.6694pt.
+<Batch 3/regular IRF/tau1 220/output/plotfin/5050.png, id=296, 413.3844pt x 319.4334pt>
+File: Batch 3/regular IRF/tau1 220/output/plotfin/5050.png Graphic file (type png)
+<use Batch 3/regular IRF/tau1 220/output/plotfin/5050.png>
+Package pdftex.def Info: Batch 3/regular IRF/tau1 220/output/plotfin/5050.png  used on input line 65.
+(pdftex.def)             Requested size: 227.3381pt x 175.6694pt.
+
+LaTeX Warning: Reference `LastPage' on page 29 undefined on input line 69.
+
+[29 <./Batch 3/regular IRF/tau1 150/output/plotfin/t1.png> <./Batch 3/regular IRF/tau1 150/output/plotfin/t2.png> <./Batch 3/regular IRF/tau1 150/output/plotfin/2080.png> <./Batch 3/regular IRF/tau1 150/output/plotfin/8020.png> <./Batch 3/regular IRF/tau1 150/output/plotfin/5050.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 70.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 70.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 70.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 70.
+
+
+LaTeX Warning: Reference `LastPage' on page 30 undefined on input line 75.
+
+[30 <./Batch 3/regular IRF/tau1 220/output/plotfin/t1.png> <./Batch 3/regular IRF/tau1 220/output/plotfin/2080.png> <./Batch 3/regular IRF/tau1 220/output/plotfin/8020.png> <./Batch 3/regular IRF/tau1 220/output/plotfin/5050.png>]
+<Batch 3/regular IRF/t1-diff 2080.png, id=329, 409.0482pt x 315.0972pt>
+File: Batch 3/regular IRF/t1-diff 2080.png Graphic file (type png)
+<use Batch 3/regular IRF/t1-diff 2080.png>
+Package pdftex.def Info: Batch 3/regular IRF/t1-diff 2080.png  used on input line 77.
+(pdftex.def)             Requested size: 227.3381pt x 175.1214pt.
+<Batch 3/regular IRF/t1-err 2080.png, id=330, 409.0482pt x 315.0972pt>
+File: Batch 3/regular IRF/t1-err 2080.png Graphic file (type png)
+<use Batch 3/regular IRF/t1-err 2080.png>
+Package pdftex.def Info: Batch 3/regular IRF/t1-err 2080.png  used on input line 84.
+(pdftex.def)             Requested size: 227.3381pt x 175.1214pt.
+<Batch 3/regular IRF/t1-diff 5050.png, id=331, 409.0482pt x 315.0972pt>
+File: Batch 3/regular IRF/t1-diff 5050.png Graphic file (type png)
+<use Batch 3/regular IRF/t1-diff 5050.png>
+Package pdftex.def Info: Batch 3/regular IRF/t1-diff 5050.png  used on input line 90.
+(pdftex.def)             Requested size: 227.3381pt x 175.1214pt.
+<Batch 3/regular IRF/t1-err 5050.png, id=332, 409.0482pt x 315.0972pt>
+File: Batch 3/regular IRF/t1-err 5050.png Graphic file (type png)
+<use Batch 3/regular IRF/t1-err 5050.png>
+Package pdftex.def Info: Batch 3/regular IRF/t1-err 5050.png  used on input line 96.
+(pdftex.def)             Requested size: 227.3381pt x 175.1214pt.
+<Batch 3/regular IRF/t1-diff 8020.png, id=333, 403.2666pt x 315.0972pt>
+File: Batch 3/regular IRF/t1-diff 8020.png Graphic file (type png)
+<use Batch 3/regular IRF/t1-diff 8020.png>
+Package pdftex.def Info: Batch 3/regular IRF/t1-diff 8020.png  used on input line 101.
+(pdftex.def)             Requested size: 227.3381pt x 177.63599pt.
+<Batch 3/regular IRF/t1-err 8020.png, id=334, 402.5439pt x 317.988pt>
+File: Batch 3/regular IRF/t1-err 8020.png Graphic file (type png)
+<use Batch 3/regular IRF/t1-err 8020.png>
+Package pdftex.def Info: Batch 3/regular IRF/t1-err 8020.png  used on input line 107.
+(pdftex.def)             Requested size: 227.3381pt x 179.5859pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 31 undefined on input line 115.
+
+[31 <./Batch 3/regular IRF/t1-diff 2080.png> <./Batch 3/regular IRF/t1-err 2080.png> <./Batch 3/regular IRF/t1-diff 5050.png> <./Batch 3/regular IRF/t1-err 5050.png> <./Batch 3/regular IRF/t1-diff 8020.png> <./Batch 3/regular IRF/t1-err 8020.png>]
+<Batch 3/regular IRF/t2-diff 2080.png, id=353, 412.6617pt x 315.0972pt>
+File: Batch 3/regular IRF/t2-diff 2080.png Graphic file (type png)
+<use Batch 3/regular IRF/t2-diff 2080.png>
+Package pdftex.def Info: Batch 3/regular IRF/t2-diff 2080.png  used on input line 116.
+(pdftex.def)             Requested size: 227.3381pt x 173.58766pt.
+<Batch 3/regular IRF/t2-err 2080.png, id=354, 402.5439pt x 317.2653pt>
+File: Batch 3/regular IRF/t2-err 2080.png Graphic file (type png)
+<use Batch 3/regular IRF/t2-err 2080.png>
+Package pdftex.def Info: Batch 3/regular IRF/t2-err 2080.png  used on input line 122.
+(pdftex.def)             Requested size: 227.3381pt x 179.17776pt.
+File: Batch 3/regular IRF/t2-diff 5050.png Graphic file (type png)
+<use Batch 3/regular IRF/t2-diff 5050.png>
+Package pdftex.def Info: Batch 3/regular IRF/t2-diff 5050.png  used on input line 127.
+(pdftex.def)             Requested size: 227.3381pt x 179.26567pt.
+<Batch 3/regular IRF/t2-err 5050.png, id=355, 402.5439pt x 315.0972pt>
 File: Batch 3/regular IRF/t2-err 5050.png Graphic file (type png)
 <use Batch 3/regular IRF/t2-err 5050.png>
-Package pdftex.def Info: Batch 3/regular IRF/t2-err 5050.png  used on input line 157.
-(pdftex.def)             Requested size: 209.12683pt x 163.69762pt.
-<Batch 3/regular IRF/t2-diff 8020.png, id=283, 409.0482pt x 315.0972pt>
+Package pdftex.def Info: Batch 3/regular IRF/t2-err 5050.png  used on input line 133.
+(pdftex.def)             Requested size: 227.3381pt x 177.95331pt.
+<Batch 3/regular IRF/t2-diff 8020.png, id=356, 409.0482pt x 315.0972pt>
 File: Batch 3/regular IRF/t2-diff 8020.png Graphic file (type png)
 <use Batch 3/regular IRF/t2-diff 8020.png>
-Package pdftex.def Info: Batch 3/regular IRF/t2-diff 8020.png  used on input line 163.
-(pdftex.def)             Requested size: 209.12683pt x 161.09169pt.
-<Batch 3/regular IRF/t2-err 8020.png, id=284, 409.0482pt x 315.0972pt>
+Package pdftex.def Info: Batch 3/regular IRF/t2-diff 8020.png  used on input line 138.
+(pdftex.def)             Requested size: 227.3381pt x 175.1214pt.
+<Batch 3/regular IRF/t2-err 8020.png, id=357, 409.0482pt x 315.0972pt>
 File: Batch 3/regular IRF/t2-err 8020.png Graphic file (type png)
 <use Batch 3/regular IRF/t2-err 8020.png>
-Package pdftex.def Info: Batch 3/regular IRF/t2-err 8020.png  used on input line 169.
-(pdftex.def)             Requested size: 209.12683pt x 161.09169pt.
-
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 137--173
-$[]$ $[]$
- []
+Package pdftex.def Info: Batch 3/regular IRF/t2-err 8020.png  used on input line 144.
+(pdftex.def)             Requested size: 227.3381pt x 175.1214pt.
 
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 137--173
-[]$ $[]$
- []
+LaTeX Warning: Reference `LastPage' on page 32 undefined on input line 150.
 
-
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 137--173
-[]$ $[]$ 
- []
-
-[32 <./Batch 3/regular IRF/t1-diff 2080.png> <./Batch 3/regular IRF/t1-err 2080.png> <./Batch 3/regular IRF/t1-diff 5050.png> <./Batch 3/regular IRF/t1-err 5050.png> <./Batch 3/regular IRF/t1-diff 8020.png> <./Batch 3/regular IRF/t1-err 8020.png>]
-<Batch 3/regular IRF/2080-diff i1.png, id=294, 406.1574pt x 315.0972pt>
+[32 <./Batch 3/regular IRF/t2-diff 2080.png> <./Batch 3/regular IRF/t2-err 2080.png> <./Batch 3/regular IRF/t2-err 5050.png> <./Batch 3/regular IRF/t2-diff 8020.png> <./Batch 3/regular IRF/t2-err 8020.png>]
+<Batch 3/regular IRF/2080-diff i1.png, id=373, 406.1574pt x 315.0972pt>
 File: Batch 3/regular IRF/2080-diff i1.png Graphic file (type png)
 <use Batch 3/regular IRF/2080-diff i1.png>
-Package pdftex.def Info: Batch 3/regular IRF/2080-diff i1.png  used on input line 179.
-(pdftex.def)             Requested size: 209.12683pt x 162.236pt.
-<Batch 3/regular IRF/2080-err i1.png, id=295, 406.1574pt x 315.0972pt>
+Package pdftex.def Info: Batch 3/regular IRF/2080-diff i1.png  used on input line 153.
+(pdftex.def)             Requested size: 227.3381pt x 176.36667pt.
+<Batch 3/regular IRF/2080-err i1.png, id=374, 406.1574pt x 315.0972pt>
 File: Batch 3/regular IRF/2080-err i1.png Graphic file (type png)
 <use Batch 3/regular IRF/2080-err i1.png>
-Package pdftex.def Info: Batch 3/regular IRF/2080-err i1.png  used on input line 185.
-(pdftex.def)             Requested size: 209.12683pt x 162.236pt.
-<Batch 3/regular IRF/5050-diff i1.png, id=296, 406.1574pt x 315.0972pt>
+Package pdftex.def Info: Batch 3/regular IRF/2080-err i1.png  used on input line 159.
+(pdftex.def)             Requested size: 227.3381pt x 176.36667pt.
+<Batch 3/regular IRF/5050-diff i1.png, id=375, 406.1574pt x 315.0972pt>
 File: Batch 3/regular IRF/5050-diff i1.png Graphic file (type png)
 <use Batch 3/regular IRF/5050-diff i1.png>
-Package pdftex.def Info: Batch 3/regular IRF/5050-diff i1.png  used on input line 191.
-(pdftex.def)             Requested size: 209.12683pt x 162.236pt.
-<Batch 3/regular IRF/5050-err i1.png, id=297, 416.2752pt x 318.7107pt>
+Package pdftex.def Info: Batch 3/regular IRF/5050-diff i1.png  used on input line 164.
+(pdftex.def)             Requested size: 227.3381pt x 176.36667pt.
+<Batch 3/regular IRF/5050-err i1.png, id=376, 416.2752pt x 318.7107pt>
 File: Batch 3/regular IRF/5050-err i1.png Graphic file (type png)
 <use Batch 3/regular IRF/5050-err i1.png>
-Package pdftex.def Info: Batch 3/regular IRF/5050-err i1.png  used on input line 197.
-(pdftex.def)             Requested size: 209.12683pt x 160.11359pt.
-<Batch 3/regular IRF/8020-diff i1.png, id=298, 406.1574pt x 315.0972pt>
+Package pdftex.def Info: Batch 3/regular IRF/5050-err i1.png  used on input line 170.
+(pdftex.def)             Requested size: 227.3381pt x 174.05618pt.
+<Batch 3/regular IRF/8020-diff i1.png, id=377, 406.1574pt x 315.0972pt>
 File: Batch 3/regular IRF/8020-diff i1.png Graphic file (type png)
 <use Batch 3/regular IRF/8020-diff i1.png>
-Package pdftex.def Info: Batch 3/regular IRF/8020-diff i1.png  used on input line 203.
-(pdftex.def)             Requested size: 209.12683pt x 162.236pt.
-<Batch 3/regular IRF/8020-err i1.png, id=299, 406.1574pt x 315.0972pt>
+Package pdftex.def Info: Batch 3/regular IRF/8020-diff i1.png  used on input line 175.
+(pdftex.def)             Requested size: 227.3381pt x 176.36667pt.
+<Batch 3/regular IRF/8020-err i1.png, id=378, 406.1574pt x 315.0972pt>
 File: Batch 3/regular IRF/8020-err i1.png Graphic file (type png)
 <use Batch 3/regular IRF/8020-err i1.png>
-Package pdftex.def Info: Batch 3/regular IRF/8020-err i1.png  used on input line 209.
-(pdftex.def)             Requested size: 209.12683pt x 162.236pt.
-)
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 177--29
-$[]$ $[]$
+Package pdftex.def Info: Batch 3/regular IRF/8020-err i1.png  used on input line 181.
+(pdftex.def)             Requested size: 227.3381pt x 176.36667pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 186.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 186.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 186.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 186.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 186.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 186.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 186.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 186.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 186.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 186.
+
+<Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/t1.png, id=379, 413.3844pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/t1.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/t1.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/t1.png  used on input line 189.
+(pdftex.def)             Requested size: 227.3381pt x 173.28476pt.
+<Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/t2.png, id=380, 416.9979pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/t2.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/t2.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/t2.png  used on input line 195.
+(pdftex.def)             Requested size: 227.3381pt x 171.78467pt.
+<Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/2080.png, id=381, 413.3844pt x 319.4334pt>
+File: Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/2080.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/2080.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/2080.png  used on input line 200.
+(pdftex.def)             Requested size: 227.3381pt x 175.6694pt.
+<Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/8020.png, id=382, 413.3844pt x 319.4334pt>
+File: Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/8020.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/8020.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/8020.png  used on input line 206.
+(pdftex.def)             Requested size: 227.3381pt x 175.6694pt.
+<Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/5050.png, id=383, 413.3844pt x 319.4334pt>
+File: Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/5050.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/5050.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/5050.png  used on input line 211.
+(pdftex.def)             Requested size: 227.3381pt x 175.6694pt.
+
+LaTeX Warning: Reference `LastPage' on page 33 undefined on input line 215.
+
+[33 <./Batch 3/regular IRF/2080-diff i1.png> <./Batch 3/regular IRF/2080-err i1.png> <./Batch 3/regular IRF/5050-diff i1.png> <./Batch 3/regular IRF/5050-err i1.png> <./Batch 3/regular IRF/8020-diff i1.png> <./Batch 3/regular IRF/8020-err i1.png>]
+
+LaTeX Warning: Reference `LastPage' on page 34 undefined on input line 221.
+
+[34 <./Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/t1.png> <./Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/t2.png> <./Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/2080.png> <./Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/8020.png> <./Batch 3/single Gaussian IRF/gauss210/150/output/plotfin/5050.png>]
+<Batch 3/single Gaussian IRF/t1-diff 2080.png, id=415, 407.6028pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/t1-diff 2080.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/t1-diff 2080.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/t1-diff 2080.png  used on input line 223.
+(pdftex.def)             Requested size: 227.3381pt x 175.74644pt.
+<Batch 3/single Gaussian IRF/t1-err 2080.png, id=416, 414.8298pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/t1-err 2080.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/t1-err 2080.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/t1-err 2080.png  used on input line 230.
+(pdftex.def)             Requested size: 227.3381pt x 172.67894pt.
+<Batch 3/single Gaussian IRF/t1-diff 5050.png, id=417, 410.4936pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/t1-diff 5050.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/t1-diff 5050.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/t1-diff 5050.png  used on input line 236.
+(pdftex.def)             Requested size: 227.3381pt x 174.50598pt.
+<Batch 3/single Gaussian IRF/t1-err 5050.png, id=418, 406.1574pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/t1-err 5050.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/t1-err 5050.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/t1-err 5050.png  used on input line 243.
+(pdftex.def)             Requested size: 227.3381pt x 176.36667pt.
+<Batch 3/single Gaussian IRF/t1-diff 8020.png, id=419, 416.2752pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/t1-diff 8020.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/t1-diff 8020.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/t1-diff 8020.png  used on input line 249.
+(pdftex.def)             Requested size: 227.3381pt x 172.08275pt.
+<Batch 3/single Gaussian IRF/t1-err 8020.png, id=420, 409.0482pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/t1-err 8020.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/t1-err 8020.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/t1-err 8020.png  used on input line 256.
+(pdftex.def)             Requested size: 227.3381pt x 175.1214pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 35 undefined on input line 264.
+
+[35 <./Batch 3/single Gaussian IRF/t1-diff 2080.png> <./Batch 3/single Gaussian IRF/t1-err 2080.png> <./Batch 3/single Gaussian IRF/t1-diff 5050.png> <./Batch 3/single Gaussian IRF/t1-err 5050.png> <./Batch 3/single Gaussian IRF/t1-diff 8020.png> <./Batch 3/single Gaussian IRF/t1-err 8020.png>]
+File: Batch 3/single Gaussian IRF/t2-diff 2080.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/t2-diff 2080.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/t2-diff 2080.png  used on input line 265.
+(pdftex.def)             Requested size: 227.3381pt x 172.08275pt.
+<Batch 3/single Gaussian IRF/t2-err 2080.png, id=439, 409.0482pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/t2-err 2080.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/t2-err 2080.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/t2-err 2080.png  used on input line 271.
+(pdftex.def)             Requested size: 227.3381pt x 175.1214pt.
+<Batch 3/single Gaussian IRF/t2-diff 5050.png, id=440, 410.4936pt x 316.5426pt>
+File: Batch 3/single Gaussian IRF/t2-diff 5050.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/t2-diff 5050.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/t2-diff 5050.png  used on input line 276.
+(pdftex.def)             Requested size: 227.3381pt x 175.30647pt.
+<Batch 3/single Gaussian IRF/t2-err 5050.png, id=441, 400.3758pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/t2-err 5050.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/t2-err 5050.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/t2-err 5050.png  used on input line 282.
+(pdftex.def)             Requested size: 227.3381pt x 178.91972pt.
+File: Batch 3/single Gaussian IRF/t2-diff 8020.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/t2-diff 8020.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/t2-diff 8020.png  used on input line 287.
+(pdftex.def)             Requested size: 227.3381pt x 175.74644pt.
+<Batch 3/single Gaussian IRF/t2-err 8020.png, id=442, 406.1574pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/t2-err 8020.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/t2-err 8020.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/t2-err 8020.png  used on input line 293.
+(pdftex.def)             Requested size: 227.3381pt x 176.36667pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 36 undefined on input line 299.
+
+[36 <./Batch 3/single Gaussian IRF/t2-err 2080.png> <./Batch 3/single Gaussian IRF/t2-diff 5050.png> <./Batch 3/single Gaussian IRF/t2-err 5050.png> <./Batch 3/single Gaussian IRF/t2-err 8020.png>]
+<Batch 3/single Gaussian IRF/2080-diff i1.png, id=457, 407.6028pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/2080-diff i1.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/2080-diff i1.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/2080-diff i1.png  used on input line 302.
+(pdftex.def)             Requested size: 227.3381pt x 175.74644pt.
+<Batch 3/single Gaussian IRF/2080-err i1.png, id=458, 406.1574pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/2080-err i1.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/2080-err i1.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/2080-err i1.png  used on input line 308.
+(pdftex.def)             Requested size: 227.3381pt x 176.36667pt.
+<Batch 3/single Gaussian IRF/5050-diff i1.png, id=459, 407.6028pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/5050-diff i1.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/5050-diff i1.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/5050-diff i1.png  used on input line 313.
+(pdftex.def)             Requested size: 227.3381pt x 175.74644pt.
+<Batch 3/single Gaussian IRF/5050-err i1.png, id=460, 406.1574pt x 317.2653pt>
+File: Batch 3/single Gaussian IRF/5050-err i1.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/5050-err i1.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/5050-err i1.png  used on input line 319.
+(pdftex.def)             Requested size: 227.3381pt x 177.58022pt.
+<Batch 3/single Gaussian IRF/8020-diff i1.png, id=461, 407.6028pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/8020-diff i1.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/8020-diff i1.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/8020-diff i1.png  used on input line 324.
+(pdftex.def)             Requested size: 227.3381pt x 175.74644pt.
+<Batch 3/single Gaussian IRF/8020-err i1.png, id=462, 406.1574pt x 315.0972pt>
+File: Batch 3/single Gaussian IRF/8020-err i1.png Graphic file (type png)
+<use Batch 3/single Gaussian IRF/8020-err i1.png>
+Package pdftex.def Info: Batch 3/single Gaussian IRF/8020-err i1.png  used on input line 330.
+(pdftex.def)             Requested size: 227.3381pt x 176.36667pt.
+
+Underfull \hbox (badness 2961) in paragraph at lines 336--336
+|[]\OT1/cmr/bx/n/12 Comparison two com-po-nent fit, sin-gle IRF, 3x Num-ber of counts[][]|
  []
 
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 177--29
-[]$ $[]$
- []
+LaTeX Warning: Reference `LastPage' on page 37 undefined on input line 340.
+
+[37 <./Batch 3/single Gaussian IRF/2080-diff i1.png> <./Batch 3/single Gaussian IRF/2080-err i1.png> <./Batch 3/single Gaussian IRF/5050-diff i1.png> <./Batch 3/single Gaussian IRF/5050-err i1.png> <./Batch 3/single Gaussian IRF/8020-diff i1.png> <./Batch 3/single Gaussian IRF/8020-err i1.png>]
+<Batch 5/t1-diff 2080.png, id=479, 416.2752pt x 317.2653pt>
+File: Batch 5/t1-diff 2080.png Graphic file (type png)
+<use Batch 5/t1-diff 2080.png>
+Package pdftex.def Info: Batch 5/t1-diff 2080.png  used on input line 342.
+(pdftex.def)             Requested size: 227.3381pt x 173.26682pt.
+<Batch 5/t1-err 2080.png, id=480, 414.8298pt x 315.0972pt>
+File: Batch 5/t1-err 2080.png Graphic file (type png)
+<use Batch 5/t1-err 2080.png>
+Package pdftex.def Info: Batch 5/t1-err 2080.png  used on input line 349.
+(pdftex.def)             Requested size: 227.3381pt x 172.67894pt.
+File: Batch 5/t1-diff 5050.png Graphic file (type png)
+<use Batch 5/t1-diff 5050.png>
+Package pdftex.def Info: Batch 5/t1-diff 5050.png  used on input line 355.
+(pdftex.def)             Requested size: 227.3381pt x 174.50598pt.
+File: Batch 5/t1-err 5050.png Graphic file (type png)
+<use Batch 5/t1-err 5050.png>
+Package pdftex.def Info: Batch 5/t1-err 5050.png  used on input line 362.
+(pdftex.def)             Requested size: 227.3381pt x 176.36667pt.
+File: Batch 5/t1-diff 8020.png Graphic file (type png)
+<use Batch 5/t1-diff 8020.png>
+Package pdftex.def Info: Batch 5/t1-diff 8020.png  used on input line 368.
+(pdftex.def)             Requested size: 227.3381pt x 174.50598pt.
+<Batch 5/t1-err 8020.png, id=481, 400.3758pt x 315.0972pt>
+File: Batch 5/t1-err 8020.png Graphic file (type png)
+<use Batch 5/t1-err 8020.png>
+Package pdftex.def Info: Batch 5/t1-err 8020.png  used on input line 375.
+(pdftex.def)             Requested size: 227.3381pt x 178.91972pt.
 
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 177--29
-[]$ $[]$ 
- []
+LaTeX Warning: Reference `LastPage' on page 38 undefined on input line 383.
 
-[33 <./Batch 3/regular IRF/t2-diff 2080.png> <./Batch 3/regular IRF/t2-err 2080.png> <./Batch 3/regular IRF/t2-diff 5050.png> <./Batch 3/regular IRF/t2-err 5050.png> <./Batch 3/regular IRF/t2-diff 8020.png> <./Batch 3/regular IRF/t2-err 8020.png>] [34 <./Batch 3/regular IRF/2080-diff i1.png> <./Batch 3/regular IRF/2080-err i1.png> <./Batch 3/regular IRF/5050-diff i1.png> <./Batch 3/regular IRF/5050-err i1.png> <./Batch 3/regular IRF/8020-diff i1.png> <./Batch 3/regular IRF/8020-err i1.png>] (./dissertation.aux (./introduction.aux) (./method.aux) (./results.aux) (./appendix.aux))
+[38 <./Batch 5/t1-diff 2080.png> <./Batch 5/t1-err 2080.png> <./Batch 5/t1-err 8020.png>]
+<Batch 5/t2-diff 2080.png, id=496, 410.4936pt x 315.0972pt>
+File: Batch 5/t2-diff 2080.png Graphic file (type png)
+<use Batch 5/t2-diff 2080.png>
+Package pdftex.def Info: Batch 5/t2-diff 2080.png  used on input line 384.
+(pdftex.def)             Requested size: 227.3381pt x 174.50598pt.
+<Batch 5/t2-err 2080.png, id=497, 414.8298pt x 315.0972pt>
+File: Batch 5/t2-err 2080.png Graphic file (type png)
+<use Batch 5/t2-err 2080.png>
+Package pdftex.def Info: Batch 5/t2-err 2080.png  used on input line 390.
+(pdftex.def)             Requested size: 227.3381pt x 172.67894pt.
+<Batch 5/t2-diff 5050.png, id=498, 410.4936pt x 315.0972pt>
+File: Batch 5/t2-diff 5050.png Graphic file (type png)
+<use Batch 5/t2-diff 5050.png>
+Package pdftex.def Info: Batch 5/t2-diff 5050.png  used on input line 395.
+(pdftex.def)             Requested size: 227.3381pt x 174.50598pt.
+<Batch 5/t2-err 5050.png, id=499, 400.3758pt x 315.0972pt>
+File: Batch 5/t2-err 5050.png Graphic file (type png)
+<use Batch 5/t2-err 5050.png>
+Package pdftex.def Info: Batch 5/t2-err 5050.png  used on input line 401.
+(pdftex.def)             Requested size: 227.3381pt x 178.91972pt.
+<Batch 5/t2-diff 8020.png, id=500, 401.8212pt x 315.0972pt>
+File: Batch 5/t2-diff 8020.png Graphic file (type png)
+<use Batch 5/t2-diff 8020.png>
+Package pdftex.def Info: Batch 5/t2-diff 8020.png  used on input line 406.
+(pdftex.def)             Requested size: 227.3381pt x 178.27545pt.
+<Batch 5/t2-err 8020.png, id=501, 414.8298pt x 317.988pt>
+File: Batch 5/t2-err 8020.png Graphic file (type png)
+<use Batch 5/t2-err 8020.png>
+Package pdftex.def Info: Batch 5/t2-err 8020.png  used on input line 412.
+(pdftex.def)             Requested size: 227.3381pt x 174.26315pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 39 undefined on input line 418.
+
+[39 <./Batch 5/t2-diff 2080.png> <./Batch 5/t2-err 2080.png> <./Batch 5/t2-diff 5050.png> <./Batch 5/t2-err 5050.png> <./Batch 5/t2-diff 8020.png> <./Batch 5/t2-err 8020.png>]
+<Batch 5/2080-diff i1.png, id=518, 407.6028pt x 315.0972pt>
+File: Batch 5/2080-diff i1.png Graphic file (type png)
+<use Batch 5/2080-diff i1.png>
+Package pdftex.def Info: Batch 5/2080-diff i1.png  used on input line 421.
+(pdftex.def)             Requested size: 227.3381pt x 175.74644pt.
+<Batch 5/2080-err i1.png, id=519, 406.1574pt x 315.8199pt>
+File: Batch 5/2080-err i1.png Graphic file (type png)
+<use Batch 5/2080-err i1.png>
+Package pdftex.def Info: Batch 5/2080-err i1.png  used on input line 427.
+(pdftex.def)             Requested size: 227.3381pt x 176.7712pt.
+<Batch 5/5050-diff i1.png, id=520, 407.6028pt x 315.0972pt>
+File: Batch 5/5050-diff i1.png Graphic file (type png)
+<use Batch 5/5050-diff i1.png>
+Package pdftex.def Info: Batch 5/5050-diff i1.png  used on input line 432.
+(pdftex.def)             Requested size: 227.3381pt x 175.74644pt.
+<Batch 5/5050-err i1.png, id=521, 406.1574pt x 317.2653pt>
+File: Batch 5/5050-err i1.png Graphic file (type png)
+<use Batch 5/5050-err i1.png>
+Package pdftex.def Info: Batch 5/5050-err i1.png  used on input line 438.
+(pdftex.def)             Requested size: 227.3381pt x 177.58022pt.
+<Batch 5/8020-diff i1.png, id=522, 416.2752pt x 315.0972pt>
+File: Batch 5/8020-diff i1.png Graphic file (type png)
+<use Batch 5/8020-diff i1.png>
+Package pdftex.def Info: Batch 5/8020-diff i1.png  used on input line 443.
+(pdftex.def)             Requested size: 227.3381pt x 172.08275pt.
+<Batch 5/8020-err i1.png, id=523, 406.1574pt x 315.0972pt>
+File: Batch 5/8020-err i1.png Graphic file (type png)
+<use Batch 5/8020-err i1.png>
+Package pdftex.def Info: Batch 5/8020-err i1.png  used on input line 449.
+(pdftex.def)             Requested size: 227.3381pt x 176.36667pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 455.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 455.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 455.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 455.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 457.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 457.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 457.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 457.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 457.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 457.
+
+<Batch 6/3-life/lifetimes.png, id=524, 419.166pt x 318.7107pt>
+File: Batch 6/3-life/lifetimes.png Graphic file (type png)
+<use Batch 6/3-life/lifetimes.png>
+Package pdftex.def Info: Batch 6/3-life/lifetimes.png  used on input line 461.
+(pdftex.def)             Requested size: 227.3381pt x 172.85498pt.
+<Batch 6/3-life/intensities.png, id=525, 420.6114pt x 315.0972pt>
+File: Batch 6/3-life/intensities.png Graphic file (type png)
+<use Batch 6/3-life/intensities.png>
+Package pdftex.def Info: Batch 6/3-life/intensities.png  used on input line 468.
+(pdftex.def)             Requested size: 227.3381pt x 170.30861pt.
+<Batch 6/2-life/lifetimes.png, id=526, 419.166pt x 318.7107pt>
+File: Batch 6/2-life/lifetimes.png Graphic file (type png)
+<use Batch 6/2-life/lifetimes.png>
+Package pdftex.def Info: Batch 6/2-life/lifetimes.png  used on input line 474.
+(pdftex.def)             Requested size: 227.3381pt x 172.85498pt.
+<Batch 6/2-life/intensities.png, id=527, 416.9979pt x 315.0972pt>
+File: Batch 6/2-life/intensities.png Graphic file (type png)
+<use Batch 6/2-life/intensities.png>
+Package pdftex.def Info: Batch 6/2-life/intensities.png  used on input line 481.
+(pdftex.def)             Requested size: 227.3381pt x 171.78467pt.
+<Batch 6/1-life/lifetime.png, id=528, 416.9979pt x 315.0972pt>
+File: Batch 6/1-life/lifetime.png Graphic file (type png)
+<use Batch 6/1-life/lifetime.png>
+Package pdftex.def Info: Batch 6/1-life/lifetime.png  used on input line 487.
+(pdftex.def)             Requested size: 227.3381pt x 171.78467pt.
+
+LaTeX Warning: Reference `LastPage' on page 40 undefined on input line 491.
+
+[40 <./Batch 5/2080-diff i1.png> <./Batch 5/2080-err i1.png> <./Batch 5/5050-diff i1.png> <./Batch 5/5050-err i1.png> <./Batch 5/8020-diff i1.png> <./Batch 5/8020-err i1.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 494.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 494.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 494.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 494.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 494.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 494.
+
+<Batch 7/355-444/output/3 life/lifetimes.png, id=545, 419.166pt x 318.7107pt>
+File: Batch 7/355-444/output/3 life/lifetimes.png Graphic file (type png)
+<use Batch 7/355-444/output/3 life/lifetimes.png>
+Package pdftex.def Info: Batch 7/355-444/output/3 life/lifetimes.png  used on input line 499.
+(pdftex.def)             Requested size: 227.3381pt x 172.85498pt.
+<Batch 7/355-444/output/3 life/intensities.png, id=546, 420.6114pt x 315.0972pt>
+File: Batch 7/355-444/output/3 life/intensities.png Graphic file (type png)
+<use Batch 7/355-444/output/3 life/intensities.png>
+Package pdftex.def Info: Batch 7/355-444/output/3 life/intensities.png  used on input line 506.
+(pdftex.def)             Requested size: 227.3381pt x 170.30861pt.
+<Batch 7/355-444/output/2 life/lifetimes.png, id=547, 419.166pt x 318.7107pt>
+File: Batch 7/355-444/output/2 life/lifetimes.png Graphic file (type png)
+<use Batch 7/355-444/output/2 life/lifetimes.png>
+Package pdftex.def Info: Batch 7/355-444/output/2 life/lifetimes.png  used on input line 512.
+(pdftex.def)             Requested size: 227.3381pt x 172.85498pt.
+<Batch 7/355-444/output/2 life/intensities.png, id=548, 416.9979pt x 315.0972pt>
+File: Batch 7/355-444/output/2 life/intensities.png Graphic file (type png)
+<use Batch 7/355-444/output/2 life/intensities.png>
+Package pdftex.def Info: Batch 7/355-444/output/2 life/intensities.png  used on input line 519.
+(pdftex.def)             Requested size: 227.3381pt x 171.78467pt.
+<Batch 7/355-444/output/1 life/lifetime.png, id=549, 416.9979pt x 315.0972pt>
+File: Batch 7/355-444/output/1 life/lifetime.png Graphic file (type png)
+<use Batch 7/355-444/output/1 life/lifetime.png>
+Package pdftex.def Info: Batch 7/355-444/output/1 life/lifetime.png  used on input line 525.
+(pdftex.def)             Requested size: 227.3381pt x 171.78467pt.
+
+LaTeX Warning: Reference `LastPage' on page 41 undefined on input line 529.
+
+[41 <./Batch 6/3-life/lifetimes.png> <./Batch 6/3-life/intensities.png> <./Batch 6/2-life/lifetimes.png> <./Batch 6/2-life/intensities.png> <./Batch 6/1-life/lifetime.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 531.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 531.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 531.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 531.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 531.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 531.
+
+File: Batch 7/348-440/output/3 life/lifetimes.png Graphic file (type png)
+<use Batch 7/348-440/output/3 life/lifetimes.png>
+Package pdftex.def Info: Batch 7/348-440/output/3 life/lifetimes.png  used on input line 536.
+(pdftex.def)             Requested size: 227.3381pt x 172.85498pt.
+File: Batch 7/348-440/output/3 life/intensities.png Graphic file (type png)
+<use Batch 7/348-440/output/3 life/intensities.png>
+Package pdftex.def Info: Batch 7/348-440/output/3 life/intensities.png  used on input line 543.
+(pdftex.def)             Requested size: 227.3381pt x 171.78467pt.
+File: Batch 7/348-440/output/2 life/lifetimes.png Graphic file (type png)
+<use Batch 7/348-440/output/2 life/lifetimes.png>
+Package pdftex.def Info: Batch 7/348-440/output/2 life/lifetimes.png  used on input line 549.
+(pdftex.def)             Requested size: 227.3381pt x 172.85498pt.
+<Batch 7/348-440/output/2 life/intensities.png, id=568, 416.9979pt x 315.0972pt>
+File: Batch 7/348-440/output/2 life/intensities.png Graphic file (type png)
+<use Batch 7/348-440/output/2 life/intensities.png>
+Package pdftex.def Info: Batch 7/348-440/output/2 life/intensities.png  used on input line 556.
+(pdftex.def)             Requested size: 227.3381pt x 171.78467pt.
+File: Batch 7/348-440/output/1 life/lifetime.png Graphic file (type png)
+<use Batch 7/348-440/output/1 life/lifetime.png>
+Package pdftex.def Info: Batch 7/348-440/output/1 life/lifetime.png  used on input line 562.
+(pdftex.def)             Requested size: 227.3381pt x 171.78467pt.
+
+LaTeX Warning: Reference `LastPage' on page 42 undefined on input line 567.
+
+[42 <./Batch 7/355-444/output/3 life/lifetimes.png> <./Batch 7/355-444/output/3 life/intensities.png> <./Batch 7/355-444/output/2 life/lifetimes.png> <./Batch 7/355-444/output/2 life/intensities.png> <./Batch 7/355-444/output/1 life/lifetime.png>]
+
+LaTeX Warning: Reference `LastPage' on page 43 undefined on input line 567.
+
+[43 <./Batch 7/348-440/output/2 life/intensities.png>]
+Appendix B.
+) [44
+
+]
+
+Package natbib Warning: There were undefined citations.
+
+
+enddocument/afterlastpage: lastpage setting LastPage.
+(./dissertation.aux (./introduction.aux) (./method.aux) (./results.aux) (./discussion.aux) (./appendix.aux))
  ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-03-14>
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
  ***********
 
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `dissertation.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `dissertation.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  1E0BB80E589F182231A8F374BB118810;7623.
+
+Package lastpage Warning: Rerun to get the references right on input line 191.
+
  ) 
 Here is how much of TeX's memory you used:
- 18124 strings out of 474103
- 393487 string characters out of 5747481
- 1941496 words of memory out of 5000000
- 40180 multiletter control sequences out of 15000+600000
- 572140 words of font info for 84 fonts, out of 8000000 for 9000
+ 30401 strings out of 474266
+ 593952 string characters out of 5751449
+ 1938558 words of memory out of 5000000
+ 51832 multiletter control sequences out of 15000+600000
+ 575772 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,11n,107p,1222b,586s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on dissertation.pdf (35 pages, 1885799 bytes).
+ 99i,12n,101p,1238b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/esint-type1/esint10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on dissertation.pdf (46 pages, 1918817 bytes).
 PDF statistics:
- 415 PDF objects out of 1000 (max. 8388607)
- 152 compressed objects within 2 object streams
- 0 named destinations out of 1000 (max. 500000)
- 458 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 739 PDF objects out of 1000 (max. 8388607)
+ 450 compressed objects within 5 object streams
+ 225 named destinations out of 1000 (max. 500000)
+ 503 words of extra memory for PDF output out of 10000 (max. 10000000)
 

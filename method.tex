@@ -14,7 +14,7 @@ Included with PALSfit is the PALSsim program, which generates lifetime spectra b
 
 \subsection{PALSsim}
 \begin{figure}
-    \centering
+     
     \includegraphics[width=0.8\linewidth]{PALSsim.PNG}
     \caption{PALSsim window}
     \label{fig:Psim}
@@ -45,7 +45,7 @@ PALSsim generates five files every time a new spectrum is simulated. The file wi
     \includegraphics[width=\textwidth]{Batch 3/regular IRF/irf.png}
 \end{minipage}
 \begin{minipage}{0.35\textwidth}
-    \centering
+     
     \captionof{table}{IRF values}
     \label{tab:irfcomp}
     \begin{tabular}{|c|c|c|}
@@ -70,7 +70,7 @@ Opening a .pfc file with PALSfit should automatically load the spectrum and all 
 \vfill
 
 \begin{figure}[h]
-    \centering
+     
     \includegraphics[width=0.6\linewidth]{SpecSetup.PNG}
     \caption{Spectrum setup window}
     \label{fig:SpecSet}
@@ -94,14 +94,14 @@ All plots were produced using Python library Matplotlib. These can be grouped in
 An example of the first type, used for two-lifetime spectra, can be seen in Figure \ref{fig:type1}. On the x-axis is always the simulated value of $\tau_2$. On the y-axis is either $\tau_1$, with the (fixed) simulated value of $\tau_1$ indicated with a grey dashed line, or the difference between the fitted and simulated values of $\tau_2$, with the grey line at $y=0$. Each datapoint represents a different spectrum. For each simulated $\tau_2$, there are three datapoints, indicating the relative intensities of the two lifetime components, marked in the legend. Error bars are given by the standard deviation calculated by PALSfit.
 
 \begin{minipage}{0.46\textwidth}
-    \centering
+     
     \includegraphics[width=\textwidth]{Batch 3/regular IRF/tau1 220/output/t1.png}
     \captionof{figure}{$\tau_1$ = 220 ps (fixed), $\tau_2$ = 260-320 ps}
     \label{fig:type1}
 \end{minipage}
 \hfill
 \begin{minipage}{0.46\textwidth}
-    \centering
+     
     \includegraphics[width=\textwidth]{Batch 1+2/8020.png}
     \captionof{figure}{$I_1:I_2 = 80\%:20\%$, $\tau_2$ = 260-320 ps}
     \label{fig:type2}
@@ -110,7 +110,7 @@ An example of the first type, used for two-lifetime spectra, can be seen in Figu
 Closely related is the second type, shown in Figure \ref{fig:type2} and also used for two-lifetime fits. The simulated $\tau_2$ is still on the x-axis, but lifetime intensity is on the y-axis, instead. The grey lines trace the simulated values for $I_1$ and $I_2$ and each spectrum is represented by two vertically stacked points, representing the fitted values of $I_1$ and $I_2$, as indicated in the legend.
 
 \begin{figure}[h]
-    \centering
+     
     \includegraphics[width=0.6\linewidth]{Batch 5/t1-err 5050.png}
     \caption{Std. dev. $\tau_1$, $I_1:I_2 = 50\%:50\%$}
     \label{fig:type3}
@@ -118,8 +118,45 @@ Closely related is the second type, shown in Figure \ref{fig:type2} and also use
 
 In the third type a single fit result is being tracked on the y-axis, across the same intensity ratio, and with the x-axis representing (again) simulated $\tau_2$. Figure \ref{fig:type3} is an example where the variable being tracked is the standard deviation of $\tau_1$, the intensity ratio is 50\%-50\%, and each colored line represents a different number of counts in the spectrum, indicated in the legend. Like the first type, each datapoint corresponds to an individual spectrum. Each spectrum is made up of two lifetime components, as in the previous types.
 
+ 
+\begin{minipage}{.47\linewidth}
+     
+    \includegraphics[width=\linewidth]{Batch 7/348-440/output/1 life/lifetimes.png}
+    \captionof{figure}{One lifetime fit, $\tau_1=348$ps, $\tau_2=440$ps}
+    \label{fig:type4a}
+\end{minipage}
+\hfill
+\begin{minipage}{.47\linewidth}
+     
+    \includegraphics[width=\linewidth]{Batch 8/442/output/lifetimes.png}
+    \captionof{figure}{Three lifetime fit, Standard trapping model, $\tau_b=339$ps, $\tau_d=442$ps}
+    \label{fig:type4b}
+\end{minipage}
+ 
 
+For tracking multiple lifetimes across a range of intensities, the fourth type will be used. This has intensity on the x-axis, and on the y-axis is lifetime. Grey dashed lines indicate important fixed values. Short grey lines are used to indicate a value being compared against. In Figure \ref{fig:type4a}, for example, the dashed line indicate two lifetimes and the short grey lines represent the intensity-weighted average lifetime. In Figure \ref{fig:type4a}, the short grey lines indicate the reduced bulk lifetime.
+
+
+
+\subsection{Generating a single Gaussian resolution function\label{singlegauss}}
+As one of the trials requires varying the width of the resolution function, a script was developed to approximate the three Gaussian resolution function used throughout the paper (see Table \ref{tab:irfcomp}) with a single Gaussian resolution function. This same script was also used to produce Figure \ref{fig:irf}. Outlined is the procedure used.
+The equation for a Gaussian function with parameters $a$, $b$ and $c$ (corresponding to the height of the peak, the position of the peak and the width of the graph) is given by the equation:
+\begin{equation}
+    g(x) = a\exp{\left[-\frac{-(x-b)^2}{2c^2}\right]}
+\end{equation}
+While $a$ and $b$ map easily to the intensity and shift columns in Table \ref{tab:irfcomp},  $c$ is expressed as a standard deviation, and not the full-half-width-maximum given in the table. To convert from one to the other, the following expression was used:
+\begin{equation}
+    \mathrm{FWHM} = 2\sqrt{2\ln(2)} \approx 2.355c
+\end{equation}
+giving the resulting resolution function
+\begin{equation}
+    g_s(x) = \sum_{i=1}^{3}{a_i \exp{\left(-\frac{(x-b)^2}{2c^2}\right)}}
+    \label{eq:composite-res}
+\end{equation}
+As this is a single Gaussian resolution function, intensity is simply 100\%. FWHM and shift can be determined analytically, by solving eq. {eq:composite-res}, but as a plot of $g_s(x)$ would be generated for use in this document, the choice was made to just extract these variables numerically using Python.
+To find the shift, the largest $y$-value was picked and its corresponding $x$-value was found. To find the FWHM the difference was calculated between the two values of $x$ for which $g_s(x)$ is closest to half of the IRF.
+The resulting resolution function has a FWHM of $\sim$210 ps and a shift of $\sim$0 ps.
 
 \subsection{Batch simulation and fitting}
 A command-line version of PALSfit called PATFIT is available for use, found on the PALSfit website, as an auxiliary program. By using a Python library for interfacing with command-line programs, a script was developed that uses PATFIT to fit multiple spectra. This script then takes the .csv files produced by these fits and groups them into a single file. A separate script was also developed that allows for multiple .sim files to be generated, which can then be simulated using PALSsim.
-Using these two scripts still requires the user to simulate each .sim file individually, then link the spectrum file and adjust the fitting ranges on PALSfit. This can be tedious, however, and a single script to automate the entire process could be both useful and possible to code, though beyond the scope of this project.
+Using these two scripts still requires the user to simulate each .sim file individually, then link the spectrum file and adjust the fitting ranges on PALSfit. This can be tedious, however, and a single script to automate the entire process could be both useful and possible to code, though deemed beyond the scope of this project.

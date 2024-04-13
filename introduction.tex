@@ -1,10 +1,10 @@
-\chapter{Intro}
+\chapter{Introduction}
 
 \section{Positron Annihilation Lifetime Spectroscopy}
 
 Positron annihilation as a means of investigating lattice imperfections traces its roots back to the late 1960s, when the link between positron lifetimes and lattice vacancies was first proposed. \cite{Mackenzie67} As the lifetime of a positron is a function of the electron density at the annihilation site, and lattice defects (e.g. open vacancies) represent a local decrease in electron density, longer lifetimes are observed for positrons trapped in these defects. \cite{Krause} The presence of multiple positron lifetimes within a sample material, thus, indicates the presence of lattice defects within that material.
 
-Positron Annihilation Lifetime Spectroscopy (PALS) is the study of these lifetimes, with the aim of determining the number and types of defects present in a sample material. While other techniques to study lattice defects exist, the main advantage of PALS is the high sensitivity of the technique to open-volume defects.\footnote{Thorough comparisons of defect sensitive techniques, as well as their respective advantages and disadvantages, are available in literature, but detailed analysis of these is beyond the scope of this project.} This property, along with the non-destructive nature of the technique, has led to its application in various fields of study.\cite{PharmApp} \cite{Nuc} 
+Positron Annihilation Lifetime Spectroscopy (PALS) is the study of these lifetimes, with the aim of determining the number and types of defects present in a sample material. While other techniques to study lattice defects exist, the main advantage of PALS is the high sensitivity of the technique to open-volume defects.\footnote{Thorough comparisons of defect sensitive techniques, as well as their respective advantages and disadvantages, are available in literature, but detailed analysis of these is beyond the scope of this project.} This property, along with the non-destructive nature of the technique, has led to its application in the material sciences.\cite{Nuc} 
 
 \subsection{The Positron Lifetime}
 
@@ -23,7 +23,7 @@ where $\mu$ is termed the positron trapping coefficient, and is constant for a g
 
 Annihilation can occur in the delocalized state or the localized trapped state, producing two 511 keV $\gamma$-photons. In both cases, lifetimes are usually on the order of hundreds of picoseconds.
 
-\subsection{Positronium}
+\subsection{Positronium\label{psform}}
 
 Positrons can also enter a third state, however, where, instead of delocalizing into the bulk or being trapped in a defect, the positron enters a bound state with an electron, forming an exotic atom known as positronium (Ps). Annihilation lifetimes for positronium depend on the spin alignment between the two particles and are around 140ps for the less common, parallel spin, ortho-Ps, or 1-5ns for the more common, antiparallel spin, para-Ps.
 
@@ -106,13 +106,15 @@ By taking the absolute value of the time derivative of the decay spectrum, in si
     \label{eq:stmlifespec}
 \end{equation}
 
-\subsection{Observations}
+\subsection{Observations and Additions}
 
 Looking closely at eq. \ref{eq:stmlifespec}, we can see that there are two lifetime components in the spectrum. From eq. \ref{eq:tau1tau2} we can observe that the trapping rate $\kappa_d$ affects the first lifetime component and the relative intensity of the two components, but not the second lifetime component, which arises from positron annihilation within the defects. 
 
 This means that while $\tau_2$, also called the defect-related lifetime $\tau_d = 1/\lambda_d$, is simply the positron lifetime within the defect, $\tau_1$ is not the positron lifetime within the defect-free bulk $\tau_b = 1/\lambda_b$. As $\tau_1 \leq \tau_b$, $\tau_1$ is also called the "reduced bulk" lifetime and as we increase the defect concentration (and thus increase the trapping rate $\kappa_d$) $\tau_{1}$ and its associated intensity $I_{1} \to 0$.
 
 This limiting case, known as saturation trapping, happens when the defect concentration is high enough that the average spacing between defects is much smaller than the positron diffusion length. As a result, virtually all positrons are trapped, and the reduced bulk component disappears entirely from the spectrum.
+
+An additional variable that can be useful to know is the average lifetime $\tau_{av}$. This is calculated by taking the average of the lifetime components, weighted by intensity, or by finding the centre of mass of the spectrum.
 
 \subsection{Multiple defects}
 
@@ -132,5 +134,4 @@ Decomposition of the lifetime spectrum is an example of an "inverse problem", wh
 
 Lifetime decomposition is commonly done by using some sort of least-squares method to fit a model function to an experimental spectrum. One disadvantage of this approach is that the number of lifetime components in the model function must be estimated before performing the fit. Working around this limitation often means, then, starting with a single component fit and increasing the number of components until the variance of the fit stops decreasing.
 
-The aim of this project is to investigate the fitting process at its limits, observing where the process fails and how it fails.
-
+The aim of this project is to simulate and fit PALS spectra, comparing the data used to generate the spectra to the data returned from the fitting process, using a least-squares method. The hope is to use the knowledge gained from this process to establish practical guidelines that may aid in analyzing experimental spectra.

@@ -9,6 +9,9 @@ P = "#fb3efd"
 
 width = 3
 
+plt.rcParams['text.usetex'] = True
+plt.rcParams['font.size'] = 12
+
 data = {}
 
 for irf in [100,150,180,210]:
@@ -124,49 +127,45 @@ diff_i2_8020 = -np.absolute(tau_8020["Int-2"]-tau_8020["Sim Int-2"])
 x = tau_2080["Sim Life-2"]
 
 plots = [
-	("t1-diff", "2080"),
-	("t1-diff", "5050"),
-	("t1-diff", "8020"),
+	("t1-diff", "2080", "$\\tau_1$ (fit) - $\\tau_1$ (sim) [ps]"),
+	("t1-diff", "5050", "$\\tau_1$ (fit) - $\\tau_1$ (sim) [ps]"),
+	("t1-diff", "8020", "$\\tau_1$ (fit) - $\\tau_1$ (sim) [ps]"),
 	
-	("t1-err",  "2080"),
-	("t1-err",  "5050"),
-	("t1-err",  "8020"),
+	("t1-err",  "2080", "$\\tau_1$ std. dev."),
+	("t1-err",  "5050", "$\\tau_1$ std. dev."),
+	("t1-err",  "8020", "$\\tau_1$ std. dev."),
 	
-	("t2-diff", "2080"),
-	("t2-diff", "5050"),
-	("t2-diff", "8020"),
+	("t2-diff", "2080", "$\\tau_2$ (fit) - $\\tau_2$ (sim) [ps]"),
+	("t2-diff", "5050", "$\\tau_2$ (fit) - $\\tau_2$ (sim) [ps]"),
+	("t2-diff", "8020", "$\\tau_2$ (fit) - $\\tau_2$ (sim) [ps]"),
 	
-	("t2-err",  "2080"),
-	("t2-err",  "5050"),
-	("t2-err",  "8020"),
+	("t2-err",  "2080", "$\\tau_1$ std. dev."),
+	("t2-err",  "5050", "$\\tau_1$ std. dev."),
+	("t2-err",  "8020", "$\\tau_1$ std. dev."),
 	
-	("2080-diff",  "i1"),
-	("2080-diff",  "i2"),
+	("2080-diff",  "i1", "$I$ (fit) - $I$ (sim)"),
 	
-	("2080-err",   "i1"),
-	("2080-err",   "i2"),
+	("2080-err",   "i1", "Intensity std. dev."),
 	
-	("5050-diff",  "i1"),
-	("5050-diff",  "i2"),
+	("5050-diff",  "i1", "$I$ (fit) - $I$ (sim)"),
 	
-	("5050-err",   "i1"),
-	("5050-err",   "i2"),
+	("5050-err",   "i1", "Intensity std. dev."),
 	
-	("8020-diff",  "i1"),
-	("8020-diff",  "i2"),
+	("8020-diff",  "i1", "$I$ (fit) - $I$ (sim)"),
 	
-	("8020-err",   "i1"),
-	("8020-err",   "i2"),
+	("8020-err",   "i1", "Intensity std. dev."),
 	]
 
 for dataset in plots:
 	plt.plot(x, data["100"][dataset[0]][dataset[1]], color=O, label="100ps", marker="s", linestyle="dotted")
-	plt.plot(x, data["150"][dataset[0]][dataset[1]], color=G, label="150ps", marker="s", linestyle="dotted")
-	plt.plot(x, data["180"][dataset[0]][dataset[1]], color=P, label="180ps", marker="s", linestyle="dotted")
-	plt.plot(x, data["210"][dataset[0]][dataset[1]], color=B, label="210ps", marker="s", linestyle="dotted")
+	plt.plot(x, data["150"][dataset[0]][dataset[1]], color=G, label="150ps", marker="D", linestyle="dotted")
+	plt.plot(x, data["180"][dataset[0]][dataset[1]], color=P, label="180ps", marker="8", linestyle="dotted")
+	plt.plot(x, data["210"][dataset[0]][dataset[1]], color=B, label="210ps", marker="^", linestyle="dotted")
 	
+	plt.xlabel("$\\tau_2$ (sim) [ps]")
 	plt.xticks(x,x)
-	plt.legend()
+	plt.ylabel(dataset[2])
+	plt.legend(title="$\\tau_1$ (sim) [ps]")
 	plt.savefig(dataset[0]+" "+dataset[1]+".png", bbox_inches="tight")
 	plt.clf()
 

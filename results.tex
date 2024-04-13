@@ -13,7 +13,7 @@ Expectations were that:
 \end{enumerate}
 
 \begin{figure} [h]
-    \centering
+     
     \includegraphics[width=0.6\linewidth]{Batch 1+2/Batch1+2/output/plotfin/t1.png}
     \caption{Fitted $\tau_1$}
     \label{fig:180-tau1}
@@ -21,47 +21,41 @@ Expectations were that:
 
 In Figure \ref{fig:180-tau1} is the fit for the first lifetime component $\tau_1$. As would be expected, the accuracy of the fit increases as both the separation between lifetimes and the intensity of $I_1$ increases. The size of the error bars indicates the precision of the fit, and seems to follow the same expected trend.
 
+A similar picture emerges when looking at $\tau_2$, as can be seen in Figure \ref{fig:180-tau2}. Here, as the simulated value of $\tau_2$ that is being compared to the fitted $\tau_2$ is constantly changing, y-axis plots the difference between the two values. Nevertheless, we see that both accuracy and precision increase with lifetime separation and $I_2$ this time, which makes sense as the second lifetime is the observed variable.
+
+In both cases, the fitted values of the component tend to be higher than their simulated counterparts. Outliers emerge when looking at the 80-20 data in the 220-240ps range, for both $\tau_1$ and $\tau_2$. This is harder to spot in the former, though, unless zoomed in (see Figure \ref{fig:180-tau1zoom}).
+
 \vspace{0.5cm}
 \begin{minipage}{.45\linewidth}
-    \centering
+     
     \includegraphics[width=\linewidth]{Batch 1+2/Batch1+2/output/plotfin/t2.png}
     \captionof{figure}{$\tau_2$ (Fitted$-$Simulated)}
     \label{fig:180-tau2}
 \end{minipage}
 \hfill
 \begin{minipage}{.45\linewidth}
-    \centering
+     
     \includegraphics[width=\linewidth]{Batch 1+2/Batch1+2/output/plotfin/t1zoom.png}
     \captionof{figure}{Fitted $\tau_1$, $\tau_2 = [220-250]$}
     \label{fig:180-tau1zoom}
 \end{minipage}
 \vspace{0.5cm}
 
-A similar picture emerges when looking at $\tau_2$, as can be seen in Figure \ref{fig:180-tau2}. Here, as the simulated value of $\tau_2$ that is being compared to the fitted $\tau_2$ is constantly changing, y-axis plots the difference between the two values. Nevertheless, we see that both accuracy and precision increase with lifetime separation and $I_2$ this time, which makes sense as the second lifetime is the observed variable.
+Plotting intensities (Figures \ref{fig:180-2080}, \ref{fig:180-5050} and \ref{fig:180-8020}), the same expected trends are observed. The error bars seem to get smaller, though, as the intensity of the first component $I_1$ increases. As a consequence, the error bars of the first three datapoints in Figure \ref{fig:180-8020} end up falling short of their simulated values.
 
-In both cases, the fitted values of the component tend to be higher than their simulated counterparts. Outliers emerge when looking at the 80-20 data in the 220-240ps range, for both $\tau_1$ and $\tau_2$. This is harder to spot in the former, though, unless zoomed in (see Figure \ref{fig:180-tau1zoom}).
-
-Plotting intensities (Figures \ref{fig:180-2080},\ref{fig:180-5050} and \ref{fig:180-8020}), the same expected trends are observed. The error bars seem to get smaller, though, as the intensity of the first component $I_1$ increases. As a consequence, the error bars of the first three datapoints in Figue \ref{fig:180-8020} end up falling short of their simulated values.
-
-\vfill
 \begin{minipage}{.45\linewidth}
-    \centering
     \includegraphics[width=\linewidth]{Batch 1+2/Batch1+2/output/plotfin/2080.png}
     \captionof{figure}{$I_1 = 20\%, I_2 = 80\%$}
     \label{fig:180-2080}
 \end{minipage}
 \hfill
 \begin{minipage}{.45\linewidth}
-    \centering
     \includegraphics[width=\linewidth]{Batch 1+2/Batch1+2/output/plotfin/5050.png}
     \captionof{figure}{$I_1 = 50\%, I_2 = 50\%$}
     \label{fig:180-5050}
 \end{minipage}
-\vfill
-
 \begin{figure}[h]
-    \centering
-    \includegraphics[width=0.5\linewidth]{Batch 1+2/Batch1+2/output/plotfin/8020.png}
+    \includegraphics[width=0.45\linewidth]{Batch 1+2/Batch1+2/output/plotfin/8020.png}
     \caption{$I_1 = 80\%, I_2 = 20\%$}
     \label{fig:180-8020}
 \end{figure}
@@ -72,616 +66,174 @@ Plotting intensities (Figures \ref{fig:180-2080},\ref{fig:180-5050} and \ref{fig
 
 This trial builds on the previous, investigating the effect of varying $\tau_1$. Adding to the fits generated in the previous trial, two more sets of spectra were generated. 
 
-In the first of these, every lifetime was shortened by 30ps. This meant that the first lifetime $\tau_1$ was set to 150ps and $\tau_1$ ranged from 190-250ps, while keeping the relative spacing consistent. The spectra were fitted and the same plots generated in the previous trial were also generated for this set of spectra (the full set of plots are available in Appendix \ref{t1-150}). 
+In the first of these, every lifetime was shortened by 30ps. This meant that the first lifetime $\tau_1$ was set to 150ps and $\tau_2$ ranged from 190-250ps, while keeping the relative spacing consistent. The spectra were fitted, and the same plots generated in the previous trial were also generated for this set of spectra. The full set of plots are available in Appendix \ref{t1-150}.
 
-A similar procedure was performed for $\tau_1$=150 and $\tau_1$=220. To keep the relative time interval the same in between batches, the corresponding spacing between $\tau_1$ and the $\tau_2$ range was kept consistent. For $\tau_1$ = 150, this meant a $\tau_2$ range of 190-250ps, and for $\tau_1$ = 220, this meant a corresponding $\tau_2$ range of 260-320ps.
+The second set of spectra lengthened every lifetime by 40ps, so $\tau_1$ became 220ps and $\tau_2$ spanned 260-340ps. The same procedure was followed and the full set of plots are available in \ref{t1-220}. The $I_1$-$I_2$=20\%-80\%, $\tau_2=260ps$ spectrum is of interest, as the fit gives a highly inaccurate result with a very low standard deviation. This can be seen particularly well in Figure \ref{fig:220-t2-high}, and is notable in that, so far, a decrease in accuracy has always corresponded to a decrease in precision.
 
-This was first done for $\tau_1$ = 150. As can be seen in Figure \ref{fig:150}, the results for this batch are all within error, with both accuracy and precision getting better as the lifetime separation increases, in line with what would be expected.
+\vspace{0.5cm}
 
-The other batch, meanwhile, where $\tau_1$ was set to 220ps, was not as successful. The results can be seen in Figure \ref{fig:220}, but in general, PALSFIT struggled with fitting the lowest values for $\tau_2$ and the error bars are noticably larger. The program even gives nonsensical results when $\tau_1$ = 260ps and the relative $\tau_1$-$\tau_2$ intensity is set to 80\%-20\%, as can be seen in Figures \ref{fig:220-tau1}, \ref{fig:220-tau2} and \ref{fig:220-8020}.
-
-In order to compare all three datasets, the absolute difference between the fitted and simulated values of each relevant variable, $\tau_1$, $\tau_2$ and intensity was plotted. Additionally, plots for their respective standard deviations were generated. The resulting plots are represented in Figures \ref{fig:t1-comp}-\ref{fig:int-comp}. Two general observations are apparent from analysis of these figures: 
-
-The first is that the $\tau_2$ = 180ps data seems much more scattered than the other two datasets, which both follow a relatively clear increase in precision and accuracy as the lifetime separation increases. The second is that as $\tau_1$ decreases, PALSFIT seems better able to resolve the two lifetimes, with both the difference from the true value and the size of the error bars being the smallest when $\tau_1$ = 150ps.
-
-\pagebreak
-
-\section{Single Gaussian IRF}
-
-To investigate how the instrument resolution function affects the software, the three Gaussian resolution function in use so far can be simplified to a single Gaussian (refer to \dots). As a sanity check, we can compare how the program 
-performs with a single Gaussian resolution function versus the previous three Gaussian resolution function. Setting $\tau_1$ = 150ps, as this previously gave us the best results, we get the data in Figure \ref{fig:sing-210}. We can then compare this to Figure \ref{fig:150} and see that the single Gaussian resolution function produces remarkably similar results, demonstrating the single Gaussian approximation to be valid.
-
-\begin{figure}[p]
-    \centering
-    \caption{}
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/gauss210/150/output/t1.png}
-        \caption{fixed $\tau_1 = 150ps$}
-        \label{fig:sing-210-tau1}
-    \end{subfigure}
-    \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=.95\textwidth]{Batch 3/single Gaussian IRF/gauss210/150/output/t2.png}
-        \caption{$\tau_2$ difference}
-        \label{fig:sing-210-tau2}
-    \end{subfigure}
-    }
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/gauss210/150/output/2080.png}
-        \caption{$\tau_1 = 20\%, \tau_2 = 80\%$}
-        \label{fig:sing-210-2080}
-    \end{subfigure}
-    \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=.95\textwidth]{Batch 3/single Gaussian IRF/gauss210/150/output/5050.png}
-        \caption{$\tau_1 = 50\%, \tau_2 = 50\%$}
-        \label{fig:sing-210-5050}
-    \end{subfigure}
-    }
-    \begin{subfigure}{0.7\textwidth}
-        \centering
-        \includegraphics[width=.95\textwidth]{Batch 3/single Gaussian IRF/gauss210/150/output/8020.png}
-        \caption{$\tau_1 = 80\%, \tau_2 = 20\%$}
-        \label{fig:sing-210-8020}
-    \end{subfigure}
-    \label{fig:sing-210}
-\end{figure}
-
-With that established, spectra were generated and fitted for FWHM values of 220ps, 180ps, 150ps and 100ps, with $\tau_1$ set to 150ps and $\tau_2$ ranging from 180-230ps. In general, the trend we expect is the same increase in precision and accuracy with increasing $\tau_2$ that we see previously, but also an increase in both with narrower resolution functions. We would see this as multiple, separate, decreasing trendlines, ordered so that those corresponding to wider resolution functions were always higher. The results we get are shown in Figures \ref{fig:sing-t1-comp}-\ref{fig:sing-int-comp}, and we can analyse them in two parts.
-
-If we just look at the subfigures on the left ((a),(c) and (e) for each figure), which represent the difference between the fit and original data, we see that for the 20\%-80\% and 50\%-50\% data the data follows the expected trend. When the $\tau_1$ intensity is set to \%80, however, we notice that accuracy doesn't seem to follow the expected relationship with the width of the resolution function. In many cases we have an outright reversal of the predicted relationship and in each figure we have significant crossing between the trendlines.
-
-Looking at the subfigures on the right, representing the standard deviation of the fitting given by PALSFIT, we again see three outliers where the predicted relationship between precision and resolution function width is reversed, in Figures \ref{fig:sing-t2err-2080}, \ref{fig:sing-t2err-5050} and \ref{fig:sing-interr-2080}, though in the case of \ref{fig:sing-t2err-5050}, this reversed relationship quickly reverts to the expected one as $\tau_2$ increases.
-
-
-
-\begin{figure}[p]
-    \centering
-    \caption{$\tau_1$, rows = 20-80, 50-50, 80-20, columns = diff, std dev}    
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/t1-diff 2080.png}
-            \caption{}
-            \label{fig:sing-t1-2080}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/t1-err 2080.png}
-            \caption{}
-            \label{fig:sing-t1err-2080}
-        \end{subfigure}
-    }
-
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/t1-diff 5050.png}
-            \caption{}
-            \label{fig:sing-t1-5050}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/t1-err 5050.png}
-            \caption{}
-            \label{fig:sing-t1err-5050}
-        \end{subfigure}
-    }
-
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/t1-diff 8020.png}
-            \caption{}
-            \label{fig:sing-t1-8020}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/t1-err 8020.png}
-            \caption{}
-            \label{fig:sing-t1err-8020}
-        \end{subfigure}
-    }
-
-    \label{fig:sing-t1-comp}
-\end{figure}
-
-\begin{figure}[p]
-    \centering
-    \caption{$\tau_2$, rows = 20-80, 50-50, 80-20, columns = diff, std dev}
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/t2-diff 2080.png}
-            \caption{}
-            \label{fig:sing-t2-2080}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/t2-err 2080.png}
-            \caption{}
-            \label{fig:sing-t2err-2080}
-        \end{subfigure}
-    }
-
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/t2-diff 5050.png}
-            \caption{}
-            \label{fig:sing-t2-5050}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/t2-err 5050.png}
-            \caption{}
-            \label{fig:sing-t2err-5050}
-        \end{subfigure}
-    }
-
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/t2-diff 8020.png}
-            \caption{}
-            \label{fig:sing-t2-8020}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/t2-err 8020.png}
-            \caption{}
-            \label{fig:sing-t2err-8020}
-        \end{subfigure}
-    }
-    
-    \label{fig:sing-t2-comp}
-\end{figure}
-
-\begin{figure}[p]
-    \centering
-    \caption{intensities, rows = 20-80, 50-50, 80-20, columns = diff, std dev}
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/2080-diff i1.png}
-            \caption{}
-            \label{fig:sing-int-2080}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/2080-err i1.png}
-            \caption{}
-            \label{fig:sing-interr-2080}
-        \end{subfigure}
-    }
-
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/5050-diff i1.png}
-            \caption{}
-            \label{fig:sing-int-5050}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/5050-err i1.png}
-            \caption{}
-            \label{fig:sing-interr-5050}
-        \end{subfigure}
-    }
-
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/8020-diff i1.png}
-            \caption{}
-            \label{fig:sing-int-8020}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 3/single Gaussian IRF/8020-err i1.png}
-            \caption{}
-            \label{fig:sing-interr-8020}
-        \end{subfigure}
-    }
+\begin{minipage}{.9\linewidth}
      
-    \label{fig:sing-int-comp}
-\end{figure}
+    \includegraphics[width=0.6\linewidth]{Batch 3/regular IRF/tau1 220/output/plotfin/t2.png}
+    \captionof{figure}{$\tau_2$ (Fitted$-$Simulated), $\tau_1=220$ps}
+    \label{fig:220-t2-high}
+\end{minipage}
 
-\pagebreak
+\vspace{0.5cm}
+
+Figure \ref{fig:220-t2-high} also shows an overall trend that is present in the lifetime fits for both the $\tau_1=220$ps and 150ps data. In both datasets, PALSfit tends to underestimate the lifetime fits, converging to the simulated values from the bottom. This is in contrast to the 180ps data (see Figures \ref{fig:180-tau1} and \ref{fig:180-tau2}), where the fits converged from the top. Other than that, trends in lifetime separation and component intensity are observed to be similar to the first trial.
+
+Plots were generated to compare the three datasets, tracking both accuracy and precision. These can be found in Appendix \ref{comp-t1}. The odd bump in precision for the 80-20 spectrum mentioned earlier is clearly visible in the 80\%-20\% standard deviation plots (Figures \ref{fig:comp-t1err-8020}, \ref{fig:comp-t2err-8020} and \ref{fig:comp-Ierr-8020}). 
+
+Overall though, while there is variation between the plots, the general trend seems to be that a decrease in $\tau_1$ corresponds to an improvement of the fit, as can be seen in Figure \ref{fig:comp-t2-ex}. In addition, the standard deviations for the 180ps and 150ps data tend to be closer to each other than to the 220ps data, a trend that doesn't seem as present in the fitted variables.
+
+Comparing the two lifetime components, the fits for $\tau_2$ tend to be better overall than the $\tau_1$ fits. Looking at intensities, higher values for $I_1$ yields more accurate results, while standard deviation seems to be highest for the 50\%-50\% data.
+
+\vspace{0.5cm}
+
+\begin{minipage}{.9\linewidth}
+     
+    \includegraphics[width=0.6\linewidth]{Batch 3/regular IRF/t2-diff 5050.png}
+    \captionof{figure}{$\tau_2$ (Fitted$-$Simulated)}
+    \label{fig:comp-t2-ex}
+\end{minipage}
+
+\vspace{0.5cm}
+
+\section{Resolution function width}
+
+The aim of this trial was to investigate how the width of the resolution function affects the fit. While a narrower resolution function should result in a better fit, the idea was to quantify this improvement, as developing instrumentation that produce narrower resolution functions would require serious investment in time and resources.
+
+As controlling the width of the resolution function is easier for a single Gaussian IRF, using the procedure outlined in \ref{singlegauss}, a 1-Gaussian approximation to the resolution function used in the previous trial was found. This resolution function was used to generate a series of spectra with fixed $\tau_1=150$ps and $\tau_2=180$-230ps. The results of the fit can be found in Appendix \ref{1g}. This was compared against the $\tau_1=150$ps fit from the last trial. The difference between the results of the two fits was deemed negligible.
+
+Additional spectra were then generated and fitted using progressively narrower resolution functions, with FWHM = 180, 150 and 100. A comparison of the results is available in Appendix \ref{comp-irf}.
+
+At a glance, an interesting pattern seems to emerge, based on the relative intensity of the components. When the intensity ratio $I_1$-$I_2$ = 20\%-80\% or 50\%-50\%, the narrower resolution functions produce the most accurate results (as in Figure \ref{fig:irf-reverse2080}). However, when the $I_1$-$I_2$ = 80\%-20\%, this trend seems to reverse (see Figure \ref{fig:irf-reverse8020}).
+
+ 
+
+\begin{minipage}{.45\linewidth}
+    \includegraphics[width=.9\linewidth]{Batch 3/single Gaussian IRF/t2-diff 2080.png}
+    \captionof{figure}{$I_1$-$I_2$=20\%-80\%}
+    \label{fig:irf-reverse2080}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+    \includegraphics[width=.9\linewidth]{Batch 3/single Gaussian IRF/t2-diff 8020.png}
+    \captionof{figure}{$I_1$-$I_2$=80\%-20\%}
+    \label{fig:irf-reverse8020}
+\end{minipage}
+
+ 
+
+This reversal also occurs in some of the standard deviation plots, but the underlying pattern is less clear. The standard deviations do tend to quickly cluster together, though, as lifetime separation increases, indicating that the effect of the resolution function on the standard deviation is small.
+
+Paying attention to the numbers, the overall effect of narrowing the resolution function is mixed, with the biggest improvements seen when fitting $\tau_1$ with $I_1$-$I_2$ = 20\%-80\% (Appendix \ref{fig:compirf-t1-2080}), and when fitting the intensities (Appendix \ref{fig:compirf-I-2080} and \ref{fig:compirf-I-5050}).
 
 \section{Number of counts}
 
-Another variable worth examining is the total number of counts in a given spectrum. When generating spectra using PALSSIM, this is given as the area of the spectrum without the background and a separate background value. Both were kept constant in all previous runs, with the area set to $5.65 \times 10^6$ and the background value set to 8.5. Expectations are that a higher number of counts would make spectrum analysis easier. To test this hypothesis, spectra with generated for $\tau_1$ = 150ps, $\tau_2$ = 180-230ps and a 210ps FWHM single gaussian resolution function, tripling the background area to $1.7035 \times 10^7$.
+The goal of this trial is to examine how the total count number affects the fit. When generating spectra using PALSSIM, this is given as the area of the spectrum without the background and a separate background value. Both were kept constant in all previous trials, with the area set to $5.65 \times 10^6$ and the background value set to 8.5. Expectations were that a higher number of counts would make spectrum analysis easier. To test this hypothesis, spectra were generated with $\tau_1$ = 150ps, $\tau_2$ = 180-230ps and a 210ps FWHM single Gaussian resolution function, while tripling the background area to $1.7035 \times 10^7$. This allows for direct comparison with the data used in the previous trial, as a control.
 
-If we just increase the total area of the spectra and maintain the same background value as before, however, we inadvertently end up increasing the signal to noise ratio. While this would be desirable, in a practical setting an increase in total number of counts most likely corresponds to an increase in background noise. As such, spectra were also generated with both the tripled area and a proportional 3x increase in the background value (set to 25.5).
+Increasing the total area of the spectra and maintaining the same background value, however, increases the signal-to-noise ratio. As the easiest way to increase count number in practice is to increase experimental run-time, a more realistic scenario involves an equivalent increase in background noise. To model these, the same spectra were generated with both the tripled area and a proportional 3x increase in the background value (set to 25.5).
 
-The generated spectra were then analyzed with PALSFIT, and the results are summarized in Figures \ref{fig:bg-t1-comp}-\ref{fig:bg-int-comp}, with a "regular" run for comparison. The regular run is simply the one represented in Figure \ref{fig:sing-210}, which used the original, unaltered area and background value.
+The generated spectra were then fitted with PALSFIT, and the results are summarized in Appendix \ref{comp-count}. Overall, increasing the total number of counts seemed to improve both the accuracy and the precision of the fits. As expected, this improvement was diminished when the background noise level was raised to match the increased count. In most cases though, the fit with the tripled count and the scaled background noise was much closer to the tripled count without background scaling than it was to the control, especially as lifetime separation increased. An example of this can be seen in Figure \ref{fig:thegood}.
 
-Looking first at the standard deviations (subfigures (b), (d) and (f), on the right side of the page), we see that, as expected, the data from the regular run is in most cases significantly less precise than the other two runs. Additionally, the data with the proportionally scaled background value seems to be slightly less precise than its unscaled counterpart, though in many cases just barely so, if at all. Exceptions tend to occur, however, for the shortest lifetime separation, when $\tau_2$ is set to 180ps.
+ 
+\begin{minipage}{0.47\linewidth}
+    \includegraphics[width=\linewidth]{Batch 5/t1-diff 5050.png}
+    \captionof{figure}{$\tau_2$, $I_1$-$I_2$ = 50\%-50\%}
+    \label{fig:thegood}
+\end{minipage}
+\begin{minipage}{0.47\linewidth}
+    \includegraphics[width=\linewidth]{Batch 5/t1-diff 8020.png}
+    \captionof{figure}{$\tau_2$, $I_1$-$I_2$ = 80\%-20\%}
+    \label{fig:thebad}
+\end{minipage}
+ 
 
-Looking at the left side of the figures ((a), (c) and (e)), we see that for the most part the first trend seem to hold true, with the regular run being significantly less accurate than the other two. The exception to this seems to be when the relative $\tau_1$-$\tau_2$ intensity is 80\%-20\%, in which we often have a reversal of expectations, at times with some significant crossover of the relevant trendlines. While, at a glance, the normal and scaled background triple area runs are still for the most part relatively close, with the proportional background looking less accurate overall, this isn't as universally true as it is when looking at the standard deviation. Specifically in Figures \ref{fig:bg-t1-2080}, \ref{fig:bg-t2-2080} and \ref{fig:bg-int-2080}, when $\tau_1$ = 20\% and $\tau_2$ = 80\%, PALSFIT seems to have performed worse with the non-scaled background, at least for significant portions of the graphs.
+Like in the last trial, though, the $I_1$-$I_2$ = 80\%-20\% fits show a reversal of the trend, as can be seen in Figure \ref{fig:thebad}. Unlike the previous trial, the reversal is not present in the standard deviations.
 
-\begin{figure}[p]
-    \centering
-    \caption{$\tau_1$, rows = 20-80, 50-50, 80-20, columns = diff, std dev}    
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/t1-diff 2080.png}
-            \caption{}
-            \label{fig:bg-t1-2080}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/t1-err 2080.png}
-            \caption{}
-            \label{fig:bg-t1err-2080}
-        \end{subfigure}
-    }
 
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/t1-diff 5050.png}
-            \caption{}
-            \label{fig:bg-t1-5050}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/t1-err 5050.png}
-            \caption{}
-            \label{fig:bg-t1err-5050}
-        \end{subfigure}
-    }
+\section{Three lifetime components}
 
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/t1-diff 8020.png}
-            \caption{}
-            \label{fig:bg-t1-8020}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/t1-err 8020.png}
-            \caption{}
-            \label{fig:bg-t1err-8020}
-        \end{subfigure}
-    }
+The goal of this trial was to model three-lifetime spectra, based on three experimental samples. The first two lifetimes would be defect lifetimes and the third was much longer and weaker than the former, characteristic of Para-Ps. During simulation, the third lifetime was kept constant at 2.6ns and an intensity of 0.15\%. The sample lifetimes are given in Table \ref{tab:3life}. 
 
-    \label{fig:bg-t1-comp}
-\end{figure}
-
-\begin{figure}[p]
-    \centering
-    \caption{$\tau_2$, rows = 20-80, 50-50, 80-20, columns = diff, std dev}
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/t2-diff 2080.png}
-            \caption{}
-            \label{fig:bg-t2-2080}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/t2-err 2080.png}
-            \caption{}
-            \label{fig:bg-t2err-2080}
-        \end{subfigure}
-    }
-
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/t2-diff 5050.png}
-            \caption{}
-            \label{fig:bg-t2-5050}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/t2-err 5050.png}
-            \caption{}
-            \label{fig:bg-t2err-5050}
-        \end{subfigure}
-    }
-
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/t2-diff 8020.png}
-            \caption{}
-            \label{fig:bg-t2-8020}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/t2-err 8020.png}
-            \caption{}
-            \label{fig:bg-t2err-8020}
-        \end{subfigure}
-    }
-    
-    \label{fig:bg-t2-comp}
-\end{figure}
-
-\begin{figure}[p]
-    \centering
-    \caption{intensities, rows = 20-80, 50-50, 80-20, columns = diff, std dev}
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/2080-diff i1.png}
-            \caption{}
-            \label{fig:bg-int-2080}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/2080-err i1.png}
-            \caption{}
-            \label{fig:bg-interr-2080}
-        \end{subfigure}
-    }
-
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/5050-diff i1.png}
-            \caption{}
-            \label{fig:bg-int-5050}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/5050-err i1.png}
-            \caption{}
-            \label{fig:bg-interr-5050}
-        \end{subfigure}
-    }
-
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/8020-diff i1.png}
-            \caption{}
-            \label{fig:bg-int-8020}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 5/8020-err i1.png}
-            \caption{}
-            \label{fig:bg-interr-8020}
-        \end{subfigure}
-    }
+\vspace{0.5cm}
+\begin{minipage}{.35\linewidth}
      
-    \label{fig:bg-int-comp}
-\end{figure}
-
-\pagebreak
-
-
-\iffalse
-
-Using Python, we can plot the three gaussian functions that compose the instrument resolution function. The equation for a Gaussian function with parameters $a$, $b$ and $c$ (corresponding to the height of the peak, the position of the peak and the width of the graph) is given by the equation:
-
-\[g(x) = a\exp{\left(-\frac{(x-b)^2}{2c^2}\right)} \]
-
-While $a$ and $b$ map easily to the intensity and shift columns in Table \ref{tab:irf} ,  $c$ is expressed as a standard deviation, and not the full-half-width-maximum given in the table. To convert from one to the other, we can use the following expression:
-
-\[ FWHM = 2\sqrt{2\ln(2)} \approx 2.355c \]
-
-The resultant resolution function is, then, just the sum of the three gaussians $g_s(x)$, where
-
-\[g_s(x) = \sum_{i=1}^{3}{a_i \exp{\left(-\frac{(x-b)^2}{2c^2}\right)}}\]
-
-This resolution function looks quite similar to a gaussian function itself, and thus it seems sensible to investigate the feasability of approximating a more complex 3 gaussian resolution function, with a single gaussian.
-
-The intensity of the single gaussian approximation is the easiest parameter to determine, as it's simply 100\%. We could try to determine $b$ and $c$ analytically by solving the resulting $g_s(x)$ analytically, but, as we already have already generated a list of values for $g_s(x)$ when plotting the function, it's much easier to just extract the needed values numerically using Python.
-
-Finding $b$ is as easy as finding the largest element of the list, and its corresponding $x$ value. As PALSSIM requires the FWHM rather than the standard deviation $c$, we just need to find the difference between the two values of $x$ for which $g_s(x)$ is closest to half of the IRF.
-
-Doing so gives us the following values to insert into PALSSIM:
-
-\begin{table}[h]
-    \centering
+    \captionof{table}{Lifetimes}
     \begin{tabular}{|c|c|c|}
         \hline
-        FWHM (ps) &  Shift (ps) & Intensity (\%) \\
+        $\tau_1$(ps) & $\tau_2$(ps) & $\tau_3$(ns)\\
         \hline
-        210 & 0 & 100\\ 
-        \hline
-    \end{tabular}
-    \caption{Single gaussian Instrument resolution function}
-    \label{tab:irf-single}
-\end{table}
-
-Plugging in these values into PALSSIM gives us very similar results to the three gaussian IRF, with slight differences in the first datapoint for some of the graphs. Overall, though, it does seems like we can reasonably approximate a more complex, three gaussian IRF with a single gaussian.
-
-The next step would be to examine how the width of the instrument resolution function (IRF) affects the results. The values for $\tau_1$ and $\tau_2$ can be set to be kept the same between runs, with $\tau_1$ fixed to 150ps and $\tau_2$ ranging from 180-230ps, as we had the best results with these values. The full-width half maximum of our single gaussian IRF can be set to the following values: 100ps, 150ps, 180ps, 210ps.
-
-\fi
-
-
-\section{Realistic data}
-
-Analysis of real world data often differs from how we've conducted our analysis so far. One key factor is that usually the number of lifetimes present in a real life spectrum isn't known beforehand. As PALSFIT requires the user to input the number of fitted lifetimes, this might lead to situations in which the user predicts the wrong number of lifetimes, thus it might be useful to explore how the software behaves in such a situation.
-
-To do so, three materials (?) were modeled, with three lifetime components. All three have two shorter components that differed between them, and a long lifetime component set to 2.6ns with a 0.15\% intensity that was kept equal. The relative intensities of the two shorter lifetime components were adjusted to the following values:
-
-\begin{table}[h]
-    \centering
-    \begin{subtable}[t]{0.48\textwidth}
-        \flushleft
-        \begin{tabular}{|c|c|c|c|}
-            \hline
-            \multicolumn{2}{|c|}{relative} & \multicolumn{2}{|c|}{absolute} \\
-            \hline
-            $\tau_1$ & $\tau_2$ & $\tau_1$    & $\tau_2$   \\
-            \hline
-            99.5\% & 0.5\% & 99.3508\%*  &  0.4993\%* \\
-            90\%   & 10\% & 89.865\%    &  9.985\%   \\
-            80\%   & 20\% & 89.88\%     & 19.97\%    \\
-            50\%   & 50\% & 49.925\%    & 49.925\%   \\
-            20\%   & 80\% & 19.97\%     &  9.985\%   \\
-            \hline
-        \end{tabular}
-        \caption{intensities}
-    \end{subtable}
-
-    \hspace{\fill}
-
-    \begin{subtable}[t]{0.48\textwidth}
-        \begin{tabular}{|c|c|c|}
-            \hline
-            $\tau_1$(ps) & $\tau_2$(ps) & $\tau_3$(ns)\\
-            \hline
-            370 & 442 & 2.6 \\
-            355 & 444 & 2.6 \\
-            348 & 440 & 2.6 \\
-            \hline
-        \end{tabular}
-        \caption{lifetimes}
-    \end{subtable}
-\end{table}
-
-When a single lifetime is fitted, the resulting lifetime seems to tend towards a weighted average of the two shorter lifetimes, as can be seen in the following figures:
-
-Needs to be finished.
-
-\begin{figure}[p]
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 6/1-life/lifetime.png}
-            \caption{$\tau_1$ = 370, $\tau_2$ = 442}
-            \label{fig:1life_370}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 7/355-444/output/1 life/lifetime.png}
-            \caption{$\tau_1$ = 355, $\tau_2$ = 444}
-            \label{fig:1life-355}
-        \end{subfigure}
-    }
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 7/348-440/output/1 life/lifetime.png}
-            \caption{$\tau_1$ = 348, $\tau_2$ = 440}
-            \label{fig:1life_348}
-        \end{subfigure}
-    }
-    \label{fig:1life}
-    \caption{single lifetime fit} 
-\end{figure}
-
-\begin{figure}[p]
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 6/2-life/lifetimes.png}
-            \caption{$\tau_1$ = 370, $\tau_2$ = 442}
-            \label{fig:2life_370}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 7/355-444/output/2 life/lifetimes.png}
-            \caption{$\tau_1$ = 355, $\tau_2$ = 444}
-            \label{fig:2life-355}
-        \end{subfigure}
-    }
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 7/348-440/output/2 life/lifetimes.png}
-            \caption{$\tau_1$ = 348, $\tau_2$ = 440}
-            \label{fig:2life_348}
-        \end{subfigure}
-    }
-    \label{fig:2life}
-    \caption{two lifetime fit} 
-\end{figure}
-
-\begin{figure}[p]
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 6/3-life/lifetimes.png}
-            \caption{$\tau_1$ = 370, $\tau_2$ = 442}
-            \label{fig:3life_370}
-        \end{subfigure}
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 7/355-444/output/3 life/lifetimes.png}
-            \caption{$\tau_1$ = 355, $\tau_2$ = 444}
-            \label{fig:3life-355}
-        \end{subfigure}
-    }
-    \centering
-    \makebox[\linewidth][c]{
-        \begin{subfigure}{0.7\textwidth}
-            \centering
-            \includegraphics[width=0.95\linewidth]{Batch 7/348-440/output/3 life/lifetimes.png}
-            \caption{$\tau_1$ = 348, $\tau_2$ = 440}
-            \label{fig:3life_348}
-        \end{subfigure}
-    }
-    \label{fig:3life}
-    \caption{three lifetime fit} 
-\end{figure}
-
-\pagebreak
-
-\section{Using the STM to vary $\tau_1$:}
-
-Using STM, vacancy concentration rate was varied for a given value of defect lifetime $\tau_2$. This was done for $\tau_2 = 370,442$. Vacancy conc. rate was varied as such:
-
-\begin{table}[h]
-    \caption{Vacancy Conc.}
-    \centering
-    \begin{tabular}{|c|}
-        \hline
-        Conc. \\
-        \hline
-        1E15\\
-        2E15\\
-        4E15\\
-        6E15\\
-        8E15\\
-        1E16\\
-        2E16\\
-        4E16\\
-        6E16\\
-        8E16\\
-        1E17\\
-        2E17\\
-        4E17\\
-        6E17\\
-        8E17\\
-        1E18\\
+        370 & 442 & 2.6 \\
+        355 & 444 & 2.6 \\
+        348 & 440 & 2.6 \\
         \hline
     \end{tabular}
-    \label{tab:vac-conc}
-\end{table}
+    \label{tab:3life}
+\end{minipage}
+\hfill
+\begin{minipage}{.6\linewidth}
+     
+    \captionof{table}{Intensities}
+    \begin{tabular}{|c|c|c|c|}
+        \hline
+        \multicolumn{2}{|c|}{relative} & \multicolumn{2}{|c|}{absolute} \\
+        \hline
+        $I_1$ & $I_2$ & $I_1$    & $I_2$   \\
+        \hline
+        99.5\% & 0.5\% & 99.3508\%   &  0.4993\%  \\
+        90\%   & 10\%  & 89.865\%    &  9.985\%   \\
+        80\%   & 20\%  & 89.88\%     & 19.97\%    \\
+        50\%   & 50\%  & 49.925\%    & 49.925\%   \\
+        20\%   & 80\%  & 19.97\%     &  9.985\%   \\
+        \hline
+    \end{tabular}
+    \label{tab:relint}
+\end{minipage}
 
-Needs to be typed up
 
+The relative intensities between the first two lifetime components was varied, simulating different defect concentrations, as shown in Table \ref{tab:relint}. On the left side of the table are the relative intensities chosen. Due to the presence of the third component, the values for $I_1$ and $I_2$ had to be adjusted to those in the "absolute" column. To closer emulate the experimental process, each spectrum was fitted with one, two and then three components. The result of the fits can be found in Appendix \ref{3lifefits}.
+
+The one-lifetime fits are found to roughly follow the average lifetime $\tau_{av}$. An example can be seen in Figure \ref{fig:1lifeex}. Of note is that PALSfit returns very small error bars. 
+
+ 
+\begin{minipage}{.45\linewidth}
+     
+    \includegraphics[width=\linewidth]{Batch 7/348-440/output/1 life/lifetime.png}    
+    \captionof{figure}{One lifetime fit, $\tau_1=348$ps, $\tau_2=348$ps}
+    \label{fig:1lifeex}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+     
+    \includegraphics[width=\linewidth]{Batch 7/348-440/output/2 life/lifetimes.png}    
+    \captionof{figure}{Two lifetime fit, $\tau_1=348$ps, $\tau_2=348$ps}
+    \label{fig:2lifeex}
+\end{minipage}
+ 
+
+In the two-lifetime fits produced, the first component seems to follow $\tau_{av}$, and try to fit the Ps lifetime. This can be seen in Figure \ref{fig:2lifeex}. Looking at just the second component, we see that it trends closer to the simulated 2.6ns component as the difference between $I_1$ and $I_2$ grows. We can make sense of this physically as the three component spectrum trending closer to a two-component spectrum.
+
+The intensity for the first lifetime is near-100\% and the second is near-0\%, as can be seen in the appendix. The tiny error bars seen in the one-lifetime fit also make a return, in both the intensity and lifetime plots.
+
+ 
+\begin{minipage}{.45\linewidth}
+     
+    \includegraphics[width=\linewidth]{Batch 7/348-440/output/3 life/lifetimes.png}    
+    \captionof{figure}{Three lifetime fit, $\tau_1=348$ps, $\tau_2=348$ps}
+    \label{fig:3lifeex}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+     
+    \includegraphics[width=\linewidth]{Batch 7/348-440/output/3 life/intensities.png}    
+    \captionof{figure}{Intensities, three lifetime fit, $\tau_1=348$ps, $\tau_2=348$ps}
+    \label{fig:3intex}
+\end{minipage}
+ 
+
+Finally, when looking at the three-lifetime fits, such as the ones shown in Figures \ref{fig:3lifeex} and \ref{fig:3intex}, the error bars come back and the three fitted components follow their simulated lifetime and intensity values. Datapoints where the fit fails are characterized by either massive or miniscule error bars, and tend to be concentrated towards the extremes, with regards to intensity. 
+
+Additionally, the program seems to have a tendency to underestimate the third lifetime. Finally, as expected, the sample with the both the smallest lifetime separation and the longest first component ($\tau_1=370$ps and $\tau_1=370$ps) has the worst showing, overall.

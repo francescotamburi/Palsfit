@@ -2,11 +2,17 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-O = "#fe7611"
-G = "#19c513"
-B = "#1dadff"
-P = "#fb3efd"
-g = "#cdcd"
+O  = "#fe7611"
+G  = "#19c513"
+B  = "#1dadff"
+P  = "#fb3efd"
+g  = "#cdcd"
+dg = "#abab"
+
+
+plt.rcParams['text.usetex'] = True
+plt.rcParams['font.size'] = 12
+
 
 true_int = [
 	(19.97  ,  79.88),
@@ -45,6 +51,9 @@ weighted_avg = []
 for i in rel_int:
 	weighted_avg.append((i[0] * tau_1 + i[1] * tau_2)/100)
 
-plt.errorbar(df["Intensities"], weighted_avg, yerr=0, linestyle="none", marker = ".", color=g, capsize=10, fmt="none")
+plt.errorbar(df["Intensities"], weighted_avg, yerr=0, linestyle="none", marker = ".", color=dg, capsize=10, fmt="none", label="$\\tau_{av}$")
 
-plt.savefig("lifetime.png")
+plt.ylabel("Lifetime [ps]")
+plt.xlabel("$I_1$-$I_2$ [\\%]")
+plt.savefig("lifetime.png", bbox_inches="tight")
+plt.clf()
