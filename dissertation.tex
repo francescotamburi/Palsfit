@@ -1,5 +1,7 @@
 \documentclass[12pt,a4paper]{report}
 
+\listfiles
+
 \usepackage{titlesec}
 \titleformat{\section}
   {\normalfont\fontsize{12}{15}\bfseries}{\thesection}{1em}{}
@@ -139,10 +141,10 @@ singlelinecheck=false,labelfont=bf % <- important
 Physics}}
 \vskip 2.0truecm
 \setstretch{2.0}
-{\LARGE  {\bf Dissertation title}}
+{\LARGE  {\bf Analysis of PALS spectra using PALSfit}}
 
 \vskip 2.0truecm
-{\LARGE {Student's name}}
+{\LARGE {Francesco Tamburi}}
 
 \end{center}
 
@@ -185,7 +187,9 @@ Candidate’s signature: Francesco Tamburi \hspace{3cm} Date 13/04/2024
 \include{results}
 \include{discussion}
 
-
 \include{appendix}
+
+\bibliography{bibtex_referencelist}
+\addcontentsline{toc}{section}{References}
 
 \end{document}

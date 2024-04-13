@@ -40,3 +40,4 @@
 \contentsline {subsection}{\numberline {A.7.2}\boldmath $\tau _1=355, \tau _2=444$\unboldmath }{42}{subsection.A.7.2}%
 \contentsline {subsection}{\numberline {A.7.3}\boldmath $\tau _1=348, \tau _2=440$\unboldmath }{43}{subsection.A.7.3}%
 \contentsline {chapter}{\numberline {B}Code}{44}{appendix.B}%
+\contentsline {section}{References}{45}{appendix*.9}%
