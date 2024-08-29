@@ -1,5 +1,0 @@
-td: 
-- catch up dissy
-- figure captions underneath, table above
-- get figures to be closer together horizontally
-- 1/2 fwhm res func -> double time/ch
